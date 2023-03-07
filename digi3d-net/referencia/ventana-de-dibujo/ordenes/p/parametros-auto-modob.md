@@ -16,40 +16,40 @@ Este archivo se podrá crear con el Bloc de Notas, podrá tener un nombre a elec
 
 ### Ejemplo:
 
-```markup
-<automodob>
-        <code name="020123"
-                <subcode name="060140" smode="12"/>
-                 <subcode name="040124" smode="12"/>
-                 <subcode name="060126" smode="12"/>
-                 <subcode name="060142" smode="12"/>
-                 <subcode name="060522" smode="12"/>
-                 <subcode name="030225" smode="12"/>
-                 <subcode name="020123" smode="6"/>
-                 <subcode name="020124" smode="6"/>
-                 <subcode name="020126" smode="6"/>
-                 <subcode name="020127" smode="6"/>
-                 <subcode name="060151" smode="1"/>
-                 <subcode name="040523" smode="1"/>
-                 <subcode name="050146" smode="1"/>
-                 <subcode name="050151" smode="1"/>
-         </code>
-         <code name="020124">       
-                <subcode name="060140" smode="12"/>
-                 <subcode name="040124" smode="12"/>
-                 <subcode name="060126" smode="12"/>
-                 <subcode name="060142" smode="12"/>
-                 <subcode name="060522" smode="12"/>
-                 <subcode name="030225" smode="12"/>
-                 <subcode name="020123" smode="6"/>
-                 <subcode name="020124" smode="6"/>
-                 <subcode name="020126" smode="6"/>
-                 <subcode name="020127" smode="6"/>
-                 <subcode name="060151" smode="1"/>
-                 <subcode name="040523" smode="1"/>
-                 <subcode name="050146" smode="1"/>
-                 <subcode name="050151" smode="1"/>
-         </code>
+```xml
+<automodob xmlns="http://schemas.digi21.net/DigiNG/AutoSearch/v1.0">
+    <code name="020123">
+        <subcode name="060140" smode="12"/>
+        <subcode name="040124" smode="12"/>
+        <subcode name="060126" smode="12"/>
+        <subcode name="060142" smode="12"/>
+        <subcode name="060522" smode="12"/>
+        <subcode name="030225" smode="12"/>
+        <subcode name="020123" smode="6"/>
+        <subcode name="020124" smode="6"/>
+        <subcode name="020126" smode="6"/>
+        <subcode name="020127" smode="6"/>
+        <subcode name="060151" smode="1"/>
+        <subcode name="040523" smode="1"/>
+        <subcode name="050146" smode="1"/>
+        <subcode name="050151" smode="1"/>
+    </code>
+    <code name="020124">       
+        <subcode name="060140" smode="12"/>
+        <subcode name="040124" smode="12"/>
+        <subcode name="060126" smode="12"/>
+        <subcode name="060142" smode="12"/>
+        <subcode name="060522" smode="12"/>
+        <subcode name="030225" smode="12"/>
+        <subcode name="020123" smode="6"/>
+        <subcode name="020124" smode="6"/>
+        <subcode name="020126" smode="6"/>
+        <subcode name="020127" smode="6"/>
+        <subcode name="060151" smode="1"/>
+        <subcode name="040523" smode="1"/>
+        <subcode name="050146" smode="1"/>
+        <subcode name="050151" smode="1"/>
+    </code>
 </automodob>
 ```
 
