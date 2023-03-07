@@ -1,0 +1,10 @@
+[book]
+authors = ["José Ángel"]
+language = "es"
+multilingual = false
+src = "."
+title = "Ayuda de Digi21"
+
+[output.html.fold]
+enable = true    # whether or not to enable section folding
+level = 0         # the depth to start folding
