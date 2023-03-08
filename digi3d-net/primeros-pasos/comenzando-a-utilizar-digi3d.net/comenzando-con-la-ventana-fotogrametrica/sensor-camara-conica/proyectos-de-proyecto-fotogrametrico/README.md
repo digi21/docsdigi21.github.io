@@ -1,6 +1,6 @@
 # Proyectos de proyecto fotogramétrico
 
-Los archivos de proyecto de _proyecto fotogramétrico_ permiten que cambiemos rápidamente de modelo con tan solo un clic en el [Panel Proyecto fotogramétrico](https://github.com/digi21/docs/tree/7fc627c885c16fb88afc7cc05a6df2a2f4a54563/digi3d-net/primeros-pasos/comenzando-a-utilizar-digi3d.net/comenzando-con-la-ventana-fotogrametrica/sensor-camara-conica/proyectos-de-proyecto-fotogrametrico/PanelProyectoFotogrametrico.html).
+Los archivos de proyecto de _proyecto fotogramétrico_ permiten que cambiemos rápidamente de modelo con tan solo un clic en el [Panel Proyecto fotogramétrico](/digi3d-net/primeros-pasos/comenzando-a-utilizar-digi3d.net/comenzando-con-la-ventana-fotogrametrica/sensor-camara-conica/proyectos-de-proyecto-fotogrametrico/PanelProyectoFotogrametrico.html).
 
 Estos archivos tan solo informan del número de _pasadas_, o _tiras_, o _fajas_ que tiene el proyecto e indican de los pares estereoscópicos \(es decir, los archivos [.d3d](./)\) que tiene cada pasada.
 

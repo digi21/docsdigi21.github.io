@@ -14,7 +14,7 @@ Borra todas aquellas entidades que tengan un código igual al teclado por el usu
 
 La primera operación que hay que realizar es crear una entidad cerrada a modo de ventana.
 
-No se borrarán aquellos códigos que estén apagados \([OFF](https://github.com/digi21/docs/tree/7fc627c885c16fb88afc7cc05a6df2a2f4a54563/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/ordenes/b/OFF.html)\).
+No se borrarán aquellos códigos que estén apagados \([OFF](/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/ordenes/b/OFF.html)\).
 
 Ahora tendríamos que elegir los códigos que queremos borrar, para ello podemos utilizar una de estas opciones:
 

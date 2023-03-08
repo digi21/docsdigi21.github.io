@@ -1,6 +1,6 @@
 # FORZAR\_JT\_ACTIVA
 
-Si está activada, tanto en restitución como en edición, todas las entidades que genere cualquier orden como puedan ser [COPIAR](https://github.com/digi21/docs/tree/7fc627c885c16fb88afc7cc05a6df2a2f4a54563/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/variables/f/COPIAR.html), [COPIA2P](https://github.com/digi21/docs/tree/7fc627c885c16fb88afc7cc05a6df2a2f4a54563/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/variables/f/COPIA2P.html), [INS](https://github.com/digi21/docs/tree/7fc627c885c16fb88afc7cc05a6df2a2f4a54563/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/variables/f/INS.html), ... se guardarán con la _justificación de texto_ activa [JT](https://github.com/digi21/docs/tree/7fc627c885c16fb88afc7cc05a6df2a2f4a54563/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/variables/f/JT.html) en el momento de la ejecución de dichas órdenes.
+Si está activada, tanto en restitución como en edición, todas las entidades que genere cualquier orden como puedan ser [COPIAR](/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/variables/f/COPIAR.html), [COPIA2P](/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/variables/f/COPIA2P.html), [INS](/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/variables/f/INS.html), ... se guardarán con la _justificación de texto_ activa [JT](/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/variables/f/JT.html) en el momento de la ejecución de dichas órdenes.
 
 ## Parámetros
 
@@ -42,7 +42,7 @@ Antes de ejecutar la orden, tienes que definir el valor de la _justificación de
 | Opción del menú donde aparece la orden | _Esta orden no tiene asociada ninguna opción del menú_ |
 | Barra de herramientas en la que aparece la orden | _Esta orden no tiene asociado ningún botón en ninguna barra de herramientas_ |
 | Extensión | DigiNG.OrdenesStandard.dll |
-| Variables relacionadas | [JT](https://github.com/digi21/docs/tree/7fc627c885c16fb88afc7cc05a6df2a2f4a54563/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/variables/f/JT.html), [REPITE](https://github.com/digi21/docs/tree/7fc627c885c16fb88afc7cc05a6df2a2f4a54563/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/variables/f/REPITE.html) |
+| Variables relacionadas | [JT](/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/variables/f/JT.html), [REPITE](/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/variables/f/REPITE.html) |
 
 ## Vídeo
 

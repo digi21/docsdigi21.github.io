@@ -32,7 +32,7 @@ Activa y desactiva la visualización en pantalla de los patrones de línea en el
 
 ## Observaciones
 
-Cuanto está activado, DigiNG utiliza la información del fichero [DIGI.TAB](https://github.com/digi21/docs/tree/7fc627c885c16fb88afc7cc05a6df2a2f4a54563/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/variables/p/DIGI.TAB.html) para visualizar las líneas con la simbología de ploteo.
+Cuanto está activado, DigiNG utiliza la información del fichero [DIGI.TAB](/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/variables/p/DIGI.TAB.html) para visualizar las líneas con la simbología de ploteo.
 
 ## Características de la orden
 

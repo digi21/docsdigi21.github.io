@@ -1,6 +1,6 @@
 # COD\_SIN\_ORDEN
 
-Realiza las mismas funciones que la orden [COD](https://github.com/digi21/docs/tree/7fc627c885c16fb88afc7cc05a6df2a2f4a54563/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/ordenes/c/COD.html), pero no ejecuta la orden especificada en la tabla de códigos para el código seleccionado.
+Realiza las mismas funciones que la orden [COD](/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/ordenes/c/COD.html), pero no ejecuta la orden especificada en la tabla de códigos para el código seleccionado.
 
 ## Parámetros
 

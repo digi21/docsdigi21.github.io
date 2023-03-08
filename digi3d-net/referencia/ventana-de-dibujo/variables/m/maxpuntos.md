@@ -20,9 +20,9 @@ Muestra el valor actual del número máximo de puntos
 
 ## Observaciones
 
-Cuando la entidad alcance el número máximo de puntos fijado por la orden _MAXPUNTOS_, la entidad se terminará automáticamente o se cerrará si está activada la orden [C](https://github.com/digi21/docs/tree/7fc627c885c16fb88afc7cc05a6df2a2f4a54563/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/variables/m/C.html).
+Cuando la entidad alcance el número máximo de puntos fijado por la orden _MAXPUNTOS_, la entidad se terminará automáticamente o se cerrará si está activada la orden [C](/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/variables/m/C.html).
 
-Esta orden se desactiva cuando se camiba el código o cuando se introduce como número de puntos máximo igual a cero \(0\). Se puede cambiar el número de puntos máximo mediante la orden [CAMB\_MAXPUNTOS](https://github.com/digi21/docs/tree/7fc627c885c16fb88afc7cc05a6df2a2f4a54563/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/variables/m/CAMB_MAXPUNTOS.html).
+Esta orden se desactiva cuando se camiba el código o cuando se introduce como número de puntos máximo igual a cero \(0\). Se puede cambiar el número de puntos máximo mediante la orden [CAMB\_MAXPUNTOS](/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/variables/m/CAMB_MAXPUNTOS.html).
 
 ## Características de la orden
 

@@ -16,7 +16,7 @@ Todas las entidades representadas tendrán 100 como valor de Z
 
 ## Observaciones
 
-En el caso de que se quiera activar la visualización en la pantalla de visión estereoscópica, se pueden emplear las órdenes [OND](https://github.com/digi21/docs/tree/7fc627c885c16fb88afc7cc05a6df2a2f4a54563/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/ordenes/o/OND.html) u [ONS](https://github.com/digi21/docs/tree/7fc627c885c16fb88afc7cc05a6df2a2f4a54563/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/ordenes/o/ONS.html).
+En el caso de que se quiera activar la visualización en la pantalla de visión estereoscópica, se pueden emplear las órdenes [OND](/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/ordenes/o/OND.html) u [ONS](/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/ordenes/o/ONS.html).
 
 Podemos especificar el tipo de entidad a mostrar, para cada uno de los códigos: Líneas, Puntos ó Textos.
 

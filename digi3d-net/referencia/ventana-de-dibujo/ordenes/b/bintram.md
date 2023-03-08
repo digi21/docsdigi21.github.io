@@ -71,7 +71,7 @@ En el lado derecho parecerán los códigos de los símbolos de error que se van 
 
 Resultados del proceso BINTRAM:
 
-La orden BINTRAM ayudará al usuario a detectar y corregir errores mediante el archivo de errores de formato BIN y la salida de resultados en la [Ventana de Tareas](https://github.com/digi21/docs/tree/7fc627c885c16fb88afc7cc05a6df2a2f4a54563/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/ordenes/b/VentanaTareas.html) y la [Ventana de Resultados](https://github.com/digi21/docs/tree/7fc627c885c16fb88afc7cc05a6df2a2f4a54563/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/ordenes/b/VentanaResultados.html).
+La orden BINTRAM ayudará al usuario a detectar y corregir errores mediante el archivo de errores de formato BIN y la salida de resultados en la [Ventana de Tareas](/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/ordenes/b/VentanaTareas.html) y la [Ventana de Resultados](/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/ordenes/b/VentanaResultados.html).
 
 Ventana de Tareas:
 

@@ -1,6 +1,6 @@
 # ERR
 
-Teniendo el fichero gráfico generado con los programas [BINTRAM](https://github.com/digi21/docs/tree/7fc627c885c16fb88afc7cc05a6df2a2f4a54563/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/ordenes/e/BINTRAM.html) o [BINTOP](https://github.com/digi21/docs/tree/7fc627c885c16fb88afc7cc05a6df2a2f4a54563/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/ordenes/e/BINTOP.html), cargado como referencia sobre el archivo de trabajo, podremos visualizar los errores encontrados por cualquiera de los programas anteriormente citados.
+Teniendo el fichero gráfico generado con los programas [BINTRAM](/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/ordenes/e/BINTRAM.html) o [BINTOP](/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/ordenes/e/BINTOP.html), cargado como referencia sobre el archivo de trabajo, podremos visualizar los errores encontrados por cualquiera de los programas anteriormente citados.
 
 ## Parámetros
 

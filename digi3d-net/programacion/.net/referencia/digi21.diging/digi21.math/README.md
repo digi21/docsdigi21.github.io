@@ -19,7 +19,7 @@ Proporciona tipos relacionados con matemáticas.
 
 * [IDesplazable](interfaces/idesplazable/)
 * [IWindow3D](interfaces/iwindow3d/)
-* [IWindow2D](https://github.com/digi21/docs/tree/7fc627c885c16fb88afc7cc05a6df2a2f4a54563/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.math/iwindow2d/README.md)
+* [IWindow2D](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.math/iwindow2d/README.md)
 
 ## Enumeraciones
 

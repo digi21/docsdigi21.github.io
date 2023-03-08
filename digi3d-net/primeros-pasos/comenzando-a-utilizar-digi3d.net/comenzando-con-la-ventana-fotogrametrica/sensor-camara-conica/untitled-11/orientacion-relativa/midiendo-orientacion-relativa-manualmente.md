@@ -6,7 +6,7 @@ Los puntos donde se mide la orientación relativa no son al azar, siguen el esqu
 
 Como Digi3D.NET dispone de algoritmos de [correlación](midiendo-orientacion-relativa-manualmente.md) es posible que los puntos homólogos se localicen automáticamente y que tan solo tengamos que aceptar las medidas que va realizando automáticamente Digi3D.NET por nosotros.
 
-Es necesario que finalices los pasos de [Orientación interna](https://github.com/digi21/docs/tree/7fc627c885c16fb88afc7cc05a6df2a2f4a54563/digi3d-net/primeros-pasos/comenzando-a-utilizar-digi3d.net/comenzando-con-la-ventana-fotogrametrica/sensor-camara-conica/untitled-11/orientacion-relativa/OrientacionInterna.html) antes de ejecutar los siguientes pasos para realizar la orientación relativa manual:
+Es necesario que finalices los pasos de [Orientación interna](/digi3d-net/primeros-pasos/comenzando-a-utilizar-digi3d.net/comenzando-con-la-ventana-fotogrametrica/sensor-camara-conica/untitled-11/orientacion-relativa/OrientacionInterna.html) antes de ejecutar los siguientes pasos para realizar la orientación relativa manual:
 
 1. Pulsa el botón **R** de la barra de herramientas de la ventana fotogramétrica.
 2. Comprueba que en la barra de mensajes aparece una barra de progreso indicando que se está calculando el recubrimiento de las imágenes.

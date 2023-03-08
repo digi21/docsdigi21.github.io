@@ -30,7 +30,7 @@ OFF=020123
 
 ## Observaciones
 
-En el caso de que se quiera activar la visualización en la pantalla de visión estereoscópica, se pueden emplear las órdenes [OFFD](https://github.com/digi21/docs/tree/7fc627c885c16fb88afc7cc05a6df2a2f4a54563/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/ordenes/o/OFFD.html) u [OFFS](https://github.com/digi21/docs/tree/7fc627c885c16fb88afc7cc05a6df2a2f4a54563/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/ordenes/o/OFFS.html).
+En el caso de que se quiera activar la visualización en la pantalla de visión estereoscópica, se pueden emplear las órdenes [OFFD](/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/ordenes/o/OFFD.html) u [OFFS](/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/ordenes/o/OFFS.html).
 
 Podemos especificar el tipo de entidad a mostrar, para cada uno de los códigos: Líneas, Puntos ó Textos.
 

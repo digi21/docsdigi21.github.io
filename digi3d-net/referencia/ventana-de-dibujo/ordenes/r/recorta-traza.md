@@ -1,6 +1,6 @@
 # RECORTA\_TRAZA
 
-Crea una serie de hojas al estilo de la orden [HOJA](https://github.com/digi21/docs/tree/7fc627c885c16fb88afc7cc05a6df2a2f4a54563/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/ordenes/r/HOJA.html) a partir de los polígonos generados con la orden [TRAZA](https://github.com/digi21/docs/tree/7fc627c885c16fb88afc7cc05a6df2a2f4a54563/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/ordenes/r/TRAZA.html).
+Crea una serie de hojas al estilo de la orden [HOJA](/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/ordenes/r/HOJA.html) a partir de los polígonos generados con la orden [TRAZA](/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/ordenes/r/TRAZA.html).
 
 ## Parámetros
 

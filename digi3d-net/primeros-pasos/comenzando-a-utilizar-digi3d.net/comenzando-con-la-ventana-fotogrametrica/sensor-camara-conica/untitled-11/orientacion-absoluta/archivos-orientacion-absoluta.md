@@ -8,7 +8,7 @@ También se crea una carpeta denominada **Aerotriangulación** donde se han crea
 
 También se crea una carpeta denominada **Instantáneas** con una captura de pantalla de cada uno de los puntos que has medido. Se crean dos instantáneas por cada punto, una de cada imagen. Puedes crear un efecto de _stop motion_ y visualizarlas en 2.5 dimensiones si las cargas y cambias rápidamente de una a otra.
 
-Es necesario que finalices los pasos de [Midiendo la primera orientación absoluta de un proyecto](https://github.com/digi21/docs/tree/7fc627c885c16fb88afc7cc05a6df2a2f4a54563/digi3d-net/primeros-pasos/comenzando-a-utilizar-digi3d.net/comenzando-con-la-ventana-fotogrametrica/sensor-camara-conica/untitled-11/orientacion-absoluta/MidiendoLaPrimeraOrientacionAbsolutaDeUnProyecto.html) antes de ejecutar los siguientes pasos para comprobar los archivos que se han generado:
+Es necesario que finalices los pasos de [Midiendo la primera orientación absoluta de un proyecto](/digi3d-net/primeros-pasos/comenzando-a-utilizar-digi3d.net/comenzando-con-la-ventana-fotogrametrica/sensor-camara-conica/untitled-11/orientacion-absoluta/MidiendoLaPrimeraOrientacionAbsolutaDeUnProyecto.html) antes de ejecutar los siguientes pasos para comprobar los archivos que se han generado:
 
 1. Abre un **Explorador de archivos** \(puedes hacerlo pulsando la combinación de teclas **Windows + E**\).
 2. Localiza la ubicación del proyecto de **Bronchales**.
