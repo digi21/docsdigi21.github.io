@@ -34,5 +34,7 @@ Puedes revisar todos los tiques de soporte técnico que has creado.
 
 ## Vídeo
 
-![](https://digi21.blob.core.windows.net/videos-ayuda/Portal%20de%20soporte%20tecnico%20Digi21.mp4)
+<video controls>
+    <source src="https://digi21.blob.core.windows.net/videos-ayuda/Portal%20de%20soporte%20tecnico%20Digi21.mp4" type="video/mp4">
+</video>
 

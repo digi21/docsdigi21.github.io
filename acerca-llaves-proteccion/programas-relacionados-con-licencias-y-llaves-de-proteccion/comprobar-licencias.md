@@ -21,5 +21,7 @@ A continuación, te mostramos los campos que puede mostrar el programa y la cond
 
 ## Vídeo
 
-![](https://digi21.blob.core.windows.net/videos-ayuda/Comprobar%20licencias.mp4)
+<video controls>
+    <source src="https://digi21.blob.core.windows.net/videos-ayuda/Comprobar%20licencias.mp4" type="video/mp4">
+</video>
 

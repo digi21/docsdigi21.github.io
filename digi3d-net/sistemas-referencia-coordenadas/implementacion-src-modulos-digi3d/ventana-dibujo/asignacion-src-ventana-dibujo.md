@@ -8,4 +8,6 @@ Una vez creada la ventana de dibujo **\*\*no** se puede cambiar\*\* su sistema d
 
 ## Vídeo
 
-![](https://digi21.blob.core.windows.net/videos-ayuda/Especificando%20el%20SRC%20de%20la%20ventana%20de%20dibujo.mp4)
+<video controls>
+    <source src="https://digi21.blob.core.windows.net/videos-ayuda/Especificando%20el%20SRC%20de%20la%20ventana%20de%20dibujo.mp4" type="video/mp4">
+</video>

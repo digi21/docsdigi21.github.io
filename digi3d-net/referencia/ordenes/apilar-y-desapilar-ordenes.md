@@ -10,4 +10,6 @@ Si se está ejecutando una orden y antes de finalizarla ejecutamos otra, la segu
 
 ## Vídeo
 
-![](https://digi21.blob.core.windows.net/videos-ayuda/apilar_desapilar_ordenes.mp4)
+<video controls>
+    <source src="https://digi21.blob.core.windows.net/videos-ayuda/apilar_desapilar_ordenes.mp4" type="video/mp4">
+</video>

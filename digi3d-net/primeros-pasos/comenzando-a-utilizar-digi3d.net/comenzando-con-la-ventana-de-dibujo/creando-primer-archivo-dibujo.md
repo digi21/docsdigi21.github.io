@@ -23,5 +23,7 @@ Sigue los siguientes pasos para crear tu primer **Archivo de dibujo**:
 
 ## Vídeo
 
-![](https://digi21.blob.core.windows.net/videos-ayuda/Creando%20nuestro%20primer%20archivo%20de%20dibujo.mp4" caption=")
+<video controls>
+    <source src="https://digi21.blob.core.windows.net/videos-ayuda/Creando%20nuestro%20primer%20archivo%20de%20dibujo.mp4" type="video/mp4">
+</video>
 

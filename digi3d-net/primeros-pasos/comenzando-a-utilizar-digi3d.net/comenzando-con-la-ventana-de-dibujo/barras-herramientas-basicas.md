@@ -10,5 +10,7 @@ Si necesitas activar cualquier otra Barra de herramientas, el procedimiento es e
 
 ## Vídeo
 
-![](https://digi21.blob.core.windows.net/videos-ayuda/Presentacion%20de%20las%20barras%20de%20herramientas%20basicas.mp4" caption=")
+<video controls>
+    <source src="https://digi21.blob.core.windows.net/videos-ayuda/Presentacion%20de%20las%20barras%20de%20herramientas%20basicas.mp4" type="video/mp4">
+</video>
 

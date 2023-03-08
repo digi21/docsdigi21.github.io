@@ -15,5 +15,7 @@ Para ver distintos ejemplos sigue estos pasos:
 
 ## Vídeo
 
-![](https://digi21.blob.core.windows.net/videos-ayuda/El%20patron%20tambien%20afecta%20a%20las%20lineas.mp4" caption=")
+<video controls>
+    <source src="https://digi21.blob.core.windows.net/videos-ayuda/El%20patron%20tambien%20afecta%20a%20las%20lineas.mp4" type="video/mp4">
+</video>
 

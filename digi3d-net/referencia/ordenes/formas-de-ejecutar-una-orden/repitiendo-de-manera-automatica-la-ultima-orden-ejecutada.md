@@ -4,4 +4,6 @@ Si tenemos configurada la variable [REPITE](../../ventana-de-dibujo/variables/r/
 
 ## Vídeo
 
-![](https://digi21.blob.core.windows.net/videos-ayuda/repitiendo_ultimo_comando.mp4)
+<video controls>
+    <source src="https://digi21.blob.core.windows.net/videos-ayuda/repitiendo_ultimo_comando.mp4" type="video/mp4">
+</video>

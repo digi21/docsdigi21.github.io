@@ -23,5 +23,7 @@ Sigue los siguientes pasos para activar un ordenador en una determinada llave de
 
 ## Vídeo
 
-![](https://digi21.blob.core.windows.net/videos-ayuda/Activar%20ordenador.mp4)
+<video controls>
+    <source src="https://digi21.blob.core.windows.net/videos-ayuda/Activar%20ordenador.mp4" type="video/mp4">
+</video>
 

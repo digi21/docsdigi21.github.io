@@ -28,5 +28,7 @@ La orden solicitará que se [introduzcan ](../../introduccion-de-coordenadas.md)
 
 ## Vídeo
 
-![](https://digi21.blob.core.windows.net/videos-ayuda/1TEXTO.mp4" caption=")
+<video controls>
+    <source src="https://digi21.blob.core.windows.net/videos-ayuda/1TEXTO.mp4" type="video/mp4">
+</video>
 

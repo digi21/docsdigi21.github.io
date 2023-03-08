@@ -25,5 +25,7 @@ También será necesario que configures en Digi3D.NET el archivo de teclas propo
 
 ## Vídeo
 
-![](https://digi21.blob.core.windows.net/videos-ayuda/Configurando%20Digi3D.NET%20para%20seguir%20el%20curso%20de%20introduccion.mp4" caption=")
+<video controls>
+    <source src="https://digi21.blob.core.windows.net/videos-ayuda/Configurando%20Digi3D.NET%20para%20seguir%20el%20curso%20de%20introduccion.mp4" type="video/mp4">
+</video>
 

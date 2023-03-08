@@ -9,5 +9,7 @@ Al pulsar este botón el programa realiza las siguientes tareas:
 5. Genera un archivo .LAS con la información de distancias.
 6. Carga el archivo .LAS para mostrarlo en la ventana de visualización.
 
-![](https://digi21.blob.core.windows.net/videos-ayuda/EscanearLOPCC.mp4)
+<video controls>
+    <source src="https://digi21.blob.core.windows.net/videos-ayuda/EscanearLOPCC.mp4" type="video/mp4">
+</video>
 Escaneando

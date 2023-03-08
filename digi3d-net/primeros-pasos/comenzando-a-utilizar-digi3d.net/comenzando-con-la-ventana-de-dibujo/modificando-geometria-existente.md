@@ -15,5 +15,7 @@ Diferencia entre el botón [Modifica una polilínea existente](https://github.co
 
 ## Vídeo
 
-![](https://digi21.blob.core.windows.net/videos-ayuda/Modificando%20una%20polilinea%20existente.mp4" caption=")
+<video controls>
+    <source src="https://digi21.blob.core.windows.net/videos-ayuda/Modificando%20una%20polilinea%20existente.mp4" type="video/mp4">
+</video>
 

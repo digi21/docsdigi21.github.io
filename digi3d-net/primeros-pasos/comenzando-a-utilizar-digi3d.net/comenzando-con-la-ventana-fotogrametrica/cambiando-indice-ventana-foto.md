@@ -31,5 +31,7 @@ Comprobarás que Digi3D cambia el tipo de índice. El índice varía siguiendo u
 
 ## Vídeo
 
-![](https://digi21.blob.core.windows.net/videos-ayuda/Cambiando%20el%20tipo%20de%20indice%20en%20la%20ventana%20fotogrametrica.mp4" caption=")
+<video controls>
+    <source src="https://digi21.blob.core.windows.net/videos-ayuda/Cambiando%20el%20tipo%20de%20indice%20en%20la%20ventana%20fotogrametrica.mp4" type="video/mp4">
+</video>
 

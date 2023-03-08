@@ -12,5 +12,7 @@ Es necesario que finalices los pasos de [Creando un proyecto fotogramétrico par
 
 ## Vídeo
 
-![](https://digi21.blob.core.windows.net/videos-ayuda/Archivos%20de%20cambio%20rapido%20de%20modelos.mp4" caption=")
+<video controls>
+    <source src="https://digi21.blob.core.windows.net/videos-ayuda/Archivos%20de%20cambio%20rapido%20de%20modelos.mp4" type="video/mp4">
+</video>
 

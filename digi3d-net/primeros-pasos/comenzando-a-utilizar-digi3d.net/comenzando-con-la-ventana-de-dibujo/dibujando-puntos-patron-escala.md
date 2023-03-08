@@ -62,5 +62,7 @@ El valor de la **Escala**, afecta únicamente a la representación, no afecta al
 
 ## Vídeo
 
-![](https://digi21.blob.core.windows.net/videos-ayuda/Dibujando%20puntos%20y%20activacion%20de%20patron%20y%20funcion%20del%20parametro%20escala.mp4" caption=")
+<video controls>
+    <source src="https://digi21.blob.core.windows.net/videos-ayuda/Dibujando%20puntos%20y%20activacion%20de%20patron%20y%20funcion%20del%20parametro%20escala.mp4" type="video/mp4">
+</video>
 

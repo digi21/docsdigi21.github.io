@@ -22,5 +22,7 @@ Otra forma de **cambiar el código** de una entidad es la siguiente:
 
 ## Vídeo
 
-![](https://digi21.blob.core.windows.net/videos-ayuda/Cambiando%20el%20codigo%20de%20una%20entidad%20existente.mp4" caption=")
+<video controls>
+    <source src="https://digi21.blob.core.windows.net/videos-ayuda/Cambiando%20el%20codigo%20de%20una%20entidad%20existente.mp4" type="video/mp4">
+</video>
 

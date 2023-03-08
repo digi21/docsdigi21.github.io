@@ -20,5 +20,7 @@ Es necesario que finalices los pasos de [Archivos de orientación relativa](http
 
 ## Vídeo
 
-![](https://digi21.blob.core.windows.net/videos-ayuda/Midiendo%20la%20orientacion%20relativa%20automaticamente.mp4" caption=")
+<video controls>
+    <source src="https://digi21.blob.core.windows.net/videos-ayuda/Midiendo%20la%20orientacion%20relativa%20automaticamente.mp4" type="video/mp4">
+</video>
 

@@ -10,4 +10,6 @@ Los sistemas desconocidos tienen el inconveniente de que al ser desconocidos **n
 
 ## Vídeo
 
-![](https://digi21.blob.core.windows.net/videos-ayuda/SCR%20de%20la%20ventana%20foto%20conocido%20y%20de%20la%20ventana%20de%20dibujo%20desconocido.mp4)
+<video controls>
+    <source src="https://digi21.blob.core.windows.net/videos-ayuda/SCR%20de%20la%20ventana%20foto%20conocido%20y%20de%20la%20ventana%20de%20dibujo%20desconocido.mp4" type="video/mp4">
+</video>

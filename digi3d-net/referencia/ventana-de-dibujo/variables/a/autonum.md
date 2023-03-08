@@ -29,7 +29,9 @@ Si queremos volver a comenzar desde el número 1 por ejemplo, cuando la orden _T
 
 ## Vídeo
 
-![](https://digi21.blob.core.windows.net/videos-ayuda/AUTONUM.mp4" caption=")
+<video controls>
+    <source src="https://digi21.blob.core.windows.net/videos-ayuda/AUTONUM.mp4" type="video/mp4">
+</video>
 
 ## Características de la orden
 

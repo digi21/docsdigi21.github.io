@@ -20,5 +20,7 @@ No forma parte del ámbito de este manual explicarte el manejo de tu programa de
 
 ## Vídeo
 
-![](https://digi21.blob.core.windows.net/videos-ayuda/Preparando%20los%20archivos%20.f%20para%20un%20programa%20de%20calculo.mp4" caption=")
+<video controls>
+    <source src="https://digi21.blob.core.windows.net/videos-ayuda/Preparando%20los%20archivos%20.f%20para%20un%20programa%20de%20calculo.mp4" type="video/mp4">
+</video>
 

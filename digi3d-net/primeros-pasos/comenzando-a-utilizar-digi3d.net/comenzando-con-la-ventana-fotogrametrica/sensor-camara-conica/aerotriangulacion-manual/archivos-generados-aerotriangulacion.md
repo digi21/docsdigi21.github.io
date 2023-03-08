@@ -14,5 +14,7 @@ Es necesario que finalices los pasos de [Midiendo la aerotriangulación del mode
 
 ## Vídeo
 
-![](https://digi21.blob.core.windows.net/videos-ayuda/Archivos%20generados%20al%20medir%20una%20aerotriangulacion.mp4" caption=")
+<video controls>
+    <source src="https://digi21.blob.core.windows.net/videos-ayuda/Archivos%20generados%20al%20medir%20una%20aerotriangulacion.mp4" type="video/mp4">
+</video>
 

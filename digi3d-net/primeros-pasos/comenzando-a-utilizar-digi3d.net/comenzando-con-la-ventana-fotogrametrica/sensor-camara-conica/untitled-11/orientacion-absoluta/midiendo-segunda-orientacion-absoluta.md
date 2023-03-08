@@ -46,5 +46,7 @@ Y a continuación una tabla con los puntos a medir en mayor detalle \(y por orde
 
 ## Vídeo
 
-![](https://digi21.blob.core.windows.net/videos-ayuda/Orientacion%20absoluta%20del%20segundo%20modelo.mp4" caption=")
+<video controls>
+    <source src="https://digi21.blob.core.windows.net/videos-ayuda/Orientacion%20absoluta%20del%20segundo%20modelo.mp4" type="video/mp4">
+</video>
 

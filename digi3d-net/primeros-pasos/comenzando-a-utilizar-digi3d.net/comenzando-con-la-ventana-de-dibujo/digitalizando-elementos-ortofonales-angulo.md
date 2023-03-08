@@ -23,5 +23,7 @@ Aprende a **digitalizar elementos ortogonales a una alineación determinada** si
 
 ## Vídeo
 
-![](https://digi21.blob.core.windows.net/videos-ayuda/Digitalizando%20elementos%20ortogonales%20a%20un%20angulo%20determinado.mp4" caption=")
+<video controls>
+    <source src="https://digi21.blob.core.windows.net/videos-ayuda/Digitalizando%20elementos%20ortogonales%20a%20un%20angulo%20determinado.mp4" type="video/mp4">
+</video>
 

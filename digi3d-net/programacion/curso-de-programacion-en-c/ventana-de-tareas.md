@@ -1,6 +1,8 @@
 # Ventana de tareas
 
-![](https://digi21.blob.core.windows.net/videos-ayuda/desarrollo/15.%20Ventana%20de%20tareas.mp4)
+<video controls>
+    <source src="https://digi21.blob.core.windows.net/videos-ayuda/desarrollo/15.%20Ventana%20de%20tareas.mp4" type="video/mp4">
+</video>
 
 
 

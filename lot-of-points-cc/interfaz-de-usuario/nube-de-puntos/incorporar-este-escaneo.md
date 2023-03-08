@@ -4,4 +4,6 @@ Al pulsar el botón Incorporar este escaneo se añadirán los puntos de este esc
 
 Este es un proceso que requiere tiempo de procesamiento, de manera que el programa muestra un panel en el que va mostrando el proceso.
 
-![](https://digi21.blob.core.windows.net/videos-ayuda/IncorporarEscaneoLOPCC.mp4)
+<video controls>
+    <source src="https://digi21.blob.core.windows.net/videos-ayuda/IncorporarEscaneoLOPCC.mp4" type="video/mp4">
+</video>

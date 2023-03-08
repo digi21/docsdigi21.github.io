@@ -15,4 +15,6 @@ Las órdenes que se ejecutarán dependerán de si el código activo tiene asigna
 
 ## Vídeo
 
-![](https://digi21.blob.core.windows.net/videos-ayuda/ejecutando_ordenes_manera_automatica.mp4)
+<video controls>
+    <source src="https://digi21.blob.core.windows.net/videos-ayuda/ejecutando_ordenes_manera_automatica.mp4" type="video/mp4">
+</video>

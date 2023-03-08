@@ -18,5 +18,7 @@ El botón **Deshacer**, solamente te permite deshacer las últimas entidades que
 
 ## Vídeo
 
-![](https://digi21.blob.core.windows.net/videos-ayuda/Eliminando%20la%20ultima%20entidad%20digitalizada%20en%20el%20archivo%20de%20dibujo.mp4" caption=")
+<video controls>
+    <source src="https://digi21.blob.core.windows.net/videos-ayuda/Eliminando%20la%20ultima%20entidad%20digitalizada%20en%20el%20archivo%20de%20dibujo.mp4" type="video/mp4">
+</video>
 

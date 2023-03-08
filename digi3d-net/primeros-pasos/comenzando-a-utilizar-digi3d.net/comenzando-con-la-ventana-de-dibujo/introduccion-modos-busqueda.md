@@ -63,5 +63,7 @@ Modo de búsqueda **20. Busca el vértice con coordenada Z mayor en XY**: Este m
 
 ## Vídeo
 
-![](https://digi21.blob.core.windows.net/videos-ayuda/Introduccion%20a%20los%20modos%20de%20busqueda.mp4" caption=")
+<video controls>
+    <source src="https://digi21.blob.core.windows.net/videos-ayuda/Introduccion%20a%20los%20modos%20de%20busqueda.mp4" type="video/mp4">
+</video>
 

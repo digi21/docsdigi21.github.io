@@ -27,5 +27,7 @@ Si introduces un único vértice y pulsas el [botón de cancelar](dibujando-prim
 
 ## Video
 
-![](https://digi21.blob.core.windows.net/videos-ayuda/Dibujando%20nuestras%20primeras%20lineas.mp4" caption=")
+<video controls>
+    <source src="https://digi21.blob.core.windows.net/videos-ayuda/Dibujando%20nuestras%20primeras%20lineas.mp4" type="video/mp4">
+</video>
 

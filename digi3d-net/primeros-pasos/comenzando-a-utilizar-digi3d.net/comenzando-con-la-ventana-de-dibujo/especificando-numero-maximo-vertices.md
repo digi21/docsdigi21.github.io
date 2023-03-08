@@ -47,5 +47,7 @@ La orden código deshabilita automáticamente la variable número máximo de pun
 
 ## Vídeo
 
-![](https://digi21.blob.core.windows.net/videos-ayuda/Especificando%20el%20numero%20maximo%20de%20vertices%20en%20una%20polilinea.mp4" caption=")
+<video controls>
+    <source src="https://digi21.blob.core.windows.net/videos-ayuda/Especificando%20el%20numero%20maximo%20de%20vertices%20en%20una%20polilinea.mp4" type="video/mp4">
+</video>
 

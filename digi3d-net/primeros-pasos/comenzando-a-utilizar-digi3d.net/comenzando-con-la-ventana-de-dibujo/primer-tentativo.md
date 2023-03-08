@@ -22,5 +22,7 @@ Repite el proceso anterior utilizando el **tentativo** o **snap**, para ello sig
 
 ## Vídeo
 
-![](https://digi21.blob.core.windows.net/videos-ayuda/Nuestro%20primer%20tentativo.mp4" caption=")
+<video controls>
+    <source src="https://digi21.blob.core.windows.net/videos-ayuda/Nuestro%20primer%20tentativo.mp4" type="video/mp4">
+</video>
 

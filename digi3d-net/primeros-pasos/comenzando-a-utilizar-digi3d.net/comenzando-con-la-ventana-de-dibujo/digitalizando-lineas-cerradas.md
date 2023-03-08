@@ -14,5 +14,7 @@ También puedes cerrar entidades lineales, siguiendo los siguientes pasos:
 
 ## Vídeo
 
-![](https://digi21.blob.core.windows.net/videos-ayuda/Digitalizando%20lineas%20cerradas.mp4" caption=")
+<video controls>
+    <source src="https://digi21.blob.core.windows.net/videos-ayuda/Digitalizando%20lineas%20cerradas.mp4" type="video/mp4">
+</video>
 

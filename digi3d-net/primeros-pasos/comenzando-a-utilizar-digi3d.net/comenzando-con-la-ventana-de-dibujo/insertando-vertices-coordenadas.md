@@ -11,5 +11,7 @@ Para ver todas las posibilidades que tiene la orden XY, pulsa [aquí](https://gi
 
 ## Vídeo
 
-![](https://digi21.blob.core.windows.net/videos-ayuda/Insertando%20vertices%20en%20coordenadas%20conocidas.mp4" caption=")
+<video controls>
+    <source src="https://digi21.blob.core.windows.net/videos-ayuda/Insertando%20vertices%20en%20coordenadas%20conocidas.mp4" type="video/mp4">
+</video>
 

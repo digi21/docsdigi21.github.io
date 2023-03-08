@@ -25,5 +25,7 @@ Vamos a desplazar la cámara 10 unidades en la coordenada **X**.
 
 ## Vídeo
 
-![](https://digi21.blob.core.windows.net/videos-ayuda/Desplazando%20la%20ventana%20fotogrametrica%20a%20unas%20coordenadas%20conocidas.mp4" caption=")
+<video controls>
+    <source src="https://digi21.blob.core.windows.net/videos-ayuda/Desplazando%20la%20ventana%20fotogrametrica%20a%20unas%20coordenadas%20conocidas.mp4" type="video/mp4">
+</video>
 

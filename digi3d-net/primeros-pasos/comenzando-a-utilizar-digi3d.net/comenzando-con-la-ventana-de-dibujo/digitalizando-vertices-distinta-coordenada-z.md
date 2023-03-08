@@ -44,5 +44,7 @@ Al seleccionar el primer botón de la Barra de herramientas coordenada Z, se act
 
 ## Vídeo
 
-![](https://digi21.blob.core.windows.net/videos-ayuda/Digitalizando%20vertices%20con%20distinta%20coordenada%20Z.mp4" caption=")
+<video controls>
+    <source src="https://digi21.blob.core.windows.net/videos-ayuda/Digitalizando%20vertices%20con%20distinta%20coordenada%20Z.mp4" type="video/mp4">
+</video>
 

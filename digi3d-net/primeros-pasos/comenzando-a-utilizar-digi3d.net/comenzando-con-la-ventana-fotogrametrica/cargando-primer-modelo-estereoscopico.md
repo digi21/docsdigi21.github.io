@@ -19,5 +19,7 @@ Se abrirá una ventana con título 126-127.d3d con las imágenes indicadas. La i
 
 ## Vídeo
 
-![](https://digi21.blob.core.windows.net/videos-ayuda/Cargando%20el%20primer%20modelo%20fotogrametrico.mp4" caption=")
+<video controls>
+    <source src="https://digi21.blob.core.windows.net/videos-ayuda/Cargando%20el%20primer%20modelo%20fotogrametrico.mp4" type="video/mp4">
+</video>
 

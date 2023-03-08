@@ -35,5 +35,7 @@ Es necesario que finalices los pasos de [Creando un proyecto fotogramétrico par
 
 ## Vídeo
 
-![](https://digi21.blob.core.windows.net/videos-ayuda/Creando%20%20orientaciones%20internas%20y%20relativas%20automaticas%20mediante%20CRM.mp4" caption=")
+<video controls>
+    <source src="https://digi21.blob.core.windows.net/videos-ayuda/Creando%20%20orientaciones%20internas%20y%20relativas%20automaticas%20mediante%20CRM.mp4" type="video/mp4">
+</video>
 

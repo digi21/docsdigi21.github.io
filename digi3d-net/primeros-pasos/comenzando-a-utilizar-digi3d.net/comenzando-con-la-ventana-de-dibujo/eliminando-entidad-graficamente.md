@@ -24,5 +24,7 @@ Cancela la selección de una entidad siguiendo los siguientes pasos:
 
 ## Vídeo
 
-![](https://digi21.blob.core.windows.net/videos-ayuda/Eliminando%20una%20determinada%20entidad%20y%20nuestra%20primera%20seleccion.mp4" caption=")
+<video controls>
+    <source src="https://digi21.blob.core.windows.net/videos-ayuda/Eliminando%20una%20determinada%20entidad%20y%20nuestra%20primera%20seleccion.mp4" type="video/mp4">
+</video>
 

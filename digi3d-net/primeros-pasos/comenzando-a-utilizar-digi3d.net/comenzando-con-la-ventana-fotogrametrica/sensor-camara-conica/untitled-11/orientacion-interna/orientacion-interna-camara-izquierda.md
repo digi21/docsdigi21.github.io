@@ -24,5 +24,7 @@ Comenzaremos realizando la orientación interna de la imagen izquieda y continua
 
 ## Vídeo
 
-![](https://digi21.blob.core.windows.net/videos-ayuda/Orientacion%20interna%20de%20la%20camara%20izquierda.mp4" caption=")
+<video controls>
+    <source src="https://digi21.blob.core.windows.net/videos-ayuda/Orientacion%20interna%20de%20la%20camara%20izquierda.mp4" type="video/mp4">
+</video>
 

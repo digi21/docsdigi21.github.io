@@ -21,5 +21,7 @@ Indicar al tentativo que siga buscando cuando estas utilizando modos de búsqued
 
 ## Vídeo
 
-![](https://digi21.blob.core.windows.net/videos-ayuda/Indicar%20al%20tentativo%20que%20siga%20buscando.mp4" caption=")
+<video controls>
+    <source src="https://digi21.blob.core.windows.net/videos-ayuda/Indicar%20al%20tentativo%20que%20siga%20buscando.mp4" type="video/mp4">
+</video>
 

@@ -20,5 +20,7 @@ Puedes comenzar a digitalizar la polilínea con la opción [ORTO](https://github
 
 ## Vídeo
 
-![](https://digi21.blob.core.windows.net/videos-ayuda/Digitalizando%20segmentos%20ortogonales%20al%20ultimo%20segmento%20de%20la%20polilinea%20que%20estamos%20digitalizando.mp4" caption=")
+<video controls>
+    <source src="https://digi21.blob.core.windows.net/videos-ayuda/Digitalizando%20segmentos%20ortogonales%20al%20ultimo%20segmento%20de%20la%20polilinea%20que%20estamos%20digitalizando.mp4" type="video/mp4">
+</video>
 

@@ -14,7 +14,9 @@ Si está activada la variable booleana **C**, al finalizar la línea con el bot�
 
 ## Vídeo
 
-![](https://digi21.blob.core.windows.net/videos-ayuda/C.mp4" caption=")
+<video controls>
+    <source src="https://digi21.blob.core.windows.net/videos-ayuda/C.mp4" type="video/mp4">
+</video>
 
 ## Características de la orden
 

@@ -17,4 +17,6 @@ Uno de los inconvenientes de tener deshabilitada la variable Verificar es que lo
 
 ## Vídeo
 
-![](https://digi21.blob.core.windows.net/videos-ayuda/Deshabilitando%20la%20verificacion%20de%20tentativo.mp4)
+<video controls>
+    <source src="https://digi21.blob.core.windows.net/videos-ayuda/Deshabilitando%20la%20verificacion%20de%20tentativo.mp4" type="video/mp4">
+</video>

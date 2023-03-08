@@ -41,5 +41,7 @@ Para poder continuar es necesario que sigas los pasos de [Midiendo automáticame
 
 ## Vídeo
 
-![](https://digi21.blob.core.windows.net/videos-ayuda/Midiendo%20la%20aerotriangulacion%20del%20modelo%20107-108.mp4" caption=")
+<video controls>
+    <source src="https://digi21.blob.core.windows.net/videos-ayuda/Midiendo%20la%20aerotriangulacion%20del%20modelo%20107-108.mp4" type="video/mp4">
+</video>
 

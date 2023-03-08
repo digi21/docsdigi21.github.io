@@ -10,5 +10,7 @@ Aprende a **cerrar polilíneas existentes** siguiendo los siguientes pasos:
 
 ## Vídeo
 
-![](https://digi21.blob.core.windows.net/videos-ayuda/Cerrando%20polilineas%20existentes.mp4" caption=")
+<video controls>
+    <source src="https://digi21.blob.core.windows.net/videos-ayuda/Cerrando%20polilineas%20existentes.mp4" type="video/mp4">
+</video>
 

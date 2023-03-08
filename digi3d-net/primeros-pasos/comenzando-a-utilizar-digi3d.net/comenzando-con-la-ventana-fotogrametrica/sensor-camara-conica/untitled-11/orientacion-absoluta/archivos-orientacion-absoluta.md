@@ -18,5 +18,7 @@ Es necesario que finalices los pasos de [Midiendo la primera orientación absolu
 
 ## Vídeo
 
-![](https://digi21.blob.core.windows.net/videos-ayuda/Archivos%20de%20orientacion%20absoluta.mp4" caption=")
+<video controls>
+    <source src="https://digi21.blob.core.windows.net/videos-ayuda/Archivos%20de%20orientacion%20absoluta.mp4" type="video/mp4">
+</video>
 
