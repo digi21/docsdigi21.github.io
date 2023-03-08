@@ -1,6 +1,6 @@
 # Proyecto fotogramétrico
 
-![Panel proyecto fotogram&#xE9;trico](../../../.gitbook/assets/panelproyectofotogrametrico.png)
+![Panel proyecto fotogramétrico](../../../../.gitbook/assets/PanelProyectoFotogrametrico.PNG)
 
 Permite crear archivos de proyecto fotogramétrico, así como cargar archivos de proyectos fotogramétricos creados por otros programas.
 
@@ -25,4 +25,3 @@ Se puede mostrar el panel de las siguientes formas:
 
 * Pulsando el botón correspondiente en la [barra de herramientas Paneles](../barras-de-herramientas/paneles.md).
 * Mediante la opción del menú **Ventana/Proyecto fotogramétrico**.
-

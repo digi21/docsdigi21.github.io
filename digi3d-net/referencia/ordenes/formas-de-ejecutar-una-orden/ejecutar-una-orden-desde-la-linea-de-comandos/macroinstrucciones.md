@@ -14,11 +14,11 @@ Al analizar la línea de comandos el programa detectará que el comando comienza
 
 El programa ejecutará todas las órdenes almacenadas en la macroinstrucción una por una.
 
-### Localización de la macroinstrucción
+## Localización de la macroinstrucción
 
 El programa intentará localizar la macroinstrucción siguiendo el siguiente orden:
 
-* En el [listado de macroinstrucciones](../../../editor-de-tablas-de-codigos/pestanas/macroinstrucciones.md) que tenga la tabla de códigos activa.
+* En el [listado de macroinstrucciones](../../../../editor-de-tablas-de-codigos/pestanas/macroinstrucciones.md) que tenga la tabla de códigos activa.
 * En un archivo de texto cuyo nombre sea _@\[nombre de la macroinstrucción\]_ en el directorio actual de Windows.
 * En un archivo de texto cuyo nombre sea _@\[nombre de la macroinstrucción\]_ en el directorio donde está ubicado el archivo de dibujo.
 * En un archivo de texto cuyo nombre sea _@\[nombre de la macroinstrucción\]_ en el directorio de Macroinstrucciones
@@ -26,6 +26,4 @@ El programa intentará localizar la macroinstrucción siguiendo el siguiente ord
 * En un archivo de texto cuyo nombre sea _@\[nombre de la macroinstrucción\]_ en el directorio del programa.
 
 > Si creas un archivo de macroinstrucciones con el bloc de notas, asegúrate después de quitarle la extensión .txt o si no tendrás que ejecutar la macroinstrucción con la extensión como, por ejemplo: @curvas.txt
-
-
 

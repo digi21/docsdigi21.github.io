@@ -1,6 +1,6 @@
 # Configuración de teclados virtuales
 
-![Cuadro de dialogo Configuraci&#xF3;n de teclados virtuales](../../../.gitbook/assets/configuraciontecladosvirtuales.png)
+![Cuadro de dialogo Configuración de teclados virtuales](../../../../.gitbook/assets/ConfiguracionTecladosVirtuales.PNG)
 
 Este cuadro de diálogo te permite indicar la ubicación de los archivos de configuración de teclas.
 
@@ -17,12 +17,9 @@ Para abrir este cuadro de diálogo selecciona la opción del menú **Herramienta
 
 ## Observaciones
 
-Al abrir una ventana de dibujo o una ventana fotogramétrica se cargarán en memoria todos los archivos de configuración de teclas que indiques en este cuadro de diálogo \(y que tengan marcado el botón de chequeo que aparece a la izquierda de la ruta del archivo de configuración de teclas\).
+Al abrir una ventana de dibujo o una ventana fotogramétrica se cargarán en memoria todos los archivos de configuración de teclas que indiques en este cuadro de diálogo (y que tengan marcado el botón de chequeo que aparece a la izquierda de la ruta del archivo de configuración de teclas).
 
 En caso de tener cargado más de un archivo de configuración de teclas, puedes cambiar de uno a otro mediante:
 
-* La orden [CAMBIA\_TECLAS\_MNU](../ventana-de-dibujo/ordenes/c/cambia-teclas-mnu.md).
+* La orden [CAMBIA_TECLAS_MNU](../ventana-de-dibujo/ordenes/c/cambia-teclas-mnu.md).
 * El desplegable de la [Barra de herramientas Teclados](../barras-de-herramientas/teclados.md).
-
-
-

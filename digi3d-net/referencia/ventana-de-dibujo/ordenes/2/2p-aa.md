@@ -1,4 +1,4 @@
-# 2P\_AA
+# 2P_AA
 
 Dibuja un rectángulo girado.
 
@@ -14,17 +14,14 @@ El rectángulo se dibujará con el [ángulo activo](../../variables/a/aa.md) con
 
 ## Características de la orden
 
-| Tipo de orden | [Orden interactiva](../../../ordenes/ordenes-interactivas.md) |
-| :--- | :--- |
-| Repite automáticamente | Si |
-| Opción del menú donde aparece la orden | Dibujar/Mas/Rectángulo con dos puntos y ángulo activo |
-| Barra de herramientas en la que aparece la orden | Cuadrados y rectángulos |
-| Extensión | DigiNG.OrdenesRaster.dll |
-| Variables relacionadas | [AA](../../variables/a/aa.md), [REPITE](../../variables/r/repite.md) |
+| Tipo de orden                                    | [Orden interactiva](../../../ordenes/ordenes-interactivas.md)        |
+| ------------------------------------------------ | -------------------------------------------------------------------- |
+| Repite automáticamente                           | Si                                                                   |
+| Opción del menú donde aparece la orden           | Dibujar/Mas/Rectángulo con dos puntos y ángulo activo                |
+| Barra de herramientas en la que aparece la orden | Cuadrados y rectángulos                                              |
+| Extensión                                        | DigiNG.OrdenesRaster.dll                                             |
+| Variables relacionadas                           | [AA](../../variables/a/aa.md), [REPITE](../../variables/r/repite.md) |
 
 ## Vídeo
 
-![](https://digi21.blob.core.windows.net/videos-ayuda/2P\_AA.mp4)
-
-
-
+![](https://digi21.blob.core.windows.net/videos-ayuda/2P_AA.mp4)

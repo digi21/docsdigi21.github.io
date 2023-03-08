@@ -1,6 +1,6 @@
 # Código
 
-![Barra de herramientas c&#xF3;digo](../../../.gitbook/assets/codigo.png)
+![Barra de herramientas código](../../../../.gitbook/assets/Codigo.PNG)
 
 Permite ejecutar órdenes relacionadas con los códigos.
 
@@ -11,4 +11,3 @@ Este panel se habilita únicamente si seleccionamos la opción **Barra de herram
 * Desplegable que permite seleccionar el código activo.
 * Botón que ejecuta la orden [COD](../ventana-de-dibujo/ordenes/c/cod.md).
 * Botón que ejecuta la orden [CLONAR](../ventana-de-dibujo/ordenes/c/clonar.md).
-

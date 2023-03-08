@@ -1,17 +1,17 @@
 # Tareas
 
-![Panel de tareas](../../../.gitbook/assets/paneltareas.png)
+![Panel de tareas](../../../../.gitbook/assets/PanelTareas.PNG)
 
-Este panel muestra tareas \(habitualmente errores\) generadas por órdenes que son capaces de generar tareas, como por ejemplo la orden [DETECTAR\_LINEAS\_NO\_CONECTADAS](../ventana-de-dibujo/ordenes/d/detectar-bucles.md).
+Este panel muestra tareas (habitualmente errores) generadas por órdenes que son capaces de generar tareas, como por ejemplo la orden [DETECTAR_LINEAS_NO_CONECTADAS](../ventana-de-dibujo/ordenes/d/detectar-bucles.md).
 
 Las tareas se muestran en el contenido principal del panel con cuatro columnas:
 
-| Columna | Descripción |
-| :--- | :--- |
-| Tipo | Muestra un icono indicando si la tarea es un Error, una Advertencia o un Mensaje. |
-| Descripción | Descripción del error/advertencia/mensaje. |
-| Archivo | Archivo al que pertenece la geometría que ha desencadenado que se genere la tarea. |
-| Módulo | Extensión de Digi3D.NET que implementa la orden que ha generado la tarea. |
+| Columna     | Descripción                                                                        |
+| ----------- | ---------------------------------------------------------------------------------- |
+| Tipo        | Muestra un icono indicando si la tarea es un Error, una Advertencia o un Mensaje.  |
+| Descripción | Descripción del error/advertencia/mensaje.                                         |
+| Archivo     | Archivo al que pertenece la geometría que ha desencadenado que se genere la tarea. |
+| Módulo      | Extensión de Digi3D.NET que implementa la orden que ha generado la tarea.          |
 
 Estas columnas son ordenables, de manera que, si pulsamos sobre el título de una columna, se ordenará por dicha columna o ascendente o descendentemente, en función del número de veces que pulsamos el título de la columna.
 
@@ -40,11 +40,6 @@ Se puede mostrar el panel de las siguientes formas:
 
 ## Órdenes relacionadas
 
-* Orden [BORRAR\_TAREAS](../ventana-de-dibujo/ordenes/b/borrar-tareas.md).
-* Orden [CARGAR\_TAREAS](../ventana-de-dibujo/ordenes/c/cargar-tareas.md).
-* Orden [GUARDAR\_TAREAS](../ventana-de-dibujo/ordenes/g/guardar-tareas.md).
-
-
-
-
-
+* Orden [BORRAR_TAREAS](../ventana-de-dibujo/ordenes/b/borrar-tareas.md).
+* Orden [CARGAR_TAREAS](../ventana-de-dibujo/ordenes/c/cargar-tareas.md).
+* Orden [GUARDAR_TAREAS](../ventana-de-dibujo/ordenes/g/guardar-tareas.md).

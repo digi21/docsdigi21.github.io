@@ -1,17 +1,12 @@
 # Modifica
 
-![Barra de herramientas Modifica](../../../.gitbook/assets/modifica.png)
+![Barra de herramientas Modifica](../../../../.gitbook/assets/Modifica.PNG)
 
 Permite ejecutar órdenes relacionadas con la modificación de geometrías existentes.
 
 ## Botones
 
 * Botón que ejecuta la orden [MOD](../ventana-de-dibujo/ordenes/m/mod.md).
-* Botón que ejecuta la orden [MOD\_Z](../ventana-de-dibujo/ordenes/m/mod-z.md).
-* Botón que ejecuta la orden [MOD\_MULTIPLE](../ventana-de-dibujo/ordenes/m/mod-multiple.md).
-* Botón que ejecuta la orden [MOD\_Z\_MULTIPLE](../ventana-de-dibujo/ordenes/m/mod-z-multiple.md).
-
-
-
-
-
+* Botón que ejecuta la orden [MOD_Z](../ventana-de-dibujo/ordenes/m/mod-z.md).
+* Botón que ejecuta la orden [MOD_MULTIPLE](../ventana-de-dibujo/ordenes/m/mod-multiple.md).
+* Botón que ejecuta la orden [MOD_Z_MULTIPLE](../ventana-de-dibujo/ordenes/m/mod-z-multiple.md).

@@ -1,26 +1,22 @@
 # GUARDAR\_TAREAS
 
-Guarda en un documento independiente las tareas que se muestran en la ventana de tareas en el momento de la ejecución.
+Guarda en un archivo XML las tareas del panel de tareas.
 
 ## Parámetros
 
-No admite parámetros.
 
-## Observaciones
 
-No se han registrado observaciones para esta orden.
+| 1 | Ruta del archivo a crear. Si no se especifica, el programa mostrará un cuadro de diálogo para que el usuario especifique la ruta del archivo a crear. | Cadena de caracteres. | Si |
+| - | ----------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | -- |
+
+
 
 ## Características de la orden
 
-| Tipo de orden | [Orden inmediata]() |
-| :--- | :--- |
-| Repite automáticamente | No |
-| Opción del menú donde aparece la orden | Ventana/Tareas/Guardar archivo de tareas \(xml\) |
+| Tipo de orden                                    | [Orden inmediata](guardar-tareas.md)                                         |
+| ------------------------------------------------ | ---------------------------------------------------------------------------- |
+| Repite automáticamente                           | No                                                                           |
+| Opción del menú donde aparece la orden           | Ventana/Tareas/Guardar archivo de tareas (xml)                               |
 | Barra de herramientas en la que aparece la orden | _Esta orden no tiene asociado ningún botón en ninguna barra de herramientas_ |
-| Extensión | DigiNG.OrdenesStandard.dll |
-| Variables relacionadas | No tiene variables relacionadas |
-
-## Vídeo
-
-Vea también
-
+| Extensión                                        | DigiNG.OrdenesStandard.dll                                                   |
+| Variables relacionadas                           | No tiene variables relacionadas                                              |

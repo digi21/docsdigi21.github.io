@@ -1,6 +1,6 @@
 # Circunferencias
 
-![Barra de herramientas Circunferencias](../../../.gitbook/assets/circunferencias.png)
+![Barra de herramientas Circunferencias](../../../../.gitbook/assets/circunferencias.PNG)
 
 Permite ejecutar órdenes relacionadas con circunferencias.
 
@@ -9,8 +9,3 @@ Permite ejecutar órdenes relacionadas con circunferencias.
 * Botón que ejecuta la orden [CIR2P](../ventana-de-dibujo/ordenes/c/cir2p.md).
 * Botón que ejecuta la orden [CIR3P](../ventana-de-dibujo/ordenes/c/cir3p.md).
 * Botón que ejecuta la orden [CIRCR](../ventana-de-dibujo/ordenes/c/circr.md).
-
-
-
-
-

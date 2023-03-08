@@ -1,6 +1,6 @@
 # Coordenadas
 
-![Barra de herramientas Coordenadas](../../../.gitbook/assets/coordenadas.png)
+![Barra de herramientas Coordenadas](../../../../.gitbook/assets/Coordenadas.PNG)
 
 Permite realizar tareas relacionadas con las coordenadas X, Y.
 
@@ -12,4 +12,3 @@ Permite realizar tareas relacionadas con las coordenadas X, Y.
 * Botón que ejecuta la orden [MIDE](../ventana-de-dibujo/ordenes/m/mide.md).
 * Botón que ejecuta la orden [MIDE+](../ventana-de-dibujo/ordenes/m/mide-mas.md).
 * Botón que ejecuta la orden [AGREGA](../ventana-de-dibujo/ordenes/a/agrega.md).
-

@@ -17,7 +17,7 @@ FIJAXY=1
 
 ## Vídeo
 
-![](https://digi21.blob.core.windows.net/videos-ayuda/FIJAXY.mp4)
+![](https://digi21.blob.core.windows.net/videos-ayuda/FIJAXY.mp4" caption=")
 
 ## Características de la orden
 

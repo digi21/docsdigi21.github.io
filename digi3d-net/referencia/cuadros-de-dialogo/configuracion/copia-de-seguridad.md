@@ -8,13 +8,13 @@ Configura el nombre del archivo a generar cada vez que se genere una copia de se
 
 Este campo admite que introduzcamos [macros](../../macros.md), de manera que podemos hacer que cada copia de seguridad se almacene en un archivo distinto si incorporamos por ejemplo en el nombre de la copia de seguridad algún valor que cambie con el tiempo, como por ejemplo la hora.
 
-Por ejemplo: Si queremos que las copias de seguridad se generen en el mismo directorio que el archivo de dibujo, pero con el nombre **Copia de seguridad de \(nombre del archivo\) con fecha \(fecha actual\) a las \(hora actual\).\(extensión del archivo\)**, introduciremos el siguiente valor en este campo:
+Por ejemplo: Si queremos que las copias de seguridad se generen en el mismo directorio que el archivo de dibujo, pero con el nombre **Copia de seguridad de (nombre del archivo) con fecha (fecha actual) a las (hora actual).(extensión del archivo)**, introduciremos el siguiente valor en este campo:
 
-```text
+```
 $(RutaArchivoDibujo)Copia de seguridad de $(NombreArchivoDibujo) con fecha $(FechaSubrayados) a las $(HoraCompletaSubrayados)$(ExtensionArchivoDibujo)
 ```
 
-## Generar copia de seguridad cada \(minutos\)
+## Generar copia de seguridad cada (minutos)
 
 Permite configurar si el programa va a generar automáticamente una copia de seguridad cuando transcurran los minutos indicados en este parámetro.
 
@@ -37,4 +37,3 @@ Permite indicar al programa si se debe hacer una copia de seguridad automáticam
 Permite configurar el nombre del archivo a generar en caso de que se realice una copia de seguridad automáticamente al ejecutar la orden _COMPRIMIR_.
 
 Este campo, al igual que el campo [**Destino de copias de seguridad**](copia-de-seguridad.md#destino-de-copias-de-seguridad), admite que se introduzcan [macros](../../macros.md).
-

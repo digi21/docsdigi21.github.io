@@ -4,12 +4,14 @@ Borra todas aquellas entidades que tengan un código igual al indicado por el us
 
 ## Parámetros
 
-| Parámetro | Descripción |
-| :--- | :--- |
-| C | Borra puntos y líneas |
-| T | Borra sólo textos |
-| L | Borra sólo líneas |
-| P | Borra sólo puntos |
+| Parámetro | Descripción           |
+| --------- | --------------------- |
+| C         | Borra puntos y líneas |
+| T         | Borra sólo textos     |
+| L         | Borra sólo líneas     |
+| P         | Borra sólo puntos     |
+| H         | Borra sólo polígonos  |
+| A         | Borra sólo complejos  |
 
 ### Observaciones
 
@@ -24,11 +26,10 @@ Existen dos opciones:
 
 ## Características de la orden
 
-| Tipo de orden | [Orden interactiva]() |
-| :--- | :--- |
-| Repite automáticamente | No |
-| Opción del menú donde aparece la orden | Editar/Elimina entidades por código... |
+| Tipo de orden                                    | [Orden interactiva](borra-cod.md)                                            |
+| ------------------------------------------------ | ---------------------------------------------------------------------------- |
+| Repite automáticamente                           | No                                                                           |
+| Opción del menú donde aparece la orden           | Editar/Elimina entidades por código...                                       |
 | Barra de herramientas en la que aparece la orden | _Esta orden no tiene asociado ningún botón en ninguna barra de herramientas_ |
-| Extensión | DigiNG.OrdenesStandard.dll |
-| Variables relacionadas | No tiene variables relacionadas |
-
+| Extensión                                        | DigiNG.OrdenesStandard.dll                                                   |
+| Variables relacionadas                           | No tiene variables relacionadas                                              |

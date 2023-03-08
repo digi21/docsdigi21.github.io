@@ -1,6 +1,6 @@
 # Propiedades
 
-![Panel propiedades](../../../.gitbook/assets/panelpropiedades.png)
+![Panel propiedades](../../../../.gitbook/assets/PanelPropiedades.PNG)
 
 Este panel muestra y permite cambiar el estado de las órdenes de tipo variable.
 
@@ -10,4 +10,3 @@ Se puede mostrar el panel de las siguientes formas:
 
 * Pulsando el botón correspondiente en la [barra de herramientas Paneles](../barras-de-herramientas/paneles.md).
 * Mediante la opción del menú **Ventana/Otras ventanas/Propiedades**.
-
