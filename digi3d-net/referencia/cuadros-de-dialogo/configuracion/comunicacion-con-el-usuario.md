@@ -60,11 +60,11 @@ Permite indicar la ruta donde está ubicado el archivo _.wav_ con el sonido a re
 
 ## Entrar
 
-Permite indicar la ruta donde está ubicado el archivo _.wav_ con el sonido a reproducir cuando el usuario entra dentro del polígono seleccionado con la orden [LIMITE\_1](../../ventana-de-dibujo/ordenes/l/limite-1.md).
+Permite indicar la ruta donde está ubicado el archivo _.wav_ con el sonido a reproducir cuando el usuario entra dentro del polígono seleccionado con la orden [LIMITE\\_1](/digi3d-net/referencia/ventana-de-dibujo/ordenes/l/limite-1.md).
 
 ## Salir
 
-Permite indicar la ruta donde está ubicado el archivo _.wav_ con el sonido a reproducir cuando el usuario sale del polígono seleccionado con la orden [LIMITE\_1](../../ventana-de-dibujo/ordenes/l/limite-1.md).
+Permite indicar la ruta donde está ubicado el archivo _.wav_ con el sonido a reproducir cuando el usuario sale del polígono seleccionado con la orden [LIMITE\\_1](/digi3d-net/referencia/ventana-de-dibujo/ordenes/l/limite-1.md).
 
 ## Texto a voz en la barra de estado
 
@@ -86,7 +86,7 @@ Podemos seleccionar una de las siguientes opciones:
 
 ## Confidencia reconocimiento de voz
 
-Permite configurar mediante un valor \(entre 0 y 1\) el factor de confidencia con el que se reconocerán los comandos de voz si tenemos activa la variable [RECONOCER\_VOZ](../../ventana-de-dibujo/variables/r/reconocer-voz.md).
+Permite configurar mediante un valor \(entre 0 y 1\) el factor de confidencia con el que se reconocerán los comandos de voz si tenemos activa la variable [RECONOCER\\_VOZ](/digi3d-net/referencia/ventana-de-dibujo/variables/r/reconocer-voz.md).
 
 ## Color de la ventana de tentativo
 

@@ -1,7 +1,7 @@
 # Path
 
-Espacio de nombres: [Digi21.DigiNG.DigiTab](../../../)  
-Ensamblado: [Digi21.DigiNG](../../../../)
+Espacio de nombres: [Digi21.DigiNG.DigiTab](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.digitab/)  
+Ensamblado: [Digi21.DigiNG](/digi3d-net/programacion/.net/referencia/digi21.diging.plugin/digi21.diging/)
 
 Devuelve la ruta de la tabla de códigos.
 

@@ -1,9 +1,9 @@
 # Constructores
 
-Espacio de nombres: [Digi21.DigiNG.DigiTab](../)  
-Ensamblado: [Digi21.DigiNG](../../)
+Espacio de nombres: [Digi21.DigiNG.DigiTab](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.digitab/)  
+Ensamblado: [Digi21.DigiNG](/digi3d-net/programacion/.net/referencia/digi21.diging.plugin/digi21.diging/)
 
-Inicializa una nueva instancia de [NodeDigiTab ](./)con el nombre pasado por parámetros.
+Inicializa una nueva instancia de [NodeDigiTab](./)con el nombre pasado por parámetros.
 
 ```csharp
 public NodeDigiTab(string name)

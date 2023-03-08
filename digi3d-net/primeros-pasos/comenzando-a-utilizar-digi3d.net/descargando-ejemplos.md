@@ -14,7 +14,7 @@ Descarga y descomprime los proyectos antes de continuar.
 
 También será necesario que configures en Digi3D.NET el archivo de teclas proporcionado por el instalador. Para ello sigue los siguientes pasos:
 
-1. Selecciona la opción del menú **Herramientas/Configurar teclados virtuales...** Aparecerá el [Cuadro de diálogo Configuración de Teclados Virtuales](/digi3d-net/primeros-pasos/comenzando-a-utilizar-digi3d.net/CuadroDeDialogoConfiguracionDeTecladosVirtuales.html).
+1. Selecciona la opción del menú **Herramientas/Configurar teclados virtuales...** Aparecerá el [Cuadro de diálogo Configuración de Teclados Virtuales](/digi3d-net/referencia/cuadros-de-dialogo/configuracion-de-teclados-virtuales.md).
 2. Si aparecen alguna entrada en la lista **Archivos de asignación de teclas** selecciónala y pulsa el botón **Quitar**. Repite esta acción hasta que ls lista **Archivos de asignación de teclas** esté vacía.
 3. Pulsa el botón **Añadir**. Aparecerá el cuadro de diálogo **Abrir**.
 4. En el campo **Nombre** teclea lo siguiente: _%Programdata%_. Comprobarás que se muestra el contenido del directorio %ProgramData%.
@@ -25,7 +25,5 @@ También será necesario que configures en Digi3D.NET el archivo de teclas propo
 
 ## Vídeo
 
-<video controls>
-    <source src="https://digi21.blob.core.windows.net/videos-ayuda/Configurando%20Digi3D.NET%20para%20seguir%20el%20curso%20de%20introduccion.mp4" type="video/mp4">
-</video>
+<video controls><source src="https://digi21.blob.core.windows.net/videos-ayuda/Configurando%20Digi3D.NET%20para%20seguir%20el%20curso%20de%20introduccion.mp4" caption="" type="video/mp4"></video>
 

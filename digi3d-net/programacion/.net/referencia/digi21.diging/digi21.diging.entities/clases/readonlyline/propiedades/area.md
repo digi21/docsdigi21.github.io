@@ -1,9 +1,9 @@
 # Area
 
-Espacio de nombres: [Digi21.DigiNG.Entities](../../../)  
-Ensamblado: [Digi21.DigiNG](../../../../)
+Espacio de nombres: [Digi21.DigiNG.Entities](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/)  
+Ensamblado: [Digi21.DigiNG](/digi3d-net/programacion/.net/referencia/digi21.diging.plugin/digi21.diging/)
 
-Devuelve el área del [ReadOnlyLine](../).
+Devuelve el área del [ReadOnlyLine](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/clases/readonlyline/).
 
 ```csharp
 public double Area { get; }

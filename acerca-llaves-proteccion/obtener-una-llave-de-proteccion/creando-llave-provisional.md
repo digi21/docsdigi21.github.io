@@ -6,8 +6,8 @@ Cuando finalices este tutorial, tendrás instalada en tu ordenador una llave de 
 
 1.  Instala si no lo tienes ya instalado el programa que quieres utilizar:
 
-    * [Digi3D.NET](https://www.digi21.net/Digi3D/Download)
-    * [MDTopX](https://www.digi21.net/MDTop/Download)
+    * [Digi3D.NET](/digi3d-net/referencia/)
+    * [MDTopX](/mdtopx/)
     * [Topcal21](https://www.digi21.net/Topcal21/Download)
 
     Los instaladores de estos programas instalan entre otras cosas la **Suite de aplicaciones Licencias**. Si estás utilizando un instalador antiguo que no lo incluya, descarga e instala la [suite de aplicaciones Licencias](http://digi21.blob.core.windows.net/download/SetupSuiteLicencias\_es-ES.exe).   &#x20;
@@ -17,7 +17,7 @@ Cuando finalices este tutorial, tendrás instalada en tu ordenador una llave de 
 5. Selecciona el archivo **Digi21Demo.v2c** que has descargado en el punto 2 y pulsa el botón **Abrir**.
 6. Pulsa el botón **Apply File**.
 
-Ya tienes tu llave de protección provisional. Esta llave no dispone ni de alquileres ni de compras de ninguno de nuestros programas. Puedes ver su contenido con el programa [Comprobar licencias](../programas-relacionados-con-licencias-y-llaves-de-proteccion/comprobar-licencias.md).
+Ya tienes tu llave de protección provisional. Esta llave no dispone ni de alquileres ni de compras de ninguno de nuestros programas. Puedes ver su contenido con el programa [Comprobar licencias](/acerca-llaves-proteccion/programas-relacionados-con-licencias-y-llaves-de-proteccion/comprobar-licencias.md).
 
 A continuación, tienes que registrar la llave de protección que se acaba de crear en tu panel:
 

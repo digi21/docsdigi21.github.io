@@ -1,9 +1,9 @@
 # Name
 
-Espacio de nombres: [Digi21.DigiNG.DigiTab](../../)  
-Ensamblado: [Digi21.DigiNG](../../../)
+Espacio de nombres: [Digi21.DigiNG.DigiTab](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.digitab/)  
+Ensamblado: [Digi21.DigiNG](/digi3d-net/programacion/.net/referencia/digi21.diging.plugin/digi21.diging/)
 
-Devuelve o asigna el [nombre ](../../../../../../../referencia/editor-de-tablas-de-codigos/pestanas/codigos/propiedades-del-codigo.md#codigo)del código.
+Devuelve o asigna el [nombre](../../../../../../../referencia/editor-de-tablas-de-codigos/pestanas/codigos/propiedades-del-codigo.md#codigo)del código.
 
 ```csharp
 public string Name { get; set; }

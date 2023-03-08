@@ -32,9 +32,7 @@ DISTANCIA_MAXIMA=12.5
 
 ## Vídeo
 
-<video controls>
-    <source src="https://digi21.blob.core.windows.net/videos-ayuda/distancia_maxima.mp4" type="video/mp4">
-</video>
+<video controls><source src="https://digi21.blob.core.windows.net/videos-ayuda/distancia_maxima.mp4" type="video/mp4"></video>
 
 ## Características de la orden
 

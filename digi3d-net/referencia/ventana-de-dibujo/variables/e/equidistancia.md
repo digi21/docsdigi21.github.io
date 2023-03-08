@@ -19,7 +19,7 @@ El programa solicitará en la barra de mensajes que introduzcamos el factor de e
 
 ## Observaciones
 
-El valor por defecto de esta variable es el indicado en el campo **Equidistancia** en el grupo de parámetros **Registro** de la pestaña [Archivo de dibujo](../../../cuadros-de-dialogo/nuevo-proyecto/archivo-de-dibujo.md) al abrir un archivo de dibujo con el cuadro de diálogo [Nuevo proyecto](../../../cuadros-de-dialogo/nuevo-proyecto/).
+El valor por defecto de esta variable es el indicado en el campo **Equidistancia** en el grupo de parámetros **Registro** de la pestaña [Archivo de dibujo](/digi3d-net/referencia/cuadros-de-dialogo/nuevo-proyecto/archivo-de-dibujo.md).
 
 ## Ejemplos
 
@@ -31,9 +31,7 @@ EQUIDISTANCIA=5
 
 ## Vídeo
 
-<video controls>
-    <source src="https://digi21.blob.core.windows.net/videos-ayuda/EQUIDISTANCIA.mp4" type="video/mp4">
-</video>
+<video controls><source src="https://digi21.blob.core.windows.net/videos-ayuda/EQUIDISTANCIA.mp4" caption="" type="video/mp4"></video>
 
 ## Características de la orden
 

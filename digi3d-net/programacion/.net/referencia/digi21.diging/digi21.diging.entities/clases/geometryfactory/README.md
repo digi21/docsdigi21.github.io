@@ -1,7 +1,7 @@
 # GeometryFactory
 
-Espacio de nombres: [Digi21.DigiNG.Entities](../../)  
-Ensamblado: [Digi21.DigiNG](../../../)
+Espacio de nombres: [Digi21.DigiNG.Entities](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/)  
+Ensamblado: [Digi21.DigiNG](/digi3d-net/programacion/.net/referencia/digi21.diging.plugin/digi21.diging/)
 
 Esta clase estática proporciona métodos de extensión que permiten generar geometrías.
 
@@ -15,7 +15,7 @@ Herencia [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object?view
 
 |  |  |
 | :--- | :--- |
-| [CreateParallel](metodos-de-extension/createparallel.md) | Instancia una nueva [Line ](../line/)que es una paralela de la [ReadOnlyLine](../readonlyline/) pasada por parámetros. |
+| [CreateParallel](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/clases/geometryfactory/metodos-de-extension/createparallel.md) pasada por parámetros. |
 
 
 

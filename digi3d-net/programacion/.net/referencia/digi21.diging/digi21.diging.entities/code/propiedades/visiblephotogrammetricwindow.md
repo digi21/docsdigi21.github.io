@@ -1,9 +1,9 @@
 # VisiblePhotogrammetricWindow
 
-Espacio de nombres: [Digi21.DigiNG.Entities](../../)  
-Ensamblado: [Digi21.DigiNG](../../../)
+Espacio de nombres: [Digi21.DigiNG.Entities](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/)  
+Ensamblado: [Digi21.DigiNG](/digi3d-net/programacion/.net/referencia/digi21.diging.plugin/digi21.diging/)
 
-Indica si está habilitada la visualización de este [Code](../) en la ventana fotogramétrica.
+Indica si está habilitada la visualización de este [Code](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/clases/code/) en la ventana fotogramétrica.
 
 ```csharp
 public bool VisiblePhotogrammetricWindow { get; set; }

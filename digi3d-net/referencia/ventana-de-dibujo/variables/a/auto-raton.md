@@ -14,9 +14,7 @@ A partir de ese momento, la ventana de dibujo va siguiendo al cursor (cuando se 
 
 ## Vídeo
 
-<video controls>
-    <source src="https://digi21.blob.core.windows.net/videos-ayuda/AUTO_RATON.mp4" type="video/mp4">
-</video>
+<video controls><source src="https://digi21.blob.core.windows.net/videos-ayuda/AUTO_RATON.mp4" type="video/mp4"></video>
 
 ## Características de la orden
 
@@ -26,5 +24,5 @@ A partir de ese momento, la ventana de dibujo va siguiendo al cursor (cuando se 
 | Opción del menú donde aparece la orden           | Zooms/Activar el auto seguimiento de cámara para ratón        |
 | Barra de herramientas en la que aparece la orden | Desplazamientos de ventana                                    |
 | Extensión                                        | DigiNG.OrdenesStandard.dll                                    |
-| Variables relacionadas                           | [SOLAPE](../s/solape.md)                                      |
+| Variables relacionadas                           | [SOLAPE](/digi3d-net/referencia/ventana-de-dibujo/variables/s/solape.md)                                      |
 | Nombre interno                                   | {934B9959-9112-4eef-880C-2C9CB237643D}                        |

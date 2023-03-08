@@ -16,9 +16,9 @@ Al digitalizar un punto puede que esté o no dentro de algún recinto. En caso d
 
 En caso de digitalizar el punto dentro de algún recinto el comportamiento será el siguiente:
 
-* Si está activado el flag [VER](/digi3d-net/referencia/ventana-de-dibujo/ordenes/b/VER.html): iluminará el recinto e indicará al usuario que confirme \(con el botón izquierdo del ratón, ó que indique que desea que el programa siga buscando recintos con el botón central del ratón. El botón derecho del ratón reinicializa la orden\). A continuación hace un zoom centrado en el centroide del polígono seleccionado si éste dispone de centroide. En el caso de que el polígono no tenga centroide, hará el zoom al centroide calculado automáticamente por la orden [BINTOP](/digi3d-net/referencia/ventana-de-dibujo/ordenes/b/BINTOP.html) y mostrará un globo indicando que se ha seleccionado un polígono sin centroide.
-* Si está activado el flag [VER](/digi3d-net/referencia/ventana-de-dibujo/ordenes/b/VER.html): iluminará el recinto e indicará al usuario que confirme \(con el botón izquierdo del ratón, ó que indique que desea que el programa siga buscando recintos con el botón central del ratón. El botón derecho del ratón reinicializa la orden\).
-* A continuación hace un zoom centrado en el centroide del polígono seleccionado si éste dispone de centroide. En el caso de que el polígono no tenga centroide, hará el zoom al centroide calculado automáticamente por la orden [BINTOP](/digi3d-net/referencia/ventana-de-dibujo/ordenes/b/BINTOP.html) y mostrará un globo indicando que se ha seleccionado un polígono sin centroide.
+* Si está activado el flag [VER](/digi3d-net/referencia/ventana-de-dibujo/variables/v/ver.md) y mostrará un globo indicando que se ha seleccionado un polígono sin centroide.
+* Si está activado el flag [VER](/digi3d-net/referencia/ventana-de-dibujo/variables/v/ver.md).
+* A continuación hace un zoom centrado en el centroide del polígono seleccionado si éste dispone de centroide. En el caso de que el polígono no tenga centroide, hará el zoom al centroide calculado automáticamente por la orden [BINTOP](/digi3d-net/referencia/ventana-de-dibujo/ordenes/b/bintop.md) y mostrará un globo indicando que se ha seleccionado un polígono sin centroide.
 
 ## Características de la orden
 

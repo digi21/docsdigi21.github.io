@@ -19,14 +19,14 @@ dotnet add package Digi21.DigiNG.Plugin --version 21.0.0
 
 Los tipos proporcionados están agrupados los siguientes espacios de nombres:
 
-* [Digi21.Digi3D](digi21.digi3d/)
-* [Digi21.DigiNG](digi21.diging/)
-* [Digi21.DigiNG.Plugin.Commands](digi21.diging.plugin.commands/)
-* [Digi21.DigiNG.Plugin.Databases](digi21.diging.plugin.databases/)
-* [Digi21.DigiNG.Plugin.Menu](digi21.diging.plugin.menu/)
-* [Digi21.DigiNG.Plugin.QualityControl](digi21.diging.plugin.qualitycontrol/)
-* [Digi21.DigiNG.Plugin.Search](digi21.diging.plugin.search/)
-* [Digi21.DigiNG.Plugin.TaskPanel](digi21.diging.plugin.taskpanel/)
+* [Digi21.Digi3D](/digi3d-net/programacion/.net/referencia/digi21.diging.plugin/digi21.digi3d/)
+* [Digi21.DigiNG](/digi3d-net/programacion/.net/referencia/digi21.diging.plugin/digi21.diging/)
+* [Digi21.DigiNG.Plugin.Commands](/digi3d-net/programacion/.net/referencia/digi21.diging.plugin/digi21.diging.plugin.commands/)
+* [Digi21.DigiNG.Plugin.Databases](/digi3d-net/programacion/.net/referencia/digi21.diging.plugin/digi21.diging.plugin.databases/)
+* [Digi21.DigiNG.Plugin.Menu](/digi3d-net/programacion/.net/referencia/digi21.diging.plugin/digi21.diging.plugin.menu/)
+* [Digi21.DigiNG.Plugin.QualityControl](/digi3d-net/programacion/.net/referencia/digi21.diging.plugin/digi21.diging.plugin.qualitycontrol/)
+* [Digi21.DigiNG.Plugin.Search](/digi3d-net/programacion/.net/referencia/digi21.diging.plugin/digi21.diging.plugin.search/)
+* [Digi21.DigiNG.Plugin.TaskPanel](/digi3d-net/programacion/.net/referencia/digi21.diging.plugin/digi21.diging.plugin.taskpanel/)
 
 
 

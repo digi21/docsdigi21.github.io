@@ -1,6 +1,6 @@
 # Buscar
 
-![](../../../../.gitbook/assets/PanelBuscar.PNG)
+![](../../../.gitbook/assets/panelbuscar.png)
 
 Permite buscar geometrías según un criterio.
 

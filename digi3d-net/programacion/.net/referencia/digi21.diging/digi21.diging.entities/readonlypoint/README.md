@@ -1,7 +1,7 @@
 # ReadOnlyPoint
 
-Espacio de nombres: [Digi21.DigiNG.Entities](../)  
-Ensamblado: [Digi21.DigiNG](../../)
+Espacio de nombres: [Digi21.DigiNG.Entities](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/)  
+Ensamblado: [Digi21.DigiNG](/digi3d-net/programacion/.net/referencia/digi21.diging.plugin/digi21.diging/)
 
 Esta clase implementa una geometría de tipo punto de solo lectura.
 
@@ -9,18 +9,18 @@ Esta clase implementa una geometría de tipo punto de solo lectura.
 public class ReadOnlyPoint : Entity, ISnapable
 ```
 
-Herencia [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object?view=net-5.0) → [Entity](../entity/) → ReadOnlyPoint
+Herencia [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object?view=net-5.0) → [Entity](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/clases/entity/) → ReadOnlyPoint
 
-Tipos derivados: [Point](../point/)
+Tipos derivados: [Point](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/clases/point/)
 
-Implementa: [ISnapable](../isnapable/)
+Implementa: [ISnapable](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/interfaces/isnapable/)
 
 ## Propiedades
 
 |  |  |
 | :--- | :--- |
-| [Coordinate](propiedades/coordinate.md) | Devuelve las coordenadas de inserción del [ReadOnlyPoint](./). |
-| [Rotation](propiedades/rotation.md) | Devuelve el ángulo de rotación \(en radianes\) del [ReadOnlyPoint](./). |
+| [Coordinate](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/clases/text/propiedades/coordinate.md). |
+| [Rotation](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/clases/text/propiedades/rotation.md). |
 
 ## Métodos
 

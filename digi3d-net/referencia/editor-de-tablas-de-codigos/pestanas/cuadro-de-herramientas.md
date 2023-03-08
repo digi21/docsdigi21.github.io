@@ -1,8 +1,8 @@
 # Cuadro de herramientas
 
-![Editor de tablas de códigos mostrando la pestaña Cuadro de herramientas](../../../../.gitbook/assets/PestañaCuadroHerramientas.PNG)
+![Editor de tablas de códigos mostrando la pestaña Cuadro de herramientas](../../../../.gitbook/assets/pestanacuadroherramientas.png)
 
-Permite configurar el contenido que mostrará el panel [Cuadro de herramientas](../../digi3d.net/paneles/cuadro-de-herramientas.md) de Digi3D.NET al abrir un archivo de dibujo con esta tabla de códigos.
+Permite configurar el contenido que mostrará el panel [Cuadro de herramientas](/digi3d-net/referencia/editor-de-tablas-de-codigos/pestanas/cuadro-de-herramientas.md) de Digi3D.NET al abrir un archivo de dibujo con esta tabla de códigos.
 
 ## Ventanas
 

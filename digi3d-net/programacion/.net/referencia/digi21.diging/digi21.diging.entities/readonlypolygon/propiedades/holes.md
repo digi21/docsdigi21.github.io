@@ -1,9 +1,9 @@
 # Holes
 
-Espacio de nombres: [Digi21.DigiNG.Entities](../../)  
-Ensamblado: [Digi21.DigiNG](../../../)
+Espacio de nombres: [Digi21.DigiNG.Entities](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/)  
+Ensamblado: [Digi21.DigiNG](/digi3d-net/programacion/.net/referencia/digi21.diging.plugin/digi21.diging/)
 
-Devuelve una lista de solo lectura con los huecos del [ReadOnlyPolygon](../).
+Devuelve una lista de solo lectura con los huecos del [ReadOnlyPolygon](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/clases/readonlypolygon/).
 
 ```csharp
 public IReadOnlyList<ReadOnlyLine> Holes { get; }

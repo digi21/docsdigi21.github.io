@@ -12,7 +12,7 @@ El proceso de alquiler es muy sencillo:
 
 1. Compra un alquiler en nuestra [tienda de alquileres](http://www.digi21.net/Tienda/Alquiler).
 2. Espera a que te llegue un correo electrónico con el título **Confirmación de alquiler** en el que te indicaremos que lo tenemos todo preparado. Si no te llega este correo inmediatamente no nos llames ni nos envíes ningún correo, puede tardar un poco.
-3. Ejecuta el programa [Consolidar alquiler](https://app.gitbook.com/s/-MVMB4g-NqQ5C2XEeAQK/acerca-llaves-proteccion/ConsolidarAlquiler.html) que almacenará las licencias en tu llave de protección.
+3. Ejecuta el programa [Consolidar alquiler](/acerca-llaves-proteccion/programas-relacionados-con-licencias-y-llaves-de-proteccion/consolidar-alquiler.md) que almacenará las licencias en tu llave de protección.
 
 ## Aviso de que el alquiler está a punto de expirar
 
@@ -20,4 +20,4 @@ El proceso de alquiler es muy sencillo:
 
 A continuación, te mostramos cómo avisa _Digi3D.NET_ de que quedan pocos días de alquiler:
 
-![](<../.gitbook/assets/Alquiler a punto de expirar.png>)
+![](../.gitbook/assets/alquiler-a-punto-de-expirar.png)

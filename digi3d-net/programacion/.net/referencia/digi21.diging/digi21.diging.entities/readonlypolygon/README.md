@@ -1,7 +1,7 @@
 # ReadOnlyPolygon
 
-Espacio de nombres: [Digi21.DigiNG.Entities](../)  
-Ensamblado: [Digi21.DigiNG](../../)
+Espacio de nombres: [Digi21.DigiNG.Entities](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/)  
+Ensamblado: [Digi21.DigiNG](/digi3d-net/programacion/.net/referencia/digi21.diging.plugin/digi21.diging/)
 
 Esta clase implementa una geometría de tipo polígono de solo lectura.
 
@@ -9,20 +9,20 @@ Esta clase implementa una geometría de tipo polígono de solo lectura.
 public class ReadOnlyPolygon : Entity, ISnapable, IClippable, ITrimable
 ```
 
-Herencia [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object?view=net-5.0) → [Entity](../entity/) → ReadOnlyPolygon
+Herencia [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object?view=net-5.0) → [Entity](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/clases/entity/) → ReadOnlyPolygon
 
-Tipos derivados: [Polygon](../polygon/)
+Tipos derivados: [Polygon](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/clases/polygon/)
 
-Implementa: [ISnapable](../isnapable/), [IClippable](../iclippable/), [ITrimable](../itrimmable/)
+Implementa: [ISnapable](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/interfaces/isnapable/)
 
 ## Propiedades
 
 |  |  |
 | :--- | :--- |
-| [Area](propiedades/area.md) | Devuelve el área del [ReadOnlyPolygon](./). |
-| [Holes](propiedades/holes.md) | Devuelve una [IReadOnlyList&lt;T&gt;](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ireadonlylist-1?view=net-5.0) con los huecos del [ReadOnlyPolygon](./). |
-| [Points](propiedades/points.md) | Devuelve un [IReadOnlyList&lt;T&gt; ](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ireadonlylist-1?view=net-5.0)con los vértices del límite exterior del [ReadOnlyPolygon](./). |
-| [InteriorPoint](propiedades/interiorpoint.md) | Calcula un punto interior en el [ReadOnlyPolygon](./). |
+| [Area](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/clases/readonlypolygon/propiedades/area.md). |
+| [Holes](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/clases/readonlypolygon/propiedades/holes.md). |
+| [Points](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/clases/readonlypolygon/propiedades/points.md). |
+| [InteriorPoint](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/interfaces/icloseable/propiedades/interiorpoint.md). |
 
 ## Métodos
 

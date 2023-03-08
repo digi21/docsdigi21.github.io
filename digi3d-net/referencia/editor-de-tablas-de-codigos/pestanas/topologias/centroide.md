@@ -8,7 +8,7 @@ Un centroide es un texto dentro de un [polígono topológico](poligonos-topologi
 
 ## Huecos
 
-Se puede [configurar ](anadir-topologia.md#centroide-para-huecos)como un parámetro de la topología un texto que representará a centroides que representarán huecos dentro de la topología.
+Se puede [configurar](anadir-topologia.md#centroide-para-huecos)como un parámetro de la topología un texto que representará a centroides que representarán huecos dentro de la topología.
 
 Habitualmente se configura como texto de los centroides que representan huecos un asterisco (\*). Si al analizar una topología se localiza un polígono topológico con un centroide cuyo texto es el texto de centroides de huecos, ese polígono topológico no se formará.
 

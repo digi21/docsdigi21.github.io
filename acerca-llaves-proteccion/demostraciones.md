@@ -6,10 +6,10 @@ Para ello necesitarás disponer de una cuenta en [https://www.digi21.net](https:
 
 ## Vea también
 
-[Compras y subscripciones de soporte técnico](https://app.gitbook.com/s/-MVMB4g-NqQ5C2XEeAQK/acerca-llaves-proteccion/ComprasYSubscriptiones.html)
+[Compras y subscripciones de soporte técnico](/acerca-llaves-proteccion/compras-subscripciones-soporte-tecnico.md)
 
-[Alquileres](https://app.gitbook.com/s/-MVMB4g-NqQ5C2XEeAQK/acerca-llaves-proteccion/Alquileres.html)
+[Alquileres](/acerca-llaves-proteccion/alquileres.md)
 
 ### Operaciones con las llaves
 
-[Actualización de tu llave de protección Hasp HL](https://app.gitbook.com/s/-MVMB4g-NqQ5C2XEeAQK/acerca-llaves-proteccion/actualizarhasphl.html)
+[Actualización de tu llave de protección Hasp HL](/acerca-llaves-proteccion/obtener-una-llave-de-proteccion/actualizando-tu-llave-de-proteccion/actualizando-llave-hasp-hl/)

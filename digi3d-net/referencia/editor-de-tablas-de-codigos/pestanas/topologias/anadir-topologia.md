@@ -1,16 +1,16 @@
 # Añadir topología
 
-![Cuadro de diálogo Añadir Topología](../../../../../.gitbook/assets/CuadroDialogoAñadirTopologia.PNG)
+![Cuadro de diálogo Añadir Topología](../../../../../.gitbook/assets/cuadrodialogoanadirtopologia.png)
 
 Permite configurar una nueva topología a añadir al listado de topologías de la tabla de códigos.
 
 ## Nombre
 
-Permite configurar el nombre de la topología. Este será el nombre de cada una de las opciones que se mostrarán en los menús dinámicos del menú [Topología](../../../digi3d.net/ventana-de-dibujo/menus/topologia.md).
+Permite configurar el nombre de la topología. Este será el nombre de cada una de las opciones que se mostrarán en los menús dinámicos del menú [Topología](/digi3d-net/referencia/ventana-de-dibujo/menus/topologia.md).
 
 ## Procesar polígonos sin centroide
 
-Indica si el analizador de topologías debe mostrar un error por cada [polígono topológico ](poligonos-topologicos.md)localizado sin un centroide.
+Indica si el analizador de topologías debe mostrar un error por cada [polígono topológico](poligonos-topologicos.md)localizado sin un centroide.
 
 ## Polígonos sin centroide
 
@@ -24,13 +24,13 @@ Permite configurar el color con el que se rellenarán los polígonos topológico
 
 ## Centroide para huecos
 
-Permite indicar el texto que tendrán los centroides que se considerarán [huecos ](centroide.md#huecos)para la topología.
+Permite indicar el texto que tendrán los centroides que se considerarán [huecos](centroide.md#huecos)para la topología.
 
 ## Código del polígono a formar
 
-Permite configurar el código con el que se [generarán los polígonos](../../../digi3d.net/ventana-de-dibujo/menus/topologia.md#transformacion-de-topologias-en-poligonos) de esta topología.
+Permite configurar el código con el que se [generarán los polígonos](/digi3d-net/referencia/ventana-de-dibujo/menus/topologia.md) de esta topología.
 
-Este campo admite que se introduzca una [macro](../../../digi3d.net/macros.md) como, por ejemplo `$(CodigoCentroide)`o `$(TextoCentroide)`
+Este campo admite que se introduzca una [macro](/digi3d-net/referencia/macros.md) como, por ejemplo `$(CodigoCentroide)`o `$(TextoCentroide)`
 
 ## Coordenadas Z del polígono
 

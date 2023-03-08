@@ -33,7 +33,7 @@ Captura y descaptura el ratón de Windows en la ventana fotogramétrica.
 
 ## Observaciones
 
-Independientemente del dispositivo de entrada que tengamos seleccionado \([topo-mouse](),  [sistemas de manivelas](), ....\) siempre podemos utilizar cualquiera de los ratones conectados al sistema como dispositivo de entrada en la ventana fotogramétrica.
+Independientemente del dispositivo de entrada que tengamos seleccionado \(topo-mouse, sistemas de manivelas, etc.) siempre podemos utilizar cualquiera de los ratones conectados al sistema como dispositivo de entrada en la ventana fotogramétrica.
 
 Cuando la ventana fotogramétrica captura el ratón, este deja de ser visible para Windows, ya que la ventana fotogramétrica oculta su icono hasta que se vuelve a liberar. Los movimientos del ratón se convertirán en movimientos de las imágenes mostradas en la ventana fotogramétrica.
 

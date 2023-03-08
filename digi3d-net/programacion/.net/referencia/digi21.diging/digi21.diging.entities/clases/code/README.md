@@ -1,7 +1,7 @@
 # Code
 
-Espacio de nombres: [Digi21.DigiNG.Entities](../../)\
-Ensamblado: [Digi21.DigiNG](../../../)
+Espacio de nombres: [Digi21.DigiNG.Entities](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/)\
+Ensamblado: [Digi21.DigiNG](/digi3d-net/programacion/.net/referencia/digi21.diging.plugin/digi21.diging/)
 
 Esta clase representa un código de la tabla de códigos.
 
@@ -15,20 +15,20 @@ Herencia [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object?view
 
 |                                                                  |                                                                                                                                          |
 | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| [Code(string)](constructores.md#code-string)                     | Inicializa una nueva instancia de [Code ](./)asignándole un nombre.                                                                      |
-| [Code(string, int?, int?)](constructores.md#code-string-int-int) | Inicializa una nueva instancia de [Code ](./)asignándole un nombre, identificador de tabla de base de datos e identificador de registro. |
-| [Code(string, int, int)](constructores.md#code-string-int-int-1) | Inicializa una nueva instancia de [Code ](./)asignándole un nombre, identificador de tabla de base de datos e identificador de registro. |
+| [Code(string)](constructores.md#code-string)                     | Inicializa una nueva instancia de [Code](./)asignándole un nombre.                                                                      |
+| [Code(string, int?, int?)](constructores.md#code-string-int-int) | Inicializa una nueva instancia de [Code](./)asignándole un nombre, identificador de tabla de base de datos e identificador de registro. |
+| [Code(string, int, int)](constructores.md#code-string-int-int-1) | Inicializa una nueva instancia de [Code](./)asignándole un nombre, identificador de tabla de base de datos e identificador de registro. |
 
 ## Propiedades
 
 |                                                                             |                                                                                                                                 |
 | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| [Attributes](propiedades/attributes.md)                                     | Devuelve o asigna un diccionario con los atributos de base de datos asociados con el código.                                    |
-| [Name](propiedades/name.md)                                                 | Devuelve el nombre del [Code](./).                                                                                              |
-| [Table](propiedades/table.md)                                               | Devuelve el identificador de tabla de base de datos asociado con el [Code](./).                                                 |
-| [Id](propiedades/id.md)                                                     | Devuelve el valor del _PrimaryKey_ del registro de base de datos al que apunta la geometría que tiene asignado este [Code](./). |
-| [Visible](propiedades/visible.md)                                           | Indica si está habilitada la visualización de este [Code](./) en la ventana de dibujo.                                          |
-| [VisiblePhotogrammetricWindow](propiedades/visiblephotogrammetricwindow.md) | Indica si está habilitada la visualización de este [Code](./) en la ventana fotogramétrica.                                     |
+| [Attributes](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/clases/entity/propiedades/attributes_entity.md)                                     | Devuelve o asigna un diccionario con los atributos de base de datos asociados con el código.                                    |
+| [Name](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/clases/code/propiedades/name.md).                                                                                              |
+| [Table](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/clases/code/propiedades/table.md).                                                 |
+| [Id](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/clases/code/propiedades/id.md). |
+| [Visible](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.io/interfaces/ireadonlydrawingfile/propiedades/visible.md) en la ventana de dibujo.                                          |
+| [VisiblePhotogrammetricWindow](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/clases/code/propiedades/visiblephotogrammetricwindow.md) en la ventana fotogramétrica.                                     |
 
 ## Métodos estáticos
 

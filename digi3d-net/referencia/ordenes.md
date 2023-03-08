@@ -38,7 +38,7 @@ Los nombres de las órdenes varían en función de si el programa se está mostr
 
 Esto es así porque las órdenes tienen un nombre interno, y el programa dispone de un archivo de _alias_ que hace corresponder el nombre en un determinado idioma con el nombre interno.
 
-Por ejemplo: la orden de tipo variable real [AA ](ventana-de-dibujo/variables/a/aa.md)\(ángulo activo\) tiene como nombre interno el siguiente: {55EDDC5E-2B30-4bd0-B4FF-1BD954EF937C}.
+Por ejemplo: la orden de tipo variable real [AA](ventana-de-dibujo/variables/a/aa.md) tiene como nombre interno el siguiente: {55EDDC5E-2B30-4bd0-B4FF-1BD954EF937C}.
 
 Digi3D.NET admite que introduzcamos como nombre de una orden el nombre de orden interno, de manera que, si queremos asignar como ángulo activo el valor 27, podemos ejecutar el siguiente comando:
 

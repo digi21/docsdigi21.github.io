@@ -1,7 +1,7 @@
 # BallonIcon
 
-Espacio de nombres: [Digi21.DigiNG.Plugin](../../)  
-Ensamblado: [Digi21.DigiNG](../../../digi21.diging/)
+Espacio de nombres: [Digi21.DigiNG.Plugin](/digi3d-net/programacion/.net/referencia/digi21.diging.plugin/)  
+Ensamblado: [Digi21.DigiNG](/digi3d-net/programacion/.net/referencia/digi21.diging.plugin/digi21.diging/)
 
 Esta enumeración define el icono que se mostrará con un globo.
 
@@ -9,7 +9,7 @@ Esta enumeración define el icono que se mostrará con un globo.
 public enum BallonIcon
 ```
 
-Herencia [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object?view=net-5.0) → [ValueType ](https://docs.microsoft.com/en-us/dotnet/api/system.valuetype?view=net-5.0)→ [Enum ](https://docs.microsoft.com/en-us/dotnet/api/system.enum?view=net-5.0)→ BallonIcon
+Herencia [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object?view=net-5.0) → [ValueType](https://docs.microsoft.com/en-us/dotnet/api/system.valuetype?view=net-5.0)→ [Enum](https://docs.microsoft.com/en-us/dotnet/api/system.enum?view=net-5.0)→ BallonIcon
 
 ## Campos
 

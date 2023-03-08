@@ -1,6 +1,6 @@
 # Base de datos
 
-![Editor de tablas de códigos mostrando la tabla Edificaciones con sus campos ID y Propietario](../../../../../.gitbook/assets/PestañaBaseDatos.PNG)
+![Editor de tablas de códigos mostrando la tabla Edificaciones con sus campos ID y Propietario](../../../../../.gitbook/assets/pestanabasedatos.png)
 
 Permite configurar las tablas y los esquemas de cada una de estas tablas de base de datos.
 
@@ -18,7 +18,7 @@ Permite eliminar la tabla seleccionada en el listado de tablas.
 
 ## Campos
 
-Muestra los campos de la tabla seleccionada en [Tablas](./#tablas).
+Muestra los campos de la tabla seleccionada en **Tablas**.
 
 Esta ventana tiene una barra de herramientas con los siguientes botones:
 

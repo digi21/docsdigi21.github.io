@@ -1,6 +1,6 @@
 # TRIANGULAR
 
-Calcula la triangulación de un Modelo Digital del Terreno \(MDT\) a partir de la cartografía de la zona en formato BIN y la nube de puntos obtenida por correlación mediante la orden [MDTPC](/digi3d-net/referencia/ventana-de-dibujo/ordenes/t/MDTPC.html).
+Calcula la triangulación de un Modelo Digital del Terreno \(MDT\) a partir de las geometrías de la ventana de dibujo.
 
 ## Parámetros
 

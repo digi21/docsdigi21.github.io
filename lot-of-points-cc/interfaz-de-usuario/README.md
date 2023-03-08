@@ -8,7 +8,7 @@ Al pulsar en cada una de las pestañas el ribbon muestra una serie de ventanas r
 
 Dispone de las siguientes pestañas:
 
-* [Archivo](archivo/).
-* [Visualización](visualizacion/).
-* [ScanStation](scanstation/).
-* [Nube de puntos](nube-de-puntos/).
+* [Archivo](/lot-of-points-cc/interfaz-de-usuario/archivo/).
+* [Visualización](/lot-of-points-cc/interfaz-de-usuario/visualizacion/).
+* [ScanStation](/lot-of-points-cc/interfaz-de-usuario/scanstation/).
+* [Nube de puntos](/lot-of-points-cc/interfaz-de-usuario/nube-de-puntos/).

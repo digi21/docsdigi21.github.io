@@ -4,7 +4,7 @@
 
 Sigue los siguientes pasos para crear tu primer **Archivo de dibujo**:
 
-1. Ejecuta **Digi3D.NET** y verás que aparece por defecto el cuadro de diálogo [Nuevo Proyecto](/digi3d-net/primeros-pasos/comenzando-a-utilizar-digi3d.net/comenzando-con-la-ventana-de-dibujo/CuadroDeDialogoNuevoProyecto.html).
+1. Ejecuta **Digi3D.NET** y verás que aparece por defecto el cuadro de diálogo [Nuevo Proyecto](/digi3d-net/referencia/cuadros-de-dialogo/nuevo-proyecto/).
 2. Selecciona la pestaña **Archivo de dibujo**, si pulsas sobre el desplegable podrás ver los últimos 10 archivos de dibujo que se han cargado.
 3. Para **Abrir** o **Crear** un archivo nuevo, pulsa el botón de los tres puntos. Aparecerá el cuadro de diálogo **Abrir**.
 4. Introduce el nombre del archivo a crear y pulsa el botón **Abrir**.
@@ -23,7 +23,5 @@ Sigue los siguientes pasos para crear tu primer **Archivo de dibujo**:
 
 ## Vídeo
 
-<video controls>
-    <source src="https://digi21.blob.core.windows.net/videos-ayuda/Creando%20nuestro%20primer%20archivo%20de%20dibujo.mp4" type="video/mp4">
-</video>
+<video controls><source src="https://digi21.blob.core.windows.net/videos-ayuda/Creando%20nuestro%20primer%20archivo%20de%20dibujo.mp4" caption="" type="video/mp4"></video>
 

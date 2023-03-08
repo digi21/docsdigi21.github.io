@@ -1,7 +1,7 @@
 # IDrawingFile
 
-Espacio de nombres: [Digi21.DigiNG.IO](../)  
-Ensamblado: [Digi21.DigiNG](../../)
+Espacio de nombres: [Digi21.DigiNG.IO](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.io/)  
+Ensamblado: [Digi21.DigiNG](/digi3d-net/programacion/.net/referencia/digi21.diging.plugin/digi21.diging/)
 
 Esta interfaz define los métodos que implementan los importadores/exportadores de archivos.
 
@@ -9,19 +9,19 @@ Esta interfaz define los métodos que implementan los importadores/exportadores 
 public interface IDrawingFile : IReadOnlyDrawingFile
 ```
 
-Tipos derivados: [Bin](../../../digi21.diging.io.bin/bin.md), [BinDouble](../../../digi21.diging.io.bindouble/bindouble.md), [Shp](../../../digi21.diging.io.shp/shp.md), [Geomedia](../../../digi21.diging.io.geomedia/geomedia.md)
+Tipos derivados: [Bin](/digi3d-net/programacion/.net/referencia/digi21.diging.io.bin/bin.md)
 
-Implementa: [IReadOnlyDrawingFile](../ireadonlydrawingfile/)
+Implementa: [IReadOnlyDrawingFile](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.io/interfaces/ireadonlydrawingfile/)
 
 ## Propiedades
 
 |  |  |
 | :--- | :--- |
-| [CanRead](propiedades/canread.md) | Indica si el importador puede leer geometrías del archivo. |
-| [CanWrite](propiedades/canwrite.md) | Indica si el importador puede almacenar geometrías en el archivo. |
-| [DatabaseTables](propiedades/databasetables.md) | Devuelve un diccionario cuya clave es el nombre de una tabla y cuyo valor es el número de tabla. |
-| [Path](propiedades/path.md) | Devuelve la ruta del archivo de dibujo. |
-| [Wkt](propiedades/wkt.md) | Devuelve una cadena [WKT](https://es.wikipedia.org/wiki/Well_Known_Text#Sistemas_de_referencia_espacial) especificando el Sistema de Referencia en el que están las coordenadas de las geometrías del archivo de dibujo. |
+| [CanRead](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.io/interfaces/idrawingfile/propiedades/canread.md) | Indica si el importador puede leer geometrías del archivo. |
+| [CanWrite](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.io/interfaces/idrawingfile/propiedades/canwrite.md) | Indica si el importador puede almacenar geometrías en el archivo. |
+| [DatabaseTables](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.io/interfaces/idrawingfile/propiedades/databasetables.md) | Devuelve un diccionario cuya clave es el nombre de una tabla y cuyo valor es el número de tabla. |
+| [Path](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.io/interfaces/ireadonlydrawingfile/propiedades/path.md) | Devuelve la ruta del archivo de dibujo. |
+| [Wkt](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.io/interfaces/idrawingfile/propiedades/wkt.md) especificando el Sistema de Referencia en el que están las coordenadas de las geometrías del archivo de dibujo. |
 
 ## Métodos
 

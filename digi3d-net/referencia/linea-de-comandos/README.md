@@ -18,9 +18,9 @@ En caso de indicar por la línea de comandos un parámetro, éste requerirá que
 
 | Comando                 | Descripción                                 |
 | ----------------------- | ------------------------------------------- |
-| [dibujo](dibujo/)       | Ordena abrir una ventana de dibujo          |
-| [foto](foto.md)         | Ordena abrir una ventana fotogramétrica     |
-| [proyecto](proyecto.md) | Carga un archivo de proyecto fotogramétrico |
+| [dibujo](/digi3d-net/referencia/linea-de-comandos/dibujo/)       | Ordena abrir una ventana de dibujo          |
+| [foto](/digi3d-net/referencia/linea-de-comandos/foto.md)         | Ordena abrir una ventana fotogramétrica     |
+| [proyecto](/digi3d-net/referencia/linea-de-comandos/proyecto.md) | Carga un archivo de proyecto fotogramétrico |
 
 ## Ejemplos
 

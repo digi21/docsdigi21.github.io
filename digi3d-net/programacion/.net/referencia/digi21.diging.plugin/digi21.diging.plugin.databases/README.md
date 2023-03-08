@@ -6,13 +6,13 @@ Proporciona tipos para implementar extensiones que publiquen proveedores de prop
 
 |  |  |
 | :--- | :--- |
-| [DynamicPropertyAttribute](atributos/dynamicpropertyattribute.md) | Decora una clase para convertirla en un proveedor de propiedades de Base de Datos dinámico. |
+| [DynamicPropertyAttribute](/digi3d-net/programacion/.net/referencia/digi21.diging.plugin/digi21.diging.plugin.databases/atributos/dynamicpropertyattribute.md) | Decora una clase para convertirla en un proveedor de propiedades de Base de Datos dinámico. |
 
 ## Interfaces
 
 |  |  |
 | :--- | :--- |
-| [IDynamicProperty](interfaces/idynamicproperty.md) | Este interfaz define los métodos que debe implementar un proveedor de propiedades de Base de Datos dinámico. |
+| [IDynamicProperty](/digi3d-net/programacion/.net/referencia/digi21.diging.plugin/digi21.diging.plugin.databases/interfaces/idynamicproperty.md) | Este interfaz define los métodos que debe implementar un proveedor de propiedades de Base de Datos dinámico. |
 
 
 

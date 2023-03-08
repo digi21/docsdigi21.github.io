@@ -1,6 +1,6 @@
 # Añadir centroide
 
-![Cuadro de diálogo Añadir centroide](../../../../../.gitbook/assets/CuadroDialogoAñadirCentroide.PNG)
+![Cuadro de diálogo Añadir centroide](../../../../../.gitbook/assets/cuadrodialogoanadircentroide.png)
 
 Permite añadir un centroide a la topología.
 

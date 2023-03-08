@@ -1,6 +1,6 @@
 # Activar ordenador Offline
 
-Este programa realiza la misma función que el programa [Activar ordenador](../activar-ordenador.md), pero en ordenadores que tienen restringido el acceso a Internet.
+Este programa realiza la misma función que el programa [Activar ordenador](/acerca-llaves-proteccion/programas-relacionados-con-licencias-y-llaves-de-proteccion/activar-ordenador.md), pero en ordenadores que tienen restringido el acceso a Internet.
 
 El proceso de activación siempre requiere acceso a Internet, pero con este programa se elimina el requisito de que el ordenador que se está activando tenga acceso a internet, y ese requisito se traslada a otro programa que puede ejecutarse en otro ordenador que sí que tiene acceso a Internet.
 

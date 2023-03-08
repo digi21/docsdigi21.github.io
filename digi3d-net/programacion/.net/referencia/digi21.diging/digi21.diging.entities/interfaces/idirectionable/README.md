@@ -1,7 +1,7 @@
 # IDirectionable
 
-Espacio de nombres: [Digi21.DigiNG.Entities](../../)  
-Ensamblado: [Digi21.DigiNG](../../../)
+Espacio de nombres: [Digi21.DigiNG.Entities](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/)  
+Ensamblado: [Digi21.DigiNG](/digi3d-net/programacion/.net/referencia/digi21.diging.plugin/digi21.diging/)
 
 Este interfaz define los métodos que deben implementar las geometrías que pueden cambiar de dirección.
 
@@ -9,13 +9,13 @@ Este interfaz define los métodos que deben implementar las geometrías que pued
 public interface IDirectionable
 ```
 
-Tipos derivados: [ReadOnlyLine](../../clases/readonlyline/)
+Tipos derivados: [ReadOnlyLine](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/clases/readonlyline/)
 
 ## Métodos
 
 |  |  |
 | :--- | :--- |
-| [ChangeDirection](metodos/changedirection.md) | Cambia el sentido de la geometría. |
+| [ChangeDirection](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/interfaces/idirectionable/metodos/changedirection.md) | Cambia el sentido de la geometría. |
 
 
 

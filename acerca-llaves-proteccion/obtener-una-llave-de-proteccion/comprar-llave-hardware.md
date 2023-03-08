@@ -11,7 +11,7 @@ Si has decidido comprar una llave de hardware, sigue las siguientes instruccione
 * Código postal.
 * Persona de contacto.
 * Teléfono.
-* La dirección de correo que utilizas para conectarte a nuestra web [www.digi21.net](www.digi21.net)
+* La dirección de correo que utilizas para conectarte a nuestra web [www.digi21.net](https://www.digi21.net)
 
-En la mayor brevedad posible te enviaremos la llave de protección a la dirección indicada y añadiremos la llave de protección la sección [Mis Llaves](http://www.digi21.net/MisLlaves) del usuario de [www.digi21.net](http://www.digi21.net/) que nos hayas indicado.
+En la mayor brevedad posible te enviaremos la llave de protección a la dirección indicada y añadiremos la llave de protección la sección [Mis Llaves](https://www.digi21.net/MisLlaves) del usuario de [www.digi21.net](https://www.digi21.net/) que nos hayas indicado.
 

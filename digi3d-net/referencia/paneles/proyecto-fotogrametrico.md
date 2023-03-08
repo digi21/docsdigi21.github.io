@@ -1,6 +1,6 @@
 # Proyecto fotogramétrico
 
-![Panel proyecto fotogramétrico](../../../../.gitbook/assets/PanelProyectoFotogrametrico.PNG)
+![Panel proyecto fotogramétrico](../../../.gitbook/assets/panelproyectofotogrametrico.png)
 
 Permite crear archivos de proyecto fotogramétrico, así como cargar archivos de proyectos fotogramétricos creados por otros programas.
 

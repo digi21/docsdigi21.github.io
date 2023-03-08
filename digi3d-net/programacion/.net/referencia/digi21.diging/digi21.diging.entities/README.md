@@ -4,32 +4,32 @@ Proporciona los tipos relacionados con geometrías.
 
 ## Clases
 
-* [Code](clases/code/)
-* [Complex](clases/complex/)
-* [Entity](clases/entity/)
-* [GeometryFactory](clases/geometryfactory/)
-* [Line](clases/line/)
-* [Point](clases/point/)
-* [Polygon](clases/polygon/)
-* [ReadOnlyComplex](clases/readonlycomplex/)
-* [ReadOnlyLine](clases/readonlyline/)
-* [ReadOnlyPoint](clases/readonlypoint/)
-* [ReadOnlyPolygon](clases/readonlypolygon/)
-* [ReadOnlyText](clases/readonlytext/)
-* [SegmentPointer](clases/segmentpointer/)
-* [Text](clases/text/)
-* [VertexPointer](clases/vertexpointer/)
+* [Code](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/clases/code/)
+* [Complex](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/clases/complex/)
+* [Entity](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/clases/entity/)
+* [GeometryFactory](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/clases/geometryfactory/)
+* [Line](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/clases/vertexpointer/propiedades/line.md)
+* [Point](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/clases/point/)
+* [Polygon](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/clases/polygon/)
+* [ReadOnlyComplex](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/clases/readonlycomplex/)
+* [ReadOnlyLine](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/clases/readonlyline/)
+* [ReadOnlyPoint](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/clases/readonlypoint/)
+* [ReadOnlyPolygon](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/clases/readonlypolygon/)
+* [ReadOnlyText](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/clases/readonlytext/)
+* [SegmentPointer](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/clases/segmentpointer/)
+* [Text](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/clases/text/)
+* [VertexPointer](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/clases/vertexpointer/)
 
 ## Interfaces
 
-* [IClippable](interfaces/iclippable/)
-* [ICloseable](interfaces/icloseable/)
-* [IDirectionable](interfaces/idirectionable/)
+* [IClippable](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/interfaces/iclippable/)
+* [ICloseable](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/interfaces/icloseable/)
+* [IDirectionable](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/interfaces/idirectionable/)
 * [ISnappable](interfaces/isnapable/)
 * [ITrimmable](interfaces/itrimmable/)
 
 ## Enumeraciones
 
-* [PointPosition](enumeraciones/pointposition.md)
-* [TextJustification](enumeraciones/textjustification.md)
+* [PointPosition](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/enumeraciones/pointposition.md)
+* [TextJustification](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/enumeraciones/textjustification.md)
 

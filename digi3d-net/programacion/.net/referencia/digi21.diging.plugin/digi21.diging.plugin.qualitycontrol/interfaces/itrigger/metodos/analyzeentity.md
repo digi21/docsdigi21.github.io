@@ -1,7 +1,7 @@
 # AnalyzeEntity
 
-Espacio de nombres: [Digi21.DigiNG.Plugin.QualityControl](../../../)  
-Ensamblado: [Digi21.DigiNG.Plugin](../../../../)
+Espacio de nombres: [Digi21.DigiNG.Plugin.QualityControl](/digi3d-net/programacion/.net/referencia/digi21.diging.plugin/digi21.diging.plugin.qualitycontrol/)  
+Ensamblado: [Digi21.DigiNG.Plugin](/digi3d-net/programacion/.net/referencia/digi21.diging.plugin/)
 
 Este método es llamado por Digi3D.NET para analizar el control de calidad de una geometría.
 
@@ -11,7 +11,7 @@ Entity AnalyzeEntity(Entity entity, bool addingEntity);
 
 ## Parámetros
 
-`entity`[Entity](../../../../../digi21.diging/digi21.diging.entities/clases/entity/)  
+`entity`[Entity](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/clases/entity/)  
 Geometría a analizar.
 
 `addingEntity`[Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean?view=net-5.0)  
@@ -20,7 +20,7 @@ Verdadero si el análisis se ha desencadenado porque se está almacenando una ge
 ## Devuelve
 
 [Double](https://docs.microsoft.com/en-us/dotnet/api/system.double?view=net-5.0)  
-Geometría a almacenar. No tiene por qué ser la geometría original, puede ser otra como por ejemplo una geometría de tipo [Point](../../../../../digi21.diging/digi21.diging.entities/clases/point/) si la geometría a analizar era de tipo [Line](../../../../../digi21.diging/digi21.diging.entities/clases/line/) y su perímetro por ejemplo era muy pequeño y el control de calidad decide que hay que transformarla en un punto.
+Geometría a almacenar. No tiene por qué ser la geometría original, puede ser otra como por ejemplo una geometría de tipo [Point](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/clases/point/) y su perímetro por ejemplo era muy pequeño y el control de calidad decide que hay que transformarla en un punto.
 
 ## Excepciones
 
@@ -28,10 +28,10 @@ Digi3D.NET entiende que, si este método no lanza ninguna excepción, que debe a
 
 Las excepciones que espera recibir Digi3D.NET cuando llama a este método son las siguientes:
 
-* [DatabaseAttributeException](../../../clases/databaseattributeexception.md)
-* [DigitizeAsPointException](../../../clases/digitizeaspointexception.md)
-* [GeometricRelationException](../../../clases/geometricrelationexception.md)
-* [GeometryException](../../../clases/geometryexception.md)
+* [DatabaseAttributeException](/digi3d-net/programacion/.net/referencia/digi21.diging.plugin/digi21.diging.plugin.qualitycontrol/excepciones/databaseattributeexception.md)
+* [DigitizeAsPointException](/digi3d-net/programacion/.net/referencia/digi21.diging.plugin/digi21.diging.plugin.qualitycontrol/excepciones/digitizeaspointexception.md)
+* [GeometricRelationException](/digi3d-net/programacion/.net/referencia/digi21.diging.plugin/digi21.diging.plugin.qualitycontrol/excepciones/geometricrelationexception.md)
+* [GeometryException](/digi3d-net/programacion/.net/referencia/digi21.diging.plugin/digi21.diging.plugin.qualitycontrol/excepciones/geometryexception.md)
 * [WarningException](https://docs.microsoft.com/en-us/dotnet/api/system.componentmodel.warningexception?view=net-5.0)
 
 ## Observaciones
@@ -46,7 +46,7 @@ Puedes aprender más en [Guiones de Control de Calidad](../../../../../../guione
 
 ## Ejemplo:
 
-El siguiente guion de ejemplo asignado a un determinado código lanza una excepción de tipo [GeometryException](../../../clases/geometryexception.md) si la geometría a almacenar no es de tipo [Line](../../../../../digi21.diging/digi21.diging.entities/clases/line/):
+El siguiente guion de ejemplo asignado a un determinado código lanza una excepción de tipo [GeometryException](/digi3d-net/programacion/.net/referencia/digi21.diging.plugin/digi21.diging.plugin.qualitycontrol/excepciones/geometryexception.md):
 
 ```csharp
 using System;

@@ -14,6 +14,6 @@ La llave de protección ahora está como salida de fábrica, lo que significa qu
 
 1. Entra en tu panel de llaves de protección siguiendo el siguiente enlace: [Mis Llaves](http://www.digi21.net/MisLlaves).
 2. Asigna una contraseña de activación a tu llave de protección.
-3. Activa tu llave de protección con el programa [Activar ordenador](../programas-relacionados-con-licencias-y-llaves-de-proteccion/activar-ordenador.md) si el ordenador en el que vas a instalar la llave dispone de conexión a internet o mediante el programa Activar ordenador Offline si el ordenador no dispone de conexión a internet.
+3. Activa tu llave de protección con el programa [Activar ordenador](/acerca-llaves-proteccion/programas-relacionados-con-licencias-y-llaves-de-proteccion/activar-ordenador.md) si el ordenador en el que vas a instalar la llave dispone de conexión a internet o mediante el programa Activar ordenador Offline si el ordenador no dispone de conexión a internet.
 4. Comprueba que el ordenador está activado correctamente en tu llave de protección mediante el programa Comprobar licencias.
 

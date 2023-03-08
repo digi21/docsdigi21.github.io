@@ -1,6 +1,6 @@
 # ELIMINA\_ATRIBUTOS\_ACTIVOS
 
-Elimina todos los atributos del panel [atributos-activos.md](../../../paneles/atributos-activos.md "mention").
+Elimina todos los atributos del panel [atributos-activos.md](../../../paneles/atributos-activos.md).
 
 ## Parámetros
 

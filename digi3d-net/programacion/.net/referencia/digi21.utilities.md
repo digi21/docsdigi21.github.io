@@ -17,7 +17,7 @@ dotnet add package Digi21.Utilities --version 21.0.0
 <PackageReference Include="Digi21.Utilities" Version="21.0.0" />
 ```
 
-Puedes clonar y modificar este paquete en el repositorio de GitHub [Digi21.Utilities](https://github.com/digi21/Digi21.Utilities).
+Puedes clonar y modificar este paquete en el repositorio de GitHub [Digi21.Utilities](/digi3d-net/programacion/.net/referencia/digi21.utilities.md).
 
 
 

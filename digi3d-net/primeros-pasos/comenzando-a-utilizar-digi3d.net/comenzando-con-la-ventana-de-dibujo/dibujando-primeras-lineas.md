@@ -10,9 +10,9 @@ Conoce los botones del ratón:
 
 Para dibujar tu primera línea sigue los siguientes pasos:
 
-1. Selecciona un código lineal en la [Barra de herramientas Código](/digi3d-net/primeros-pasos/comenzando-a-utilizar-digi3d.net/comenzando-con-la-ventana-de-dibujo/BarraDeHerramientasCodigo.html), pulsando sobre la flecha que está al lado de los prismáticos, por ejemplo el _010123 LIMITE PROVINCIAL_
-2. Si al mover el cursor sobre la ventana de dibujo de Digi3D.NET no muestra una cruz y además no ves coordenadas en la [Barra de herramientas de coordenadas](/digi3d-net/primeros-pasos/comenzando-a-utilizar-digi3d.net/comenzando-con-la-ventana-de-dibujo/BarraDeHerramientasCoordenadas.html), tienes que capturar el ratón en la ventana de dibujo. Haz **clic** en pantalla para capturar el cursor.
-3. Pulsa sobre la ventana de dibujo con el [botón de dato](dibujando-primeras-lineas.md) del ratón, si el código que está activo en ese momento es un código lineal, Digi3D.NET ejecuta automáticamente la orden [**LINEA**](/digi3d-net/primeros-pasos/comenzando-a-utilizar-digi3d.net/comenzando-con-la-ventana-de-dibujo/LINEA.html).
+1. Selecciona un código lineal en la [Barra de herramientas Código](/digi3d-net/referencia/barras-de-herramientas/codigo.md), pulsando sobre la flecha que está al lado de los prismáticos, por ejemplo el _010123 LIMITE PROVINCIAL_
+2. Si al mover el cursor sobre la ventana de dibujo de Digi3D.NET no muestra una cruz y además no ves coordenadas en la [Barra de herramientas de coordenadas](/digi3d-net/referencia/barras-de-herramientas/coordenadas.md), tienes que capturar el ratón en la ventana de dibujo. Haz **clic** en pantalla para capturar el cursor.
+3. Pulsa sobre la ventana de dibujo con el [botón de dato](dibujando-primeras-lineas.md) del ratón, si el código que está activo en ese momento es un código lineal, Digi3D.NET ejecuta automáticamente la orden [**LINEA**](/digi3d-net/referencia/ventana-de-dibujo/ordenes/l/linea.md).
 
    La Barra de Mensajes ocupa la parte inferior de Digi3D.NET. Esta barra dispone de dos ventanas:
 
@@ -27,7 +27,5 @@ Si introduces un único vértice y pulsas el [botón de cancelar](dibujando-prim
 
 ## Video
 
-<video controls>
-    <source src="https://digi21.blob.core.windows.net/videos-ayuda/Dibujando%20nuestras%20primeras%20lineas.mp4" type="video/mp4">
-</video>
+<video controls><source src="https://digi21.blob.core.windows.net/videos-ayuda/Dibujando%20nuestras%20primeras%20lineas.mp4" caption="" type="video/mp4"></video>
 

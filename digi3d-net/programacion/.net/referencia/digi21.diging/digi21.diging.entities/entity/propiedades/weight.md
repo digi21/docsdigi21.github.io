@@ -1,7 +1,7 @@
 # Weight
 
-Espacio de nombres: [Digi21.DigiNG.Entities](../../)  
-Ensamblado: [Digi21.DigiNG](../../../)
+Espacio de nombres: [Digi21.DigiNG.Entities](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/)  
+Ensamblado: [Digi21.DigiNG](/digi3d-net/programacion/.net/referencia/digi21.diging.plugin/digi21.diging/)
 
 Devuelve o asigna el grosor de la geometría en caso de tener asignado uno que no sea el de la tabla de códigos.
 

@@ -10,8 +10,8 @@ Este proceso no elimina información de tu llave, de modo que si en ésta tienes
 1.  Instala si no lo tienes ya instalado el programa que quieres utilizar:\
 
 
-    * [Digi3D.NET](https://www.digi21.net/Digi3D/Download)
-    * [MDTopX](https://www.digi21.net/MDTop/Download)
+    * [Digi3D.NET](/digi3d-net/referencia/)
+    * [MDTopX](/mdtopx/)
     * [Topcal21](https://www.digi21.net/Topcal21/Download)
 
     Los instaladores de estos programas instalan entre otras cosas la **Suite de aplicaciones Licencias**. Si estás utilizando un instalador antiguo que no lo incluya, descarga e instala la [Suite de aplicaciones Licencias](https://digi21.blob.core.windows.net/download/SetupSuiteLicencias\_es-ES.exe).
@@ -26,7 +26,7 @@ Este proceso no elimina información de tu llave, de modo que si en ésta tienes
     | -------- | ----- |
     | Vendor   | 78585 |
 6. Comprueba que en la columna _Version_ tienes el valor **3.25** o superior.\
-   Si el valor que aparece en esta columna es inferior a 3.25, sigue los pasos del tutorial [Actualizando el firmware de tu llave de protección Hasp HL](actualizando-firmware.md).
+   Si el valor que aparece en esta columna es inferior a 3.25, sigue los pasos del tutorial [Actualizando el firmware de tu llave de protección Hasp HL](/acerca-llaves-proteccion/obtener-una-llave-de-proteccion/actualizando-tu-llave-de-proteccion/actualizando-llave-hasp-hl/actualizando-firmware.md).
 7. Descarga ejecuta el programa [ActualizarLlaveLDK.exe](http://digi21.blob.core.windows.net/download/ActualizarLlaveLDK.exe)\
    Este programa sirve para analizar tu llave de protección y crear un archivo que nos va a permitir reprogramarla remotamente.
 8. Aparecerá el programa _Sentinel HASP RUS_. Este programa tiene dos pestañas: _Collect Key Status Information_ y _Apply License Update_.

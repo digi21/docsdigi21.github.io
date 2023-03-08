@@ -44,7 +44,5 @@ Si tienes configurado el ratón para que el movimiento de la rueda cambie el fac
 
 ## Vídeo
 
-<video controls>
-    <source src="https://digi21.blob.core.windows.net/videos-ayuda/Aprendiendo%20a%20cambiar%20el%20factor%20de%20zoom.mp4" type="video/mp4">
-</video>
+<video controls><source src="https://digi21.blob.core.windows.net/videos-ayuda/Aprendiendo%20a%20cambiar%20el%20factor%20de%20zoom.mp4" caption="" type="video/mp4"></video>
 

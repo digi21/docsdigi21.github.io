@@ -6,9 +6,9 @@ Existen los siguientes tipos:
 
 | Sistema de referencia de coordenadas | Dimensiones |
 | :--- | :--- |
-| [Desconocido o local](/digi3d-net/sistemas-referencia-coordenadas/introduccion-sistemas-referencia-coordenadas/tipos-sistemas-referencia-coordenadas/sistemas-referencia-coordenadas-verticales/SistemaDeReferenciaDeCoordenadasDesconocido.html) | 1D o 2D |
+| [Desconocido o local](sistema-referencia-vertical-desconocido.md) | 1D o 2D |
 | De ingeniería | No aplicable pues Digi3D.NET no los soporta. |
 | Verticales | 1D |
 
-Digi3D.NET únicamente va a permitir seleccionar un sistema de coordenadas de vertical como la parte vertical de un [sistema de referencia de coordenadas compuesto](/digi3d-net/sistemas-referencia-coordenadas/introduccion-sistemas-referencia-coordenadas/tipos-sistemas-referencia-coordenadas/sistemas-referencia-coordenadas-verticales/SistemasDeReferenciaDeCoordenadasCompuestos.html).
+Digi3D.NET únicamente va a permitir seleccionar un sistema de coordenadas de vertical como la parte vertical de un [sistema de referencia de coordenadas compuesto](../sistemas-referencia-coordenadas-compuestos.md).
 

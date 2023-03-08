@@ -1,6 +1,6 @@
 # Ayuda dinámica
 
-![Panel Ayuda dinámica](../../../../.gitbook/assets/AyudaDinamica.PNG)
+![Panel Ayuda dinámica](../../../.gitbook/assets/ayudadinamica.png)
 
 Este panel permite mostrar ayuda asociada a un código, así como muestra la ayuda de una determinada orden.
 

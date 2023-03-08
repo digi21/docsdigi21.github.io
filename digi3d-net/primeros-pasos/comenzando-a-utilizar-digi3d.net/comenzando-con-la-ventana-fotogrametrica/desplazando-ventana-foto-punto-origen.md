@@ -10,7 +10,5 @@ Comprobarás que Digi3D.NET se ha desplazado al punto de origen del modelo.
 
 ## Vídeo
 
-<video controls>
-    <source src="https://digi21.blob.core.windows.net/videos-ayuda/Desplazando%20la%20ventana%20fotogrametrica%20al%20punto%20de%20origen%20del%20modelo.mp4" type="video/mp4">
-</video>
+<video controls><source src="https://digi21.blob.core.windows.net/videos-ayuda/Desplazando%20la%20ventana%20fotogrametrica%20al%20punto%20de%20origen%20del%20modelo.mp4" caption="" type="video/mp4"></video>
 

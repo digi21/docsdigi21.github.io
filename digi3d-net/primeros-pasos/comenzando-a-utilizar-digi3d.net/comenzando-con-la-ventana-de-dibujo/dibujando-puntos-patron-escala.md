@@ -1,6 +1,6 @@
 # Dibujando puntos, patrón y escala de dibujo
 
-1. Pulsa los prismáticos en la [Barra de herramientas Código](/digi3d-net/primeros-pasos/comenzando-a-utilizar-digi3d.net/comenzando-con-la-ventana-de-dibujo/BarraDeHerramientasCodigo.html). Aparece el cuadro de diálogo **Seleccione códigos**, aquí podemos ver los distintos códigos que tiene la tabla de códigos que seleccionamos cuando creamos el archivo de dibujo:
+1. Pulsa los prismáticos en la [Barra de herramientas Código](/digi3d-net/referencia/barras-de-herramientas/codigo.md). Aparece el cuadro de diálogo **Seleccione códigos**, aquí podemos ver los distintos códigos que tiene la tabla de códigos que seleccionamos cuando creamos el archivo de dibujo:
 
 <table>
   <thead>
@@ -33,8 +33,8 @@
   </tbody>
 </table>
 
-* Si Digi3D.NET está en [modo preparado](dibujando-puntos-patron-escala.md) y el código activo es un [código lineal](dibujando-puntos-patron-escala.md), al pusar el [botón de dato](dibujando-puntos-patron-escala.md) sobre la ventana de dibujo, Digi3D.NET ejecutará de manera automática la orden [**LINEA**](/digi3d-net/primeros-pasos/comenzando-a-utilizar-digi3d.net/comenzando-con-la-ventana-de-dibujo/LINEA.html) y dibujará una polilínea.
-* Si Digi3D.NET está en **modo preparado** y el código activo es un [código puntual](dibujando-puntos-patron-escala.md), al pulsar el **botón de dato** sobre la ventana de dibujo, Digi3D.NET ejecutará la orden [**PUNTO**](/digi3d-net/primeros-pasos/comenzando-a-utilizar-digi3d.net/comenzando-con-la-ventana-de-dibujo/PUNTO.html).
+* Si Digi3D.NET está en [modo preparado](dibujando-puntos-patron-escala.md) y el código activo es un [código lineal](dibujando-puntos-patron-escala.md), al pusar el [botón de dato](dibujando-puntos-patron-escala.md) sobre la ventana de dibujo, Digi3D.NET ejecutará de manera automática la orden [**LINEA**](/digi3d-net/referencia/ventana-de-dibujo/ordenes/l/linea.md) y dibujará una polilínea.
+* Si Digi3D.NET está en **modo preparado** y el código activo es un [código puntual](dibujando-puntos-patron-escala.md), al pulsar el **botón de dato** sobre la ventana de dibujo, Digi3D.NET ejecutará la orden [**PUNTO**](/digi3d-net/referencia/ventana-de-dibujo/ordenes/p/punto.md).
 
 Sigue los siguientes pasos para digitalizar un punto:
 
@@ -44,9 +44,9 @@ Sigue los siguientes pasos para digitalizar un punto:
 
 Sigue los siguientes pasos para activar la representación gráfica \(patrón\) del punto que acabas de dibujar:
 
-1. Ejecuta la orden [**PATRON**](/digi3d-net/primeros-pasos/comenzando-a-utilizar-digi3d.net/comenzando-con-la-ventana-de-dibujo/PATRON.html), para poder visualizar la representación de ese código puntual, para ello, selecciona el botón correspondiente a esta orden en la [Barra de herramientas Parámetros de visualización](/digi3d-net/primeros-pasos/comenzando-a-utilizar-digi3d.net/comenzando-con-la-ventana-de-dibujo/BarraDeHerramientasParametrosDeVisualizacion.html).
+1. Ejecuta la orden [**PATRON**](/digi3d-net/primeros-pasos/comenzando-a-utilizar-digi3d.net/comenzando-con-la-ventana-de-dibujo/PATRON.html), para poder visualizar la representación de ese código puntual, para ello, selecciona el botón correspondiente a esta orden en la [Barra de herramientas Parámetros de visualización](https://github.com/digi21/docs/tree/7fc627c885c16fb88afc7cc05a6df2a2f4a54563/digi3d-net/primeros-pasos/comenzando-a-utilizar-digi3d.net/comenzando-con-la-ventana-de-dibujo/BarraDeHerramientasParametrosDeVisualizacion.md).
 
-La escala de representación de los patrones varía en función de la **Escala activa** en la pestaña **Archivo de dibujo**, del cuadro de diálogo [Nuevo Proyecto](/digi3d-net/primeros-pasos/comenzando-a-utilizar-digi3d.net/comenzando-con-la-ventana-de-dibujo/CuadroDeDialogoNuevoProyecto.html).
+La escala de representación de los patrones varía en función de la **Escala activa** en la pestaña **Archivo de dibujo**, del cuadro de diálogo [Nuevo Proyecto](/digi3d-net/referencia/cuadros-de-dialogo/nuevo-proyecto/).
 
 Sigue los siguientes pasos para modificar la escala de representación del punto que acabas de digitalizar:
 
@@ -62,7 +62,5 @@ El valor de la **Escala**, afecta únicamente a la representación, no afecta al
 
 ## Vídeo
 
-<video controls>
-    <source src="https://digi21.blob.core.windows.net/videos-ayuda/Dibujando%20puntos%20y%20activacion%20de%20patron%20y%20funcion%20del%20parametro%20escala.mp4" type="video/mp4">
-</video>
+<video controls><source src="https://digi21.blob.core.windows.net/videos-ayuda/Dibujando%20puntos%20y%20activacion%20de%20patron%20y%20funcion%20del%20parametro%20escala.mp4" caption="" type="video/mp4"></video>
 

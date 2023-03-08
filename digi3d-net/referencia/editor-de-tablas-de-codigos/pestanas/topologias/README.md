@@ -1,6 +1,6 @@
 # Topologías
 
-Permite configurar las topologías que se pueden generar mediante el menú [Topología ](../../../digi3d.net/ventana-de-dibujo/menus/topologia.md)de Digi3D.NET.
+Permite configurar las topologías que se pueden generar mediante el menú [Topología](/digi3d-net/referencia/ventana-de-dibujo/menus/topologia.md)de Digi3D.NET.
 
 ## Descripción
 
@@ -10,7 +10,7 @@ Al analizar una determinada topología, el programa analizará geométricamente 
 
 Se analizará la continuidad de estas líneas para localizar todos los [polígonos topológicos](poligonos-topologicos.md) que se puedan formar.
 
-Los _polígonos topológicos_ deben tener un [Centroide](centroide.md) en su interior. Si se localiza más de un centroide se considerará un error, y si no se localiza ninguno el programa puede que lo considere un error en función de cómo se haya configurado este escenario en la topología.
+Los _polígonos topológicos_ deben tener un [Centroide](/digi3d-net/referencia/editor-de-tablas-de-codigos/pestanas/topologias/centroide.md) en su interior. Si se localiza más de un centroide se considerará un error, y si no se localiza ninguno el programa puede que lo considere un error en función de cómo se haya configurado este escenario en la topología.
 
 ## Ventanas
 
@@ -28,26 +28,26 @@ Dispone de los siguientes botones:
 
 ### Lista de códigos
 
-Muestra un listado con todos los códigos con los que se forma la topología seleccionada en la [lista de topologías configuradas](./#lista-de-topologias-configuradas).
+Muestra un listado con todos los códigos con los que se forma la topología seleccionada en la **lista de topologías configuradas**.
 
 Dispone de los siguientes botones:
 
-* **Añadir** Permite añadir un código a la topología seleccionada mediante el cuadro de diálogo [Seleccionar códigos para topología](seleccionar-codigos-para-topologia.md). 
+* **Añadir** Permite añadir un código a la topología seleccionada mediante el cuadro de diálogo [Seleccionar códigos para topología](/digi3d-net/referencia/editor-de-tablas-de-codigos/pestanas/topologias/seleccionar-codigos-para-topologia.md). 
 * **Eliminar** Elimina el código seleccionado.
 
 ### Lista de centroides
 
-Muestra un listado con todos los centroides configurados para la topología seleccionada en la [lista de topologías configuradas](./#lista-de-topologias-configuradas).
+Muestra un listado con todos los centroides configurados para la topología seleccionada en la **lista de topologías configuradas**.
 
 Dispone de los siguientes botones:
 
-* **Añadir** Permite añadir centroides mediante el cuadro de dialogo [Añadir centroide](anadir-centroide.md).
+* **Añadir** Permite añadir centroides mediante el cuadro de dialogo [Añadir centroide](/digi3d-net/referencia/editor-de-tablas-de-codigos/pestanas/topologias/anadir-centroide.md).
 * **Eliminar** Elimina el centroide seleccionado.
 * **Modificar** Modifica el centroide seleccionado mediante el cuadro de diálogo _Añadir centroide_.
 
 ### Diccionario de valores
 
-Muestra el [diccionario de valores](centroide.md#diccionario-de-valores) asociado con el centroide seleccionado en la [lista de centroides](./#lista-de-centroides).
+Muestra el [diccionario de valores](centroide.md#diccionario-de-valores) asociado con el centroide seleccionado en la **lista de centroides**.
 
 Dispone de los siguientes botones:
 

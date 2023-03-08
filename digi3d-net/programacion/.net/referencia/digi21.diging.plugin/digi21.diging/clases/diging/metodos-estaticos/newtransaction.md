@@ -1,7 +1,7 @@
 # NewTransaction
 
-Espacio de nombres: [Digi21.DigiNG.Plugin](../../../../)\
-Ensamblado: [Digi21.DigiNG.Plugin](../../../../)
+Espacio de nombres: [Digi21.DigiNG.Plugin](/digi3d-net/programacion/.net/referencia/digi21.diging.plugin/)\
+Ensamblado: [Digi21.DigiNG.Plugin](/digi3d-net/programacion/.net/referencia/digi21.diging.plugin/)
 
 Crea una nueva transacción en la pila de transacciones de UNDO.
 
@@ -16,7 +16,7 @@ Booleano que indica si finalizar la transacción actual.
 
 ## Observaciones
 
-El motor de Digi3D.NET inserta en la pila de [UNDO](../../../../../../../../referencia/digi3d.net/ventana-de-dibujo/ordenes/u/undo.md) un nodo de comienzo de transacción inmediatamente antes de ejecutar el comando, e inserta automáticamente un nodo de fin de transacción cuando se destruye la orden.
+El motor de Digi3D.NET inserta en la pila de [UNDO](/digi3d-net/referencia/ventana-de-dibujo/ordenes/u/undo.md) un nodo de comienzo de transacción inmediatamente antes de ejecutar el comando, e inserta automáticamente un nodo de fin de transacción cuando se destruye la orden.
 
 Veamos por ejemplo cómo queda la pila de UNDO si se ejecuta una orden que añade la geometría 12345, y se elimina la geometría 67890:
 
@@ -40,7 +40,7 @@ Insertada la geometría 12345
 [COMIENZO DE TRANSACCIÓN] <- Este nodo se inserta siempre antes de instanciar la orden
 ```
 
-Para hacer esto utilizamos el método [NewTransaction](newtransaction.md) pasando como parámetro _verdadero_, justo antes de añadir o eliminar la geometría. Al pasar _verdadero_ ocurre lo siguiente:
+Para hacer esto utilizamos el método [NewTransaction](/digi3d-net/programacion/.net/referencia/digi21.diging.plugin/digi21.diging/clases/diging/metodos-estaticos/newtransaction.md) pasando como parámetro _verdadero_, justo antes de añadir o eliminar la geometría. Al pasar _verdadero_ ocurre lo siguiente:
 
 * Digi3D.NET comprueba si el último nodo añadido en la pila de UNDO es un nodo de COMIENZO DE TRANSACCIÓN. En caso afirmativo, no hace nada.
 * En caso contrario, añade un nodo de FIN DE TRANSACCIÓN e inmediatamente después añade un nodo de COMIENZO DE TRANSACCIÓN.
@@ -68,4 +68,4 @@ Insertada la geometría 111
 
 Si el usuario ahora ejecuta la orden UNDO, ésta no sabrá qué hacer, pues no puede localizar en la pila de UNDO un nodo de FIN DE TRANSACCIÓN y como la orden UNDO únicamente elimina lo que hay entre un nodo de FIN DE TRANSACCIÓN y el nodo de COMIENZO DE TRANSACCIÓN, pues no deshace nada.
 
-Para solucionar este problema, podemos llamar al método [NewTransaction](newtransaction.md) pero en este caso pasando _falso_ en el parámetro, porque no queremos que se inserte un nodo de fin de transacción, y una vez realidada la inserción o eliminación de geometrías, llamar al método [FinishTransaction](finishtransaction.md) para que se inserte un nodo de FIN DE TRANSACCIÓN en la pila.
+Para solucionar este problema, podemos llamar al método [NewTransaction](/digi3d-net/programacion/.net/referencia/digi21.diging.plugin/digi21.diging/clases/diging/metodos-estaticos/newtransaction.md) para que se inserte un nodo de FIN DE TRANSACCIÓN en la pila.

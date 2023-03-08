@@ -4,4 +4,4 @@ La pestaña Nube de puntos proporciona herramientas para la manipulación de la 
 
 Dispone de un único botón:
 
-* [Incorporar este escaneo](incorporar-este-escaneo.md).
+* [Incorporar este escaneo](/lot-of-points-cc/interfaz-de-usuario/nube-de-puntos/incorporar-este-escaneo.md).

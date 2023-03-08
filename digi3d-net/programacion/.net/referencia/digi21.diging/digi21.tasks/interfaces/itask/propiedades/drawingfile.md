@@ -1,7 +1,7 @@
 # DrawingFile
 
-Espacio de nombres: [Digi21.Tasks](../../../)  
-Ensamblado: [Digi21.DigiNG](../../../../)
+Espacio de nombres: [Digi21.Tasks](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.tasks/)  
+Ensamblado: [Digi21.DigiNG](/digi3d-net/programacion/.net/referencia/digi21.diging.plugin/digi21.diging/)
 
 Devuelve la ruta del archivo de dibujo que provocó que se generara la tarea.
 

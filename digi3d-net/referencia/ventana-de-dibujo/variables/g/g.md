@@ -1,6 +1,6 @@
 # G
 
-Activa o desactiva la función de [generalización](/digi3d-net/referencia/ventana-de-dibujo/variables/g/GEN.html).
+Activa o desactiva la función de [generalización](/digi3d-net/referencia/ventana-de-dibujo/ordenes/g/gen.md).
 
 ## Parámetros
 
@@ -42,5 +42,5 @@ No se han registrado observaciones para esta orden.
 | Opción del menú donde aparece la orden | Dibujar/Al finalizar la línea actual.../Generalizar \(eliminar puntos superfluos\) |
 | Barra de herramientas en la que aparece la orden | Acción al finalizar línea |
 | Extensión | DigiNG.OrdenesStandard.dll |
-| Variables relacionadas | [REPITE](/digi3d-net/referencia/ventana-de-dibujo/variables/g/REPITE.html) |
+| Variables relacionadas | [REPITE](/digi3d-net/referencia/ventana-de-dibujo/variables/r/repite.md) |
 

@@ -1,7 +1,7 @@
 # Window3D
 
-Espacio de nombres: [Digi21.Math](https://app.gitbook.com/@digi21/s/ayuda-de-digi21/~/drafts/-MXH1bS47Iib8Zhh9V4J/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.math)  
-Ensamblado: [Digi21.DigiNG](https://app.gitbook.com/@digi21/s/ayuda-de-digi21/~/drafts/-MXH1bS47Iib8Zhh9V4J/digi3d-net/programacion/.net/referencia/digi21.diging)​‌
+Espacio de nombres: [Digi21.Math](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.math/)  
+Ensamblado: [Digi21.DigiNG](/digi3d-net/programacion/.net/referencia/digi21.diging.plugin/digi21.diging/)​‌
 
 Esta clase implementa una ventana en tres dimensiones.
 
@@ -11,15 +11,15 @@ public struct Window3D : IWindow3D, IDesplazable
 
 Herencia [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object?view=net-5.0) → [ValueType](https://docs.microsoft.com/en-us/dotnet/api/system.valuetype?view=net-5.0) → Window3D
 
-Implementa: [IWindow3D](iwindow3d/), [IDesplazable](idesplazable/)
+Implementa: [IWindow3D](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.math/interfaces/iwindow3d/)
 
 ## Constructores
 
 |  |  |
 | :--- | :--- |
-| Window3D\(Point3D point\) | Inicializa una nueva instancia de un [Window3D](window3d.md) cuyas máximas y mínimas coinciden con el [Point3D ](point3d.md)pasado por parámetros. |
-| Window3D\(double, double, double, double, double, double\) | Inicializa una nueva instancia de un [Window3D](window3d.md)[ ](window2d.md)cuyas máximas y mínimas coinciden con los valores pasados por parámetros. |
-| Window3D\(IWindow3D\) | Inicializa una nueva instancia de un [Window3D](window3d.md) cuyas máximas y mínimas coinciden con el [IWindow3D](iwindow3d/)[ ](point3d.md)pasado por parámetros. |
+| Window3D\(Point3D point\) | Inicializa una nueva instancia de un [Window3D](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.math/clases/window3d.md)pasado por parámetros. |
+| Window3D\(double, double, double, double, double, double\) | Inicializa una nueva instancia de un [Window3D](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.math/clases/window3d.md)cuyas máximas y mínimas coinciden con los valores pasados por parámetros. |
+| Window3D\(IWindow3D\) | Inicializa una nueva instancia de un [Window3D](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.math/clases/window3d.md)pasado por parámetros. |
 
 ## Propiedades
 

@@ -1,7 +1,7 @@
 # ReadOnlyText
 
-Espacio de nombres: [Digi21.DigiNG.Entities](../)  
-Ensamblado: [Digi21.DigiNG](../../)
+Espacio de nombres: [Digi21.DigiNG.Entities](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/)  
+Ensamblado: [Digi21.DigiNG](/digi3d-net/programacion/.net/referencia/digi21.diging.plugin/digi21.diging/)
 
 Esta clase implementa una geometría de tipo texto de solo lectura.
 
@@ -9,21 +9,21 @@ Esta clase implementa una geometría de tipo texto de solo lectura.
 public class ReadOnlyText : Entity, ISnapable
 ```
 
-Herencia [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object?view=net-5.0) → [Entity](../entity/) → ReadOnlyText
+Herencia [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object?view=net-5.0) → [Entity](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/clases/entity/) → ReadOnlyText
 
-Tipos derivados: [Text](../text/)
+Tipos derivados: [Text](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/clases/text/)
 
-Implementa: [ISnapable](../isnapable/)
+Implementa: [ISnapable](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/interfaces/isnapable/)
 
 ## Propiedades
 
 |  |  |
 | :--- | :--- |
-| [Coordinate](propiedades/coordinate.md) | Devuelve las coordenadas de inserción del [ReadOnlyText](./). |
-| [Justification](propiedades/justification.md) | Devuelve la justificación de textos del [ReadOnlyText](./). |
-| [Rotation](propiedades/rotation.md) | Devuelve la rotación en radianes del [ReadOnlyText](./). |
-| [TextHeight](propiedades/textheight.md) | Devuelve la altura de textos del [ReadOnlyText](./). |
-| [Txt](propiedades/txt.md) | Devuelve el texto del [ReadOnlyText](./). |
+| [Coordinate](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/clases/text/propiedades/coordinate.md). |
+| [Justification](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/clases/text/propiedades/justification.md). |
+| [Rotation](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/clases/text/propiedades/rotation.md). |
+| [TextHeight](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/clases/text/propiedades/textheight.md). |
+| [Txt](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/clases/text/propiedades/txt.md). |
 
 ## Métodos
 

@@ -1,6 +1,6 @@
 # Activar ordenador
 
-Este programa activa un ordenador en una determinada llave de protección. Este programa requiere de una conexión a Internet. Si el ordenador que pretendes activar en la llave de protección no dispone de conexión a internet, utiliza el programa [Activar ordenador Offline](activar-ordenador-offline/).\
+Este programa activa un ordenador en una determinada llave de protección. Este programa requiere de una conexión a Internet. Si el ordenador que pretendes activar en la llave de protección no dispone de conexión a internet, utiliza el programa [Activar ordenador Offline](/acerca-llaves-proteccion/programas-relacionados-con-licencias-y-llaves-de-proteccion/activar-ordenador-offline/).\
 \
 Sigue los siguientes pasos para activar un ordenador en una determinada llave de protección:
 
@@ -23,7 +23,5 @@ Sigue los siguientes pasos para activar un ordenador en una determinada llave de
 
 ## Vídeo
 
-<video controls>
-    <source src="https://digi21.blob.core.windows.net/videos-ayuda/Activar%20ordenador.mp4" type="video/mp4">
-</video>
+<video controls><source src="https://digi21.blob.core.windows.net/videos-ayuda/Activar%20ordenador.mp4" type="video/mp4"></video>
 

@@ -2,7 +2,7 @@
 
 El interfaz de usuario de Digi3D.NET consiste en varias áreas detalladas a continuación:
 
-![Interfaz de usuario de Digi3D.NET](<../../../.gitbook/assets/Interfaz de usuario de Digi3d.png>)
+![Interfaz de usuario de Digi3D.NET](/digi3d-net/primeros-pasos/comenzando-a-utilizar-digi3d.net/interfaz-usuario.md)
 
 | 1 | Barra de menús.         | Contiene los menús con opciones para ejecutar comandos en Digi3D.NET. Este menú variará en función de si tenemos o no abiertos archivos de dibujo o ventanas fotogramétricas y en función de la ventana que tenga el foco en un determinado momento.                        |
 | - | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -14,6 +14,4 @@ El interfaz de usuario de Digi3D.NET consiste en varias áreas detalladas a cont
 
 ## Vídeo
 
-<video controls>
-    <source src="https://digi21.blob.core.windows.net/videos-ayuda/Introduccion%20al%20interfaz%20de%20usuario%20de%20Digi3D.mp4" type="video/mp4">
-</video>
+<video controls><source src="https://digi21.blob.core.windows.net/videos-ayuda/Introduccion%20al%20interfaz%20de%20usuario%20de%20Digi3D.mp4" type="video/mp4"></video>

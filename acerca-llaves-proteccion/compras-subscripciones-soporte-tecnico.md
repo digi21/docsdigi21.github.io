@@ -1,6 +1,6 @@
 # Compras y subscripciones de soporte técnico
 
-Si ya dispones de una llave de protección (por hardware o software), puedes comprar una licencia de cualquiera de nuestros programas. Si no dispones de una llave de protección, puedes crear una llave provisional siguiendo los pasos que aparecen en [Creando una llave de software provisional](obtener-una-llave-de-proteccion/creando-llave-provisional.md).
+Si ya dispones de una llave de protección (por hardware o software), puedes comprar una licencia de cualquiera de nuestros programas. Si no dispones de una llave de protección, puedes crear una llave provisional siguiendo los pasos que aparecen en [Creando una llave de software provisional](/acerca-llaves-proteccion/obtener-una-llave-de-proteccion/creando-llave-provisional.md).
 
 En la siguiente tabla te mostramos las versiones que podrás utilizar en función de si has adquirido un programa nuevo o has comprado un año de soporte técnico y actualizaciones, así como el requisito para poder comprar cada uno de los productos.
 
@@ -15,7 +15,7 @@ Un mes antes de la fecha de expiración de tu soporte técnico, te mostraremos u
 
 A continuación, te mostramos cómo comunica _Digi3D.NET_ al usuario que su subscripción de soporte técnico y actualizaciones está a punto de expirar:
 
-![Cuadro de diálogo mostrando que el soporte técnico está a punto de expirar](<../.gitbook/assets/Soporte técnico a punto de expirar.PNG>)
+![Cuadro de diálogo mostrando que el soporte técnico está a punto de expirar](../.gitbook/assets/soporte-técnico-a-punto-de-expirar.png)
 
 
 

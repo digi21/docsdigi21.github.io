@@ -1,9 +1,9 @@
 # Across
 
-Espacio de nombres: [Digi21.DigiNG.Entities.Relations](../../../)\
-Ensamblado: [Digi21.DigiNG](../../../../)
+Espacio de nombres: [Digi21.DigiNG.Entities.Relations](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities.relations/)\
+Ensamblado: [Digi21.DigiNG](/digi3d-net/programacion/.net/referencia/digi21.diging.plugin/digi21.diging/)
 
-Indica si las dos [ReadOnlyLine ](../../../../digi21.diging.entities/clases/readonlyline/)se cruzan.
+Indica si las dos [ReadOnlyLine](../../../../digi21.diging.entities/clases/readonlyline/)se cruzan.
 
 ![Línea cruza línea](../../../../../../../../../.gitbook/assets/lineacruzalinea.png)
 
@@ -13,10 +13,10 @@ public static bool Across(ReadOnlyLine a, ReadOnlyLine b)
 
 ### Parámetros
 
-`a` [ReadOnlyLine](../../../../digi21.diging.entities/clases/readonlyline/)\
+`a` [ReadOnlyLine](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/clases/readonlyline/)\
 Primera línea.
 
-`b` [ReadOnlyPolygon](../../../../digi21.diging.entities/clases/readonlypolygon/)\
+`b` [ReadOnlyPolygon](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/clases/readonlypolygon/)\
 Segunda línea.
 
 ## Devuelve

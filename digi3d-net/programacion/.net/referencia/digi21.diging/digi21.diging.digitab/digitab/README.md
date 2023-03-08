@@ -1,7 +1,7 @@
 # DigiTab
 
-Espacio de nombres: [Digi21.DigiNG.DigiTab](../)  
-Ensamblado: [Digi21.DigiNG](../../)
+Espacio de nombres: [Digi21.DigiNG.DigiTab](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.digitab/)  
+Ensamblado: [Digi21.DigiNG](/digi3d-net/programacion/.net/referencia/digi21.diging.plugin/digi21.diging/)
 
 Esta clase implementa métodos para interactuar con tablas de códigos de Digi3D.NET.
 
@@ -17,16 +17,16 @@ Implementa: [IDisposable](https://docs.microsoft.com/en-us/dotnet/api/system.idi
 
 |  |  |
 | :--- | :--- |
-| [Codes](propiedades/codes.md) | Devuelve una enumeración de [NodeDigiTab ](../nodedigitab/)con las características de cada código perteneciente a la tabla de códigos. |
-| [Path](propiedades/path.md) | Devuelve la ruta de la tabla de códigos. |
-| [Tables](propiedades/tables.md) | Devuelve un diccionario de esquemas de base de datos. |
-| [Item\[string\]](propiedades/item-string.md) | Devuelve el [NodeDigiTab](../nodedigitab/) con las características del código cuyo nombre coincide con el parámetro. |
+| [Codes](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/clases/entity/propiedades/codes.md)con las características de cada código perteneciente a la tabla de códigos. |
+| [Path](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.io/interfaces/ireadonlydrawingfile/propiedades/path.md) | Devuelve la ruta de la tabla de códigos. |
+| [Tables](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.digitab/clases/digitab/propiedades/tables.md) | Devuelve un diccionario de esquemas de base de datos. |
+| [Item\[string\]](propiedades/item-string.md) | Devuelve el [NodeDigiTab](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.digitab/clases/nodedigitab/) con las características del código cuyo nombre coincide con el parámetro. |
 
 ## Métodos estáticos
 
 |  |  |
 | :--- | :--- |
-| [Load](metodos-estaticos/load.md) | Carga una tabla de códigos devolviendo una instancia de [DigiTab](./). |
+| [Load](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.digitab/clases/digitab/metodos-estaticos/load.md). |
 
 ## Métodos
 

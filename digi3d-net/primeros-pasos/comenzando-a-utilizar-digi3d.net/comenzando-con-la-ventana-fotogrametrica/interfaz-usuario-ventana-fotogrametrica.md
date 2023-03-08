@@ -2,7 +2,7 @@
 
 El interfaz de usuario de Digi3D.NET consiste en varias áreas detalladas a continuación:
 
-![Interfaz de usuario de la ventana fotogramétrica](<../../../../.gitbook/assets/Interfaz de usuario de la ventana fotogrametrica.png>)
+![Interfaz de usuario de la ventana fotogramétrica](/digi3d-net/primeros-pasos/comenzando-a-utilizar-digi3d.net/comenzando-con-la-ventana-fotogrametrica/interfaz-usuario-ventana-fotogrametrica.md)
 
 | 1 | Barra de herramientas.         | Contiene botones para realizar acciones en la ventana fotogramétrica. Esta barra de herramientas varía en función del tipo de sensor que se esté mostrando en la ventana fotogramétrica. |
 | - | ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -12,6 +12,4 @@ El interfaz de usuario de Digi3D.NET consiste en varias áreas detalladas a cont
 
 ## Vídeo
 
-<video controls>
-    <source src="https://digi21.blob.core.windows.net/videos-ayuda/Interfaz%20de%20usuario%20de%20la%20ventana%20fotogrametrica.mp4" type="video/mp4">
-</video>
+<video controls><source src="https://digi21.blob.core.windows.net/videos-ayuda/Interfaz%20de%20usuario%20de%20la%20ventana%20fotogrametrica.mp4" type="video/mp4"></video>

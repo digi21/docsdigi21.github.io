@@ -1,9 +1,9 @@
 # CoincidentAndTerminate
 
-Espacio de nombres: [Digi21.DigiNG.Entities.Relations](../../../)  
-Ensamblado: [Digi21.DigiNG](../../../../)
+Espacio de nombres: [Digi21.DigiNG.Entities.Relations](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities.relations/)  
+Ensamblado: [Digi21.DigiNG](/digi3d-net/programacion/.net/referencia/digi21.diging.plugin/digi21.diging/)
 
-Indica si el [ReadOnlyPoint](../../../../digi21.diging.entities/clases/readonlypoint/) es coincidente con uno de los extremos del [ReadOnlyLine](../../../../digi21.diging.entities/clases/readonlyline/).
+Indica si el [ReadOnlyPoint](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/clases/readonlypoint/).
 
 ![Punto coincidente con extremo de l&#xED;nea](../../../../../../../../../.gitbook/assets/puntolineacoincidentesextremo.png)
 
@@ -13,10 +13,10 @@ public static bool CoincidentAndTerminate(ReadOnlyPoint point, ReadOnlyLine line
 
 ### Parámetros
 
-`point` [ReadOnlyPoint](../../../../digi21.diging.entities/clases/readonlypoint/)  
+`point` [ReadOnlyPoint](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/clases/readonlypoint/)  
 Punto.
 
-`line` [ReadOnlyLine](../../../../digi21.diging.entities/clases/readonlyline/)  
+`line` [ReadOnlyLine](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/clases/readonlyline/)  
 Línea.
 
 ## Devuelve

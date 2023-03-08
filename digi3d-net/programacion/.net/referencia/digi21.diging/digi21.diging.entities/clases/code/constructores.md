@@ -1,28 +1,28 @@
 # Constructores
 
-Espacio de nombres: [Digi21.DigiNG.Entities](../../)\
-Ensamblado: [Digi21.DigiNG](../../../)
+Espacio de nombres: [Digi21.DigiNG.Entities](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/)\
+Ensamblado: [Digi21.DigiNG](/digi3d-net/programacion/.net/referencia/digi21.diging.plugin/digi21.diging/)
 
-Inicializa una nueva instancia de la estructura [Code](./).
+Inicializa una nueva instancia de la estructura [Code](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/clases/code/).
 
 ## Observaciones
 
 El número de tabla es el número asignado para ese nombre de tabla en la tabla especial de base de datos MSCATALOG o CATDBS.
 
-Los importadores/exportadores proporcionan la propiedad [DatabaseTables](../../../digi21.diging.io/interfaces/idrawingfile/propiedades/databasetables.md) que devuelve un diccionario con los nombres de tablas, así como su número.
+Los importadores/exportadores proporcionan la propiedad [DatabaseTables](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.io/interfaces/idrawingfile/propiedades/databasetables.md) que devuelve un diccionario con los nombres de tablas, así como su número.
 
 ## Sobrecargas
 
 |                                                                                                                             |                                                                                                                                          |
 | --------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| [Code(string)](constructores.md#code-string)                                                                                | Inicializa una nueva instancia de [Code ](./)asignándole un nombre.                                                                      |
+| [Code(string)](constructores.md#code-string)                                                                                | Inicializa una nueva instancia de [Code](./)asignándole un nombre.                                                                      |
 | [Code(string, IDictionary\<string, object>)](constructores.md#code-string-idictionary-less-than-string-object-greater-than) |                                                                                                                                          |
-| [Code(string, int?, int?)](constructores.md#code-string-int-int)                                                            | Inicializa una nueva instancia de [Code ](./)asignándole un nombre, identificador de tabla de base de datos e identificador de registro. |
-| [Code(string, int, int)](constructores.md#code-string-int-int-1)                                                            | Inicializa una nueva instancia de [Code ](./)asignándole un nombre, identificador de tabla de base de datos e identificador de registro. |
+| [Code(string, int?, int?)](constructores.md#code-string-int-int)                                                            | Inicializa una nueva instancia de [Code](./)asignándole un nombre, identificador de tabla de base de datos e identificador de registro. |
+| [Code(string, int, int)](constructores.md#code-string-int-int-1)                                                            | Inicializa una nueva instancia de [Code](./)asignándole un nombre, identificador de tabla de base de datos e identificador de registro. |
 
 ## Code(string)
 
-Inicializa una nueva instancia de [Code ](./)asignándole un nombre.
+Inicializa una nueva instancia de [Code](./)asignándole un nombre.
 
 ```csharp
 public Code(string name);
@@ -43,7 +43,7 @@ var código = new Code("020400");
 
 ## Code(string, IDictionary\<string, object>)
 
-Inicializa una nueva instancia de [Code ](./)asignándole un nombre y un diccionario de atributos.
+Inicializa una nueva instancia de [Code](./)asignándole un nombre y un diccionario de atributos.
 
 ```csharp
 public Code(string name, IDictionary<string, object> attributes);
@@ -73,7 +73,7 @@ var código = new Code("020400",
 
 ## Code(string, int?, int?)
 
-Inicializa una nueva instancia de [Code ](./)asignándole un nombre, identificador de tabla de base de datos e identificador de registro.
+Inicializa una nueva instancia de [Code](./)asignándole un nombre, identificador de tabla de base de datos e identificador de registro.
 
 ```csharp
 public Code(string name, int? table, int? id);
@@ -88,7 +88,7 @@ Nombre que asignar al código
 Número de tabla de base de datos
 
 `id` [Nullable\<int>](https://docs.microsoft.com/en-us/dotnet/api/system.nullable-1?view=net-5.0)\
-Identificador del _PrimaryKey_ de la tabla de base de datos con los datos asignados al [Entity](../entity/) poseedor de este [Code](./).
+Identificador del _PrimaryKey_ de la tabla de base de datos con los datos asignados al [Entity](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/clases/entity/).
 
 #### Ejemplos
 
@@ -100,7 +100,7 @@ var código = new Code("020400", 2, 25522);
 
 ## Code(string, int, int)
 
-Inicializa una nueva instancia de [Code ](./)asignándole un nombre, identificador de tabla de base de datos e identificador de registro.
+Inicializa una nueva instancia de [Code](./)asignándole un nombre, identificador de tabla de base de datos e identificador de registro.
 
 ```csharp
 public Code(string name, int? table, int? id);
@@ -115,7 +115,7 @@ Nombre que asignar al código
 Número de tabla de base de datos
 
 `id` [Nullable\<int>](https://docs.microsoft.com/en-us/dotnet/api/system.nullable-1?view=net-5.0)\
-Identificador del _PrimaryKey_ de la tabla de base de datos con los datos asignados al [Entity](../entity/) poseedor de este [Code](./).
+Identificador del _PrimaryKey_ de la tabla de base de datos con los datos asignados al [Entity](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/clases/entity/).
 
 #### Ejemplos
 

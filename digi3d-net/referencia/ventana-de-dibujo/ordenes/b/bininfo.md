@@ -15,7 +15,7 @@ Esta orden proporcia la siguiente información para cada archivo cargado en la v
 * Número de textos
 * Coordenadas máximas y mínimas
 * Códigos conocidos
-* Códigos desconocidos: códgos que no se encuentren en el [Editor de tablas de códigos](/digi3d-net/referencia/ventana-de-dibujo/ordenes/b/EditorDeTablasDeCodigos.html).
+* Códigos desconocidos: códgos que no se encuentren en el [Editor de tablas de códigos](/digi3d-net/referencia/editor-de-tablas-de-codigos/).
 
 ## Características de la orden
 

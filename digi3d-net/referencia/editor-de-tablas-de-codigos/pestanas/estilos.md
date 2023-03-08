@@ -1,6 +1,6 @@
 # Estilos
 
-![Editor de tablas de códigos mostrando la pestaña Estilos](../../../../.gitbook/assets/PestañaEstilos.PNG)
+![Editor de tablas de códigos mostrando la pestaña Estilos](../../../../.gitbook/assets/pestanaestilos.png)
 
 Permite configurar los estilos con los que se representarán las geometrías.
 

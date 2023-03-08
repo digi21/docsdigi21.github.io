@@ -1,7 +1,7 @@
 # Tasks
 
-Espacio de nombres: [Digi21.DigiNG.Plugin](../../)  
-Ensamblado: [Digi21.DigiNG](../../../digi21.diging/)
+Espacio de nombres: [Digi21.DigiNG.Plugin](/digi3d-net/programacion/.net/referencia/digi21.diging.plugin/)  
+Ensamblado: [Digi21.DigiNG](/digi3d-net/programacion/.net/referencia/digi21.diging.plugin/digi21.diging/)
 
 Esta clase proporciona métodos que permiten interactuar con el panel de tareas de Digi3D.NET.
 

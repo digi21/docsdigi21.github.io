@@ -1,9 +1,9 @@
 # Constructores
 
-Espacio de nombres: [Digi21.Tasks](../../)  
-Ensamblado: [Digi21.DigiNG](../../../)
+Espacio de nombres: [Digi21.Tasks](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.tasks/)  
+Ensamblado: [Digi21.DigiNG](/digi3d-net/programacion/.net/referencia/digi21.diging.plugin/digi21.diging/)
 
-Inicializa una nueva instancia de [ResultsAddedEventArgs](./) configurado con un determinado valor de progreso.
+Inicializa una nueva instancia de [ResultsAddedEventArgs](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.tasks/clases/resultsaddedeventargs/) configurado con un determinado valor de progreso.
 
 ```csharp
 public ResultsAddedEventArgs(string message)

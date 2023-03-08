@@ -8,13 +8,11 @@ Ver [parámetros de variables booleanas](../../../ordenes/variables/variables-bo
 
 ## Observaciones
 
-Esta orden no recupera las geometrías eliminadas, únicamente habilita su visualización. Para recuperar geometrías eliminadas ejecutar la órdenes [RECUPERA](../../ordenes/r/recupera.md) o [RECUPERA\_COD](../../ordenes/r/recupera-cod.md).
+Esta orden no recupera las geometrías eliminadas, únicamente habilita su visualización. Para recuperar geometrías eliminadas ejecutar la órdenes [RECUPERA](/digi3d-net/referencia/ventana-de-dibujo/ordenes/r/recupera.md).
 
 ## Vídeo
 
-<video controls>
-    <source src="https://digi21.blob.core.windows.net/videos-ayuda/BORRADOS.mp4" type="video/mp4">
-</video>
+<video controls><source src="https://digi21.blob.core.windows.net/videos-ayuda/BORRADOS.mp4" caption="" type="video/mp4"></video>
 
 ## Características de la orden
 

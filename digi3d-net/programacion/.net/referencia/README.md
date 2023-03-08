@@ -12,14 +12,14 @@ Al instalar cualquiera de estos paquetes NuGet lo que se instala es un [ensambla
 
 A continuación, el listado de paquetes NuGet:
 
-* [Digi21.DigiNG](/digi3d-net/programacion/.net/referencia/digi21.diging)
-* [Digi21.DigiNG.Plugin](digi21.diging.plugin/)
-* [Digi21.Utilities](digi21.utilities.md)
-* [Digi21.DigiNG.Topology](digi21.diging.topology.md)
-* [Digi21.OpenGis](digi21.opengis.md)
-* [Digi21.Epsg](digi21.epsg.md)
-* [Digi21.DigiNG.IO.Bin](digi21.diging.io.bin/)
-* [Digi21.DigiNG.IO.BinDouble](digi21.diging.io.bindouble/)
-* [Digi21.DigiNG.IO.Shp](digi21.diging.io.shp/)
-* [Digi21.DigiNG.IO.Geomedia](digi21.diging.io.geomedia/)
+* [Digi21.DigiNG](/digi3d-net/programacion/.net/referencia/digi21.diging.plugin/digi21.diging/)
+* [Digi21.DigiNG.Plugin](/digi3d-net/programacion/.net/referencia/digi21.diging.plugin/)
+* [Digi21.Utilities](/digi3d-net/programacion/.net/referencia/digi21.utilities.md)
+* [Digi21.DigiNG.Topology](/digi3d-net/programacion/.net/referencia/digi21.diging.topology.md)
+* [Digi21.OpenGis](/digi3d-net/programacion/.net/referencia/digi21.opengis.md)
+* [Digi21.Epsg](/digi3d-net/programacion/.net/referencia/digi21.epsg.md)
+* [Digi21.DigiNG.IO.Bin](/digi3d-net/programacion/.net/referencia/digi21.diging.io.bin/)
+* [Digi21.DigiNG.IO.BinDouble](/digi3d-net/programacion/.net/referencia/digi21.diging.io.bindouble/)
+* [Digi21.DigiNG.IO.Shp](/digi3d-net/programacion/.net/referencia/digi21.diging.io.shp/)
+* [Digi21.DigiNG.IO.Geomedia](/digi3d-net/programacion/.net/referencia/digi21.diging.io.geomedia/)
 

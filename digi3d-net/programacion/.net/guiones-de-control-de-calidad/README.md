@@ -32,14 +32,14 @@ Los guiones pueden realizar tres tareas:
 *   Si el análisis se ha desencadenado porque se está almacenando una geometría y está habilitada la opción **Control de calidad/Analizar control de calidad al digitalizar entidad**, Digi3D.NET mostrará cuadros de diálogo al usuario en función del tipo de error.\
 
 
-    <img src="../../../../.gitbook/assets/ErrorGeometryException.PNG" alt="Error mostrado al digitalizar una geometría" data-size="original">
+    <img src="../../../.gitbook/assets/errorgeometryexception.png" alt="Error mostrado al digitalizar una geometría" data-size="original">
 
 
 
 
-* Si el análisis se ha desencadenado porque el usuario ha solicitado realizar un análisis de control de calidad, los errores detectados se mostrarán en el [panel de tareas](../../../referencia/digi3d.net/paneles/tareas.md).
+* Si el análisis se ha desencadenado porque el usuario ha solicitado realizar un análisis de control de calidad, los errores detectados se mostrarán en el [panel de tareas](../../../referencia/paneles/tareas.md).
 
-![](../../../../.gitbook/assets/PanelTareasMostrandoGeometryException.PNG)
+![](../../../.gitbook/assets/paneltareasmostrandogeometryexception.png)
 
 ### ¿Qué tipo de errores puede comunicar el guion a Digi3D.NET?
 
@@ -47,5 +47,5 @@ Se pueden comunicar tanto errores de atributos de base de datos como geométrico
 
 En caso de errores geométricos, se puede comunicar a Digi3D.NET que la geometría tiene un error geométrico de manera independiente o que la geometría tiene un error geométrico con respecto a otra geometría, como por ejemplo una geometría que cruza a otra si esto está prohibido en el control de calidad.
 
-Puedes aprender más en [Tipos de errores](creacion-de-un-guion-de-control-de-calidad/tipos-de-errores/).
+Puedes aprender más en [Tipos de errores](/digi3d-net/programacion/.net/guiones-de-control-de-calidad/creacion-de-un-guion-de-control-de-calidad/tipos-de-errores/).
 

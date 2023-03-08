@@ -9,7 +9,5 @@ Conoce la barra de mensajes al tentativar y el panel de tentativos:
 
 ## Vídeo
 
-<video controls>
-    <source src="https://digi21.blob.core.windows.net/videos-ayuda/Barra%20de%20mensajes%20al%20tentativar%20y%20panel%20de%20tentativos.mp4" type="video/mp4">
-</video>
+<video controls><source src="https://digi21.blob.core.windows.net/videos-ayuda/Barra%20de%20mensajes%20al%20tentativar%20y%20panel%20de%20tentativos.mp4" caption="" type="video/mp4"></video>
 

@@ -17,15 +17,15 @@ Digi21.DigiNG, Version=21.0.0.0, Culture=neutral, PublicKeyToken=6751d7d8a775bb8
 Digi21.DigiNG.Plugin, Version=21.0.0.0, Culture=neutral, PublicKeyToken=6751d7d8a775bb8c
 ```
 
-Los ensamblados _System.dll_ y _System.Core.dll_ son necesarios para todo ensamblado .NET, y los ensamblados [Digi21.DigiNG](../../referencia/digi21.diging/) y [Digi21.DigiNG.Plugin](../../referencia/digi21.diging.plugin/) proporcionan todos los tipos necesarios para interactuar con el motor de programación de Digi3D.NET.
+Los ensamblados _System.dll_ y _System.Core.dll_ son necesarios para todo ensamblado .NET, y los ensamblados [Digi21.DigiNG](/digi3d-net/programacion/.net/referencia/digi21.diging.plugin/digi21.diging/) proporcionan todos los tipos necesarios para interactuar con el motor de programación de Digi3D.NET.
 
 ### Código del guion
 
-Los guiones contienen el código mínimo necesario para proporcionar una clase pública que implemente el interfaz [ITrigger](../../referencia/digi21.diging.plugin/digi21.diging.plugin.qualitycontrol/interfaces/itrigger/).
+Los guiones contienen el código mínimo necesario para proporcionar una clase pública que implemente el interfaz [ITrigger](/digi3d-net/programacion/.net/referencia/digi21.diging.plugin/digi21.diging.plugin.qualitycontrol/interfaces/itrigger/).
 
 Este interfaz proporciona un único método [AnalizeEntity](../../referencia/digi21.diging.plugin/digi21.diging.plugin.qualitycontrol/interfaces/itrigger/metodos/analyzeentity.md) que recibe dos parámetros: la geometría a analizar y un booleano indicando si se está analizando porque se está almacenando una geometría (_Verdadero_) o porque el usuario ha seleccionado la opción del menú de analizar control de calidad.
 
-El nombre de la clase que implemente este interfaz y el nombre del espacio de nombres donde se defina la clase no es importante. Lo importante es que la clase sea pública y que ésta implemente el interfaz [ITrigger](../../referencia/digi21.diging.plugin/digi21.diging.plugin.qualitycontrol/interfaces/itrigger/).
+El nombre de la clase que implemente este interfaz y el nombre del espacio de nombres donde se defina la clase no es importante. Lo importante es que la clase sea pública y que ésta implemente el interfaz [ITrigger](/digi3d-net/programacion/.net/referencia/digi21.diging.plugin/digi21.diging.plugin.qualitycontrol/interfaces/itrigger/).
 
 ### Ejemplo:
 
@@ -49,7 +49,7 @@ namespace DigiTab
 }
 ```
 
-El método [AnalizeEntity ](../../referencia/digi21.diging.plugin/digi21.diging.plugin.qualitycontrol/interfaces/itrigger/metodos/analyzeentity.md)no tiene por qué ceñirse únicamente a realizar tareas de control de calidad, podría realizar fuera de este contexto, como por ejemplo actualizar una base de datos externa de control de producción, enviar eventos por correo electrónico, etc.
+El método [AnalizeEntity](../../referencia/digi21.diging.plugin/digi21.diging.plugin.qualitycontrol/interfaces/itrigger/metodos/analyzeentity.md)no tiene por qué ceñirse únicamente a realizar tareas de control de calidad, podría realizar fuera de este contexto, como por ejemplo actualizar una base de datos externa de control de producción, enviar eventos por correo electrónico, etc.
 
-En [Tipos de errores](tipos-de-errores/) se enumeran los tipos de errores que puede comunicar el guion.
+En [Tipos de errores](/digi3d-net/programacion/.net/guiones-de-control-de-calidad/creacion-de-un-guion-de-control-de-calidad/tipos-de-errores/) se enumeran los tipos de errores que puede comunicar el guion.
 

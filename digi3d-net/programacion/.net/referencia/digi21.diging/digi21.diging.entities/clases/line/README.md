@@ -1,7 +1,7 @@
 # Line
 
-Espacio de nombres: [Digi21.DigiNG.Entities](../../)  
-Ensamblado: [Digi21.DigiNG](../../../)
+Espacio de nombres: [Digi21.DigiNG.Entities](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/)  
+Ensamblado: [Digi21.DigiNG](/digi3d-net/programacion/.net/referencia/digi21.diging.plugin/digi21.diging/)
 
 Esta clase implementa una geometría de tipo línea \(que en realidad es una polilínea\).
 
@@ -9,22 +9,22 @@ Esta clase implementa una geometría de tipo línea \(que en realidad es una pol
 public class Line : ReadOnlyLine, IDesplazable, IDirectionable
 ```
 
-Herencia [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object?view=net-5.0) → [Entity](../entity/) → [ReadOnlyLine ](../readonlyline/)→ Line
+Herencia [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object?view=net-5.0) → [Entity](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/clases/entity/)→ Line
 
-Implementa: [IDesplazable](../../../digi21.math/interfaces/idesplazable/), [IDirectionable](../../interfaces/idirectionable/)
+Implementa: [IDesplazable](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.math/interfaces/idesplazable/)
 
 ## Constructores
 
 |  |  |
 | :--- | :--- |
-| [Line\(Code\)](constructores.md#line-code) | Inicializa una nueva instancia de [Line ](./)con un código. |
-| [Line\(IEnumerable&lt;Code&gt;\)](constructores.md#line-ienumerable-less-than-code-greater-than) | Inicializa une nueva instancia de [Line ](./)con múltiples códigos. |
+| [Line\(Code\)](constructores.md#line-code) | Inicializa una nueva instancia de [Line](./)con un código. |
+| [Line\(IEnumerable&lt;Code&gt;\)](constructores.md#line-ienumerable-less-than-code-greater-than) | Inicializa une nueva instancia de [Line](./)con múltiples códigos. |
 
 ## Propiedades
 
 |  |  |
 | :--- | :--- |
-| [Points](propiedades/points.md) | Devuelve la lista de vértices del [Line](./). |
+| [Points](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/clases/readonlypolygon/propiedades/points.md). |
 
 ## Métodos
 

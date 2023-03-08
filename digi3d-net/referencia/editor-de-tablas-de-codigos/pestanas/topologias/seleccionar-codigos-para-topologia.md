@@ -42,7 +42,7 @@ Todas aquellas líneas con este código que tengan almacenado en la base de dato
 
 ### Tipo de coordenada Z
 
-Permite la manera en la que aportarán coordenadas Z las líneas con este código a la hora de formar polígonos de esta topología en caso de que se haya configurado el valor **2.5D a partir de las geometrías del polígono** o el valor **3D a partir de las geometrías del polígono** en la opción [Coordenadas Z del polígono ](anadir-topologia.md#coordenadas-z-del-poligono)de la topología.
+Permite la manera en la que aportarán coordenadas Z las líneas con este código a la hora de formar polígonos de esta topología en caso de que se haya configurado el valor **2.5D a partir de las geometrías del polígono** o el valor **3D a partir de las geometrías del polígono** en la opción [Coordenadas Z del polígono](anadir-topologia.md#coordenadas-z-del-poligono)de la topología.
 
 Se puede seleccionar una de las siguientes opciones:
 

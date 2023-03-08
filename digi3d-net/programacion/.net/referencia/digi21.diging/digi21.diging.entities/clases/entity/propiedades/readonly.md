@@ -1,9 +1,9 @@
 # ReadOnly
 
-Espacio de nombres: [Digi21.DigiNG.Entities](../../../)  
-Ensamblado: [Digi21.DigiNG](../../../../)
+Espacio de nombres: [Digi21.DigiNG.Entities](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/)  
+Ensamblado: [Digi21.DigiNG](/digi3d-net/programacion/.net/referencia/digi21.diging.plugin/digi21.diging/)
 
-Indica si la geometría representada por este [Entity ](../)está almacenada en un archivo de dibujo \(y por lo tanto es de solo lectura\).
+Indica si la geometría representada por este [Entity](../)está almacenada en un archivo de dibujo \(y por lo tanto es de solo lectura\).
 
 ```csharp
 public bool Deleted { get; }

@@ -2,14 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\digi3d-net",
-    "\\digi3d-net\\primeros-pasos",
-    "\\digi3d-net\\primeros-pasos\\comenzando-a-utilizar-digi3d.net",
-    "\\digi3d-net\\referencia",
-    "\\digi3d-net\\referencia\\ventana-de-dibujo",
-    "\\digi3d-net\\referencia\\ventana-de-dibujo\\ordenes",
-    "\\digi3d-net\\referencia\\ventana-de-dibujo\\ordenes\\a",
-    "\\digi3d-net\\referencia\\ventana-de-dibujo\\ordenes\\p"
+    "\\digi3d-net\\sistemas-referencia-coordenadas",
+    "\\digi3d-net\\sistemas-referencia-coordenadas\\introduccion-sistemas-referencia-coordenadas",
+    "\\digi3d-net\\sistemas-referencia-coordenadas\\introduccion-sistemas-referencia-coordenadas\\tipos-sistemas-referencia-coordenadas",
+    "\\digi3d-net\\sistemas-referencia-coordenadas\\introduccion-sistemas-referencia-coordenadas\\tipos-sistemas-referencia-coordenadas\\sistemas-referencia-coordenadas-horizontales"
   ],
-  "SelectedNode": "\\SUMMARY.md",
+  "SelectedNode": "\\digi3d-net\\sistemas-referencia-coordenadas\\introduccion-sistemas-referencia-coordenadas\\tipos-sistemas-referencia-coordenadas\\sistemas-referencia-coordenadas-horizontales\\sistema-referencia-coordenadas-horizontal-desconocido.md",
   "PreviewInSolutionExplorer": false
 }

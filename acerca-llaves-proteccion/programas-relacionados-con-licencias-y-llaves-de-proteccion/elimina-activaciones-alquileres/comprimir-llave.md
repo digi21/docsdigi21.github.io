@@ -6,7 +6,7 @@ Si necesitas activar más de 20 ordenadores, la llave se quedará sin memoria y 
 
 Con una llave mono puesto puede que nunca te encuentres con ese problema, pero si dispones de una llave de protección de red, con 250 licencias, por ejemplo, puedes encontrarte con este problema.
 
-Para solucionar el problema debes ejecutar el programa [Elimina activaciones y alquileres](./) y marcar la casilla **Comprimir la memoria de la llave de protección** en la página de contraseña.
+Para solucionar el problema debes ejecutar el programa [Elimina activaciones y alquileres](/acerca-llaves-proteccion/programas-relacionados-con-licencias-y-llaves-de-proteccion/elimina-activaciones-alquileres/) y marcar la casilla **Comprimir la memoria de la llave de protección** en la página de contraseña.
 
 **Advertencia:**
 
@@ -20,4 +20,4 @@ Para eliminar la compresión de una llave de protección tienes que volver a eje
 
 Además, hemos hecho que el programa [Comprobar Licencias](../comprobar-licencias.md) muestre el porcentaje de memoria libre en la llave de protección:
 
-![Captura mostrando las propiedades de la llave de protección](<../../../.gitbook/assets/Propiedades de la llave de protección.jpg>)
+![Captura mostrando las propiedades de la llave de protección](../../../.gitbook/assets/propiedades-de-la-llave-de-protección.jpg)

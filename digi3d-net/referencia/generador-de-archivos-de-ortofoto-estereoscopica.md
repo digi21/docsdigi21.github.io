@@ -1,6 +1,6 @@
 # Generador de archivos de Ortofoto Estereoscópica
 
-![Generador de archivos de ortofoto estereoscópica](../../.gitbook/assets/GeneradorArchivosOrtofotoEstereoscopica.PNG)
+![Generador de archivos de ortofoto estereoscópica](../../.gitbook/assets/generadorarchivosortofotoestereoscopica.png)
 
 Permite crear archivos HMP (Heigh Map Pyramidal) para el sensor Ortofoto Estereoscópica de Digi3D.NET.
 

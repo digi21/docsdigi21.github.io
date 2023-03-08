@@ -21,7 +21,7 @@ Ya tienes creada la cuenta. Ahora puedes comenzar a enviar tiques de soporte té
 3. Introduce tu correo electrónico y tu contraseña.
 4. Pulsa el botón **Iniciar sesión**.
 5. Pulsa el enlace **Enviar una solicitud**.
-6. Rellena el formulario [siguiendo las reglas para crear un tique de soporte técnico](https://app.gitbook.com/s/-MVMB4g-NqQ5C2XEeAQK/soporte-tecnico/ReglasSoporteTecnico.html).
+6. Rellena el formulario [siguiendo las reglas para crear un tique de soporte técnico](/soporte-tecnico/reglas-soporte-tecnico.md).
 7. Pulsa el botón **Enviar**.
 
 Puedes revisar todos los tiques de soporte técnico que has creado.
@@ -34,7 +34,5 @@ Puedes revisar todos los tiques de soporte técnico que has creado.
 
 ## Vídeo
 
-<video controls>
-    <source src="https://digi21.blob.core.windows.net/videos-ayuda/Portal%20de%20soporte%20tecnico%20Digi21.mp4" type="video/mp4">
-</video>
+<video controls><source src="https://digi21.blob.core.windows.net/videos-ayuda/Portal%20de%20soporte%20tecnico%20Digi21.mp4" type="video/mp4"></video>
 

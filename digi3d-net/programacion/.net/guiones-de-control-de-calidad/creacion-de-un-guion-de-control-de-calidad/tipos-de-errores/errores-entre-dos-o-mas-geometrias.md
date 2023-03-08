@@ -1,6 +1,6 @@
 # Errores entre dos o más geometrías
 
-El guion puede comunicar a Digi3D.NET que ha localizado un error de relación entre la geometría que se ha ordenado almacenar y otra geometría existente en el archivo de dibujo lanzando una excepción de tipo [GeometricRelationException](../../../referencia/digi21.diging.plugin/digi21.diging.plugin.qualitycontrol/clases/geometricrelationexception.md) como en el siguiente ejemplo que comunica este error si la geometría que se está almacenando tiene el mismo código que otra geometría existente \(suponemos que el control de calidad no permite que existan dos geometrías con el mismo código\):
+El guion puede comunicar a Digi3D.NET que ha localizado un error de relación entre la geometría que se ha ordenado almacenar y otra geometría existente en el archivo de dibujo lanzando una excepción de tipo [GeometricRelationException](/digi3d-net/programacion/.net/referencia/digi21.diging.plugin/digi21.diging.plugin.qualitycontrol/excepciones/geometricrelationexception.md):
 
 ```csharp
 using System;

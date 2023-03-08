@@ -17,9 +17,7 @@ FIJAXY=1
 
 ## Vídeo
 
-<video controls>
-    <source src="https://digi21.blob.core.windows.net/videos-ayuda/FIJAXY.mp4" type="video/mp4">
-</video>
+<video controls><source src="https://digi21.blob.core.windows.net/videos-ayuda/FIJAXY.mp4" caption="" type="video/mp4"></video>
 
 ## Características de la orden
 
@@ -29,6 +27,6 @@ FIJAXY=1
 | Opción del menú donde aparece la orden | _Esta orden no tiene asociada ninguna opción del menú_ |
 | Barra de herramientas en la que aparece la orden | _Esta orden no tiene asociado ningún botón en ninguna barra de herramientas_ |
 | Extensión | DigiNG.OrdenesStandard.dll |
-| Variables relacionadas | [EQUIDISTANCIA](../e/equidistancia.md) |
+| Variables relacionadas | [EQUIDISTANCIA](/digi3d-net/referencia/ventana-de-dibujo/variables/e/equidistancia.md) |
 | Nombre interno | {4CABD32C-2B27-49db-89B7-D83ABA2A0A99} |
 

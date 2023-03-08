@@ -26,9 +26,7 @@ Si ejecutamos esta orden sin parámetros, esta mostrará el cuadro de diálogo d
 
 ## Vídeo
 
-<video controls>
-    <source src="https://digi21.blob.core.windows.net/videos-ayuda/COLOR_FONDO.mp4" type="video/mp4">
-</video>
+<video controls><source src="https://digi21.blob.core.windows.net/videos-ayuda/COLOR_FONDO.mp4" type="video/mp4"></video>
 
 ## Características de la orden
 

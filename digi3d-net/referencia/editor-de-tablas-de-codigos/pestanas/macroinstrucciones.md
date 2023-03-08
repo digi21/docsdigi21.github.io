@@ -1,6 +1,6 @@
 # Macroinstrucciones
 
-Esta pestaña permite añadir [macroinstrucciones ](macroinstrucciones.md)a la tabla de códigos.
+Esta pestaña permite añadir [macroinstrucciones](macroinstrucciones.md)a la tabla de códigos.
 
 Dispone de un listado de las macroinstrucciones que tiene la tabla de códigos. Pulsando sobre el nombre de una macroinstrucción aparecerá en la parte derecha el contenido de la macroinstrucción.
 

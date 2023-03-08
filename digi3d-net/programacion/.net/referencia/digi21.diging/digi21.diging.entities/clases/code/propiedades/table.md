@@ -1,9 +1,9 @@
 # Table
 
-Espacio de nombres: [Digi21.DigiNG.Entities](../../../)  
-Ensamblado: [Digi21.DigiNG](../../../../)
+Espacio de nombres: [Digi21.DigiNG.Entities](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/)  
+Ensamblado: [Digi21.DigiNG](/digi3d-net/programacion/.net/referencia/digi21.diging.plugin/digi21.diging/)
 
-Devuelve el valor del número de tabla en la que existen los datos de base de datos asociados con este [Code](../).
+Devuelve el valor del número de tabla en la que existen los datos de base de datos asociados con este [Code](/digi3d-net/programacion/.net/referencia/digi21.diging/digi21.diging.entities/clases/code/).
 
 ```csharp
 public int? Table { get; }

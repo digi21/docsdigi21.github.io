@@ -1,6 +1,6 @@
 # Complejos
 
-![Barra de herramientas Complejos](../../../../.gitbook/assets/Complejos.PNG)
+![Barra de herramientas Complejos](../../../.gitbook/assets/complejos.png)
 
 Permite ejecutar órdenes relacionadas con entidades complejas.
 
