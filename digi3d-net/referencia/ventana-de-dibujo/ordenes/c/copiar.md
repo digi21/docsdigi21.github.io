@@ -21,5 +21,5 @@ El programa genera una entidad igual a la original, pero aplicando en el proceso
 | Opción del menú donde aparece la orden | Editar/Copiar una entidad conservando su tamaño/orientación |
 | Barra de herramientas en la que aparece la orden | Copiar y duplicar |
 | Extensión | DigiNG.OrdenesStandard.dll |
-| Variables relacionadas | [REPITE](/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/ordenes/c/REPITE.html) |
+| Variables relacionadas | [REPITE](/digi3d-net/referencia/ventana-de-dibujo/ordenes/c/REPITE.html) |
 

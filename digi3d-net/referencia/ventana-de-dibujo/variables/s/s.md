@@ -32,7 +32,7 @@ Indica si _Digi3D.NET_ suavizará automáticamente la línea que está digitaliz
 
 ## Observaciones
 
-Al finalizar una línea \(independientemente del método utilizado para finalizarla como pulsar el botón de _Reset_, ejecutar la orden [FIN\_ENT](/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/variables/s/FIN_ENT.html) o la orden [CIERRA\_ENT](/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/variables/s/CIERRA_ENT.html)\), si está activada la variable booleana **S**, la línea se suavizará antes de ser almacenada en el archivo de dibujo.
+Al finalizar una línea \(independientemente del método utilizado para finalizarla como pulsar el botón de _Reset_, ejecutar la orden [FIN\_ENT](/digi3d-net/referencia/ventana-de-dibujo/variables/s/FIN_ENT.html) o la orden [CIERRA\_ENT](/digi3d-net/referencia/ventana-de-dibujo/variables/s/CIERRA_ENT.html)\), si está activada la variable booleana **S**, la línea se suavizará antes de ser almacenada en el archivo de dibujo.
 
 ## Características de la orden
 

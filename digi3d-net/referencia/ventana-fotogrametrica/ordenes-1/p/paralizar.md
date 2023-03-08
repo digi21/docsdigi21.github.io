@@ -9,7 +9,7 @@ No admite parámetros.
 ## Observaciones
 
 Deberás activar la vista que deseas paralizar antes de ejecutar la orden, para ello haz clic en la barra de título.  
-Esta orden es incompatible con la orden [SINCRONIZAR\_VISTAS](/digi3d-net/referencia/digi3d.net/ventana-fotogrametrica/ordenes-1/p/SINCRONIZAR_VISTAS.html), **no** podrán estar activadas al mismo tiempo.
+Esta orden es incompatible con la orden [SINCRONIZAR\_VISTAS](/digi3d-net/referencia/ventana-fotogrametrica/ordenes-1/p/SINCRONIZAR_VISTAS.html), **no** podrán estar activadas al mismo tiempo.
 
 ## Características de la orden
 

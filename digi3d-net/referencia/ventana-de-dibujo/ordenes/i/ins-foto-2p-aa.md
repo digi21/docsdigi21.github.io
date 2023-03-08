@@ -8,13 +8,13 @@ No admite parámetros.
 
 ## Observaciones
 
-Para ejecutar esta orden hace falta establecer el valor del [ángulo activo](ins-foto-2p-aa.md) \([AA](/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/ordenes/i/AA.html)\).
+Para ejecutar esta orden hace falta establecer el valor del [ángulo activo](ins-foto-2p-aa.md) \([AA](/digi3d-net/referencia/ventana-de-dibujo/ordenes/i/AA.html)\).
 
 La orden requiere la entrada de los puntos extremos que definen la diagonal del cuadrado, que podrán introducirse:
 
 * De forma gráfica, señalándolos con el cursor/ratón.
-* Por entrada de sus coordenadas desde teclado \([XY](/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/ordenes/i/XY.html)\).
-* Desde archivo \([N](/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/ordenes/i/N.html)\).
+* Por entrada de sus coordenadas desde teclado \([XY](/digi3d-net/referencia/ventana-de-dibujo/ordenes/i/XY.html)\).
+* Desde archivo \([N](/digi3d-net/referencia/ventana-de-dibujo/ordenes/i/N.html)\).
 
 ## Características de la orden
 

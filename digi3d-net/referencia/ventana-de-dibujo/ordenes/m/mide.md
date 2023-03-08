@@ -8,7 +8,7 @@ No admite parámetros.
 
 ## Observaciones
 
-Los puntos se pueden seleccionar gráficamente con el ratón, o analíticamente por coordenadas con la orden [XY](/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/ordenes/m/XY.html).
+Los puntos se pueden seleccionar gráficamente con el ratón, o analíticamente por coordenadas con la orden [XY](/digi3d-net/referencia/ventana-de-dibujo/ordenes/m/XY.html).
 
 ## Características de la orden
 

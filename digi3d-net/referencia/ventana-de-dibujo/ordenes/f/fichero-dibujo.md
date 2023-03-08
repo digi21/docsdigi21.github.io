@@ -1,6 +1,6 @@
 # FICHERO\_DIBUJO
 
-Especifica al sistema el fichero de dibujo con el cual se va a trabajar, entre los archivos de referencia cargados con la orden [CARGA\_F](/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/ordenes/f/CARGA_F.html).
+Especifica al sistema el fichero de dibujo con el cual se va a trabajar, entre los archivos de referencia cargados con la orden [CARGA\_F](/digi3d-net/referencia/ventana-de-dibujo/ordenes/f/CARGA_F.html).
 
 ## Parámetros
 

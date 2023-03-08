@@ -18,5 +18,5 @@ La orden sólo requiere que selecciones la entidad. El nuevo elemento creado se 
 | Opción del menú donde aparece la orden | Editar/Duplicar una entidad \(geometría y códigos\) |
 | Barra de herramientas en la que aparece la orden | _Esta orden no tiene asociado ningún botón en ninguna barra de herramientas_ |
 | Extensión | DigiNG.OrdenesStandard.dll |
-| Variables relacionadas | [REPITE](/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/ordenes/d/REPITE.html) |
+| Variables relacionadas | [REPITE](/digi3d-net/referencia/ventana-de-dibujo/ordenes/d/REPITE.html) |
 

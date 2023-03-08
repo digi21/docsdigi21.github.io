@@ -22,5 +22,5 @@ Puedes ejecutar la orden para todas las líneas de un determinado código.
 | Opción del menú donde aparece la orden | _Esta orden no tiene asociada ninguna opción de menú_ |
 | Barra de herramientas en la que aparece la orden | _Esta orden no tiene asociado ningún botón en ninguna barra de herramientas_ |
 | Extensión | DigiNG.OrdenesStandard.dll |
-| Variables relacionadas | [AA](/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/ordenes/d/AA.html), [REPITE](/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/ordenes/d/REPITE.html) |
+| Variables relacionadas | [AA](/digi3d-net/referencia/ventana-de-dibujo/ordenes/d/AA.html), [REPITE](/digi3d-net/referencia/ventana-de-dibujo/ordenes/d/REPITE.html) |
 

@@ -8,7 +8,7 @@ No admite parámetros.
 
 ## Observaciones
 
-Antes de ejecutar la orden debes asignar la nueva altura de texto con la orden [AT](/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/ordenes/c/AT.html).
+Antes de ejecutar la orden debes asignar la nueva altura de texto con la orden [AT](/digi3d-net/referencia/ventana-de-dibujo/ordenes/c/AT.html).
 
 ## Características de la orden
 
@@ -18,5 +18,5 @@ Antes de ejecutar la orden debes asignar la nueva altura de texto con la orden [
 | Opción del menú donde aparece la orden | Editar/Textos/Cambiar altura de texto |
 | Barra de herramientas en la que aparece la orden | Textos |
 | Extensión | DigiNG.OrdenesStandard.dll |
-| Variables relacionadas | [AT](/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/ordenes/c/AT.html), [REPITE](/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/ordenes/c/REPITE.html) |
+| Variables relacionadas | [AT](/digi3d-net/referencia/ventana-de-dibujo/ordenes/c/AT.html), [REPITE](/digi3d-net/referencia/ventana-de-dibujo/ordenes/c/REPITE.html) |
 

@@ -18,5 +18,5 @@ No admite parámetros.
 | Opción del menú donde aparece la orden | Editar/Polilíneas/Partir una polilínea con 2puntos |
 | Barra de herramientas en la que aparece la orden | Partir |
 | Extensión | DigiNG.OrdenesRaster.dll |
-| Variables relacionadas | [REPITE](/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/ordenes/c/REPITE.html) |
+| Variables relacionadas | [REPITE](/digi3d-net/referencia/ventana-de-dibujo/ordenes/c/REPITE.html) |
 

@@ -42,5 +42,5 @@ No se ha registrado ninguna observación.
 | Opción del menú donde aparece la orden | _Esta orden no tiene asociada ninguna opción del menú_ |
 | Barra de herramientas en la que aparece la orden | _Esta orden no tiene asociado ningún botón en ninguna barra de herramientas_ |
 | Extensión | DigiNG.OrdenesStandard.dll |
-| Variables relacionadas | [REPITE](/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/variables/p/REPITE.html) |
+| Variables relacionadas | [REPITE](/digi3d-net/referencia/ventana-de-dibujo/variables/p/REPITE.html) |
 

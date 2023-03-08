@@ -4,13 +4,13 @@ Rellena el interior de una entidad superficial de contorno cerrado usando una tr
 
 ## Parámetros
 
-Si no se especifica ningún parámetro, el sistema toma por defecto los valores cero y uno para [ángulo activo](/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/ordenes/s/AA.html) y [distancia activa](/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/ordenes/s/DA.html) respectivamente.
+Si no se especifica ningún parámetro, el sistema toma por defecto los valores cero y uno para [ángulo activo](/digi3d-net/referencia/ventana-de-dibujo/ordenes/s/AA.html) y [distancia activa](/digi3d-net/referencia/ventana-de-dibujo/ordenes/s/DA.html) respectivamente.
 
 ## Observaciones
 
-La disposición de los símbolos depende de los valores que tengan asignados los parámetros [ángulo activo](/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/ordenes/s/AA.html) y [distancia activa](/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/ordenes/s/DA.html).
+La disposición de los símbolos depende de los valores que tengan asignados los parámetros [ángulo activo](/digi3d-net/referencia/ventana-de-dibujo/ordenes/s/AA.html) y [distancia activa](/digi3d-net/referencia/ventana-de-dibujo/ordenes/s/DA.html).
 
-La posición de los símbolos coincidiría con las intersecciones de las rayas que se hubiesen obtenido al llamar a la orden [TRAMAR](/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/ordenes/s/TRAMAR.html), de forma que puedes distinguir dos conjuntos de símbolos.
+La posición de los símbolos coincidiría con las intersecciones de las rayas que se hubiesen obtenido al llamar a la orden [TRAMAR](/digi3d-net/referencia/ventana-de-dibujo/ordenes/s/TRAMAR.html), de forma que puedes distinguir dos conjuntos de símbolos.
 
 | Número de parámetro | Descripción | Valores | Opcional |
 | :--- | :--- | :--- | :--- |
@@ -25,5 +25,5 @@ La posición de los símbolos coincidiría con las intersecciones de las rayas q
 | Opción del menú donde aparece la orden | Dibujar/Mas/Rellenar polígono con símbolos |
 | Barra de herramientas en la que aparece la orden | _Esta orden no tiene asociado ningún botón en ninguna barra de herramientas_ |
 | Extensión | DigiNG.OrdenesStandard.dll |
-| Variables relacionadas | [AA](/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/ordenes/s/AA.html), [DA](/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/ordenes/s/DA.html), [REPITE](/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/ordenes/s/REPITE.html) |
+| Variables relacionadas | [AA](/digi3d-net/referencia/ventana-de-dibujo/ordenes/s/AA.html), [DA](/digi3d-net/referencia/ventana-de-dibujo/ordenes/s/DA.html), [REPITE](/digi3d-net/referencia/ventana-de-dibujo/ordenes/s/REPITE.html) |
 

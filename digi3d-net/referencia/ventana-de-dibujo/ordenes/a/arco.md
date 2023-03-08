@@ -8,7 +8,7 @@ No admite parámetros.
 
 ## Observaciones
 
-Los tres puntos que van a definir el arco, bien se pueden indicar de forma gráfica, o introduciendo sus coordenadas por teclado mediante la orden [XY](/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/ordenes/a/XY.html).
+Los tres puntos que van a definir el arco, bien se pueden indicar de forma gráfica, o introduciendo sus coordenadas por teclado mediante la orden [XY](/digi3d-net/referencia/ventana-de-dibujo/ordenes/a/XY.html).
 
 Si la orden se ejecuta mientras se esta dibujando una entidad, sólo hay que especificar los puntos segundo y tercero, ya que el primero se corresponde con el último registrado en la entidad.
 

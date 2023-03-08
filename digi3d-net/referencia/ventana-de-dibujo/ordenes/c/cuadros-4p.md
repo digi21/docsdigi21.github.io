@@ -24,5 +24,5 @@ El resultado gráfico final, puede ser cualquiera de los siguientes:
 | Opción del menú donde aparece la orden | Dibujar/Mas/Rejilla con 4 puntos |
 | Barra de herramientas en la que aparece la orden | Rejillas |
 | Extensión | DigiNG.OrdenesRaster.dll |
-| Variables relacionadas | [REPITE](/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/ordenes/c/REPITE.html) |
+| Variables relacionadas | [REPITE](/digi3d-net/referencia/ventana-de-dibujo/ordenes/c/REPITE.html) |
 

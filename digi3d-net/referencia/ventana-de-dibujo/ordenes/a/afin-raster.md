@@ -10,7 +10,7 @@ Para calcular la transformación AFIN, el programa necesita de al menos 3 puntos
 
 Se calcula automáticamente una orientación AFIN ajustando la imagen al rango de coordenadas máximas y mínimas en la pantalla en el momento de la carga de la imagen.
 
-Para cargar la imagen raster debemos utilizar la orden [CARGA\_RASTER](/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/ordenes/a/CARGA_RASTER.html).
+Para cargar la imagen raster debemos utilizar la orden [CARGA\_RASTER](/digi3d-net/referencia/ventana-de-dibujo/ordenes/a/CARGA_RASTER.html).
 
 ## Características de la orden
 

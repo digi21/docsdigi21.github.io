@@ -32,7 +32,7 @@ Activa la verificación por parte del usuario de la selección del tentativo.
 
 ## Observaciones
 
-Si la la orden VER está activada, al efectuar un enganche a una entidad con el botón de tentatvo, ésta se presenta en pantalla con el color asignado con la orden [COLOR\_TENTATIVO](/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/variables/v/COLOR_TENTATIVO.html), y el usuario puede verificar si la captura se realiza o no con dicha entidad.
+Si la la orden VER está activada, al efectuar un enganche a una entidad con el botón de tentatvo, ésta se presenta en pantalla con el color asignado con la orden [COLOR\_TENTATIVO](/digi3d-net/referencia/ventana-de-dibujo/variables/v/COLOR_TENTATIVO.html), y el usuario puede verificar si la captura se realiza o no con dicha entidad.
 
 Si la oren está desactivada, al intentar un enganche a una entidad con el botón de tentativo, el proceso se llevará a cabo sin pedir confirmación.
 

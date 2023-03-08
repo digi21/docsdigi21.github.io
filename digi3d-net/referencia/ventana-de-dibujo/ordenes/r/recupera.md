@@ -1,6 +1,6 @@
 # RECUPERA
 
-Permite recuperar los elementos marcados con la señal de borrado en el fichero de dibujo, debemos tener la orden [BORRADOS](/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/ordenes/r/BORRADOS.html) activada.
+Permite recuperar los elementos marcados con la señal de borrado en el fichero de dibujo, debemos tener la orden [BORRADOS](/digi3d-net/referencia/ventana-de-dibujo/ordenes/r/BORRADOS.html) activada.
 
 ## Parámetros
 
@@ -18,5 +18,5 @@ No se pueden recuperar entidades que no estén borradas.
 | Opción del menú donde aparece la orden | Editar/Recuperar las entidades seleccionadas |
 | Barra de herramientas en la que aparece la orden | Eliminar y recuperar |
 | Extensión | DigiNG.OrdenesStandard.dll |
-| Variables relacionadas | [REPITE](/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/ordenes/r/REPITE.html) |
+| Variables relacionadas | [REPITE](/digi3d-net/referencia/ventana-de-dibujo/ordenes/r/REPITE.html) |
 

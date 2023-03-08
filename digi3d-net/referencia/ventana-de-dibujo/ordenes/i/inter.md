@@ -18,5 +18,5 @@ No se han registrado observaciones para esta orden.
 | Opción del menú donde aparece la orden | Dibujar/Interpolar curvas entre dos líneas existentes |
 | Barra de herramientas en la que aparece la orden | Interpolación |
 | Extensión | DigiNG.OrdenesStandard.dll |
-| Variables relacionadas | [REPITE](/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/ordenes/i/REPITE.html) |
+| Variables relacionadas | [REPITE](/digi3d-net/referencia/ventana-de-dibujo/ordenes/i/REPITE.html) |
 

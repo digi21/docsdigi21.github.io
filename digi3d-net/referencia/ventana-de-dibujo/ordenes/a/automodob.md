@@ -8,8 +8,8 @@ No admite parámetros.
 
 ## Observaciones
 
-Antes de poder activar esta orden, hay que especificar la tabla de modo de búsqueda que se va a utilizar, mediante la orden [PARAMETROS\_AUTO\_MODOB](/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/ordenes/a/PARAMETROS_AUTO_MODOB.html).  
-Puedes activar también, el modo de búsqueda exhaustivo, que evitará que se haga tentantivo en entidades que no estén especificadas en la tabla de búsqueda. La orden para activar este modo es [AUTOMODOB\_EXHAUSTIVO](/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/ordenes/a/AUTOMODOB_EXHAUSTIVO.html).
+Antes de poder activar esta orden, hay que especificar la tabla de modo de búsqueda que se va a utilizar, mediante la orden [PARAMETROS\_AUTO\_MODOB](/digi3d-net/referencia/ventana-de-dibujo/ordenes/a/PARAMETROS_AUTO_MODOB.html).  
+Puedes activar también, el modo de búsqueda exhaustivo, que evitará que se haga tentantivo en entidades que no estén especificadas en la tabla de búsqueda. La orden para activar este modo es [AUTOMODOB\_EXHAUSTIVO](/digi3d-net/referencia/ventana-de-dibujo/ordenes/a/AUTOMODOB_EXHAUSTIVO.html).
 
 ## Características de la orden
 

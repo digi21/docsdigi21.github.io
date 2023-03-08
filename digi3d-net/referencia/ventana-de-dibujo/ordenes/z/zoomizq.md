@@ -8,7 +8,7 @@ No admite parámetros.
 
 ## Observaciones
 
-El porcentaje de solape se elige con la orden [SOLAPE](/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/ordenes/z/SOLAPE.html).
+El porcentaje de solape se elige con la orden [SOLAPE](/digi3d-net/referencia/ventana-de-dibujo/ordenes/z/SOLAPE.html).
 
 ## Características de la orden
 
@@ -18,5 +18,5 @@ El porcentaje de solape se elige con la orden [SOLAPE](/digi3d-net/referencia/di
 | Opción del menú donde aparece la orden | Zooms/Zoom izquierda |
 | Barra de herramientas en la que aparece la orden | Desplazamientos de ventana |
 | Extensión | DigiNG.OrdenesStandard.dll |
-| Variables relacionadas | [SOLAPE](/digi3d-net/referencia/digi3d.net/ventana-de-dibujo/ordenes/z/SOLAPE.html) |
+| Variables relacionadas | [SOLAPE](/digi3d-net/referencia/ventana-de-dibujo/ordenes/z/SOLAPE.html) |
 
